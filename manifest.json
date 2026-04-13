@@ -1,0 +1,4626 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-04-13 20:57:22",
+  "release_notes": [
+    "الإصدار الأول من تطبيق إدارة المطعم برو.",
+    "إدارة التلاميذ والإحصائيات.",
+    "استيراد البيانات من ملفات Excel.",
+    "نظام تسجيل الدخول الآمن."
+  ],
+  "total_files": 1153,
+  "total_size": 277950094,
+  "files": {
+    "81d243bd2c585b0f4821__mypyc.cp38-win_amd64.pyd": {
+      "hash": "7384dbebf0bcbecae768fa92d800b644604c3b593945e0e4ea12fe4736427b78",
+      "size": 199680
+    },
+    "api-ms-win-core-console-l1-1-0.dll": {
+      "hash": "a742b375fc6cb32e17c66f7e677cef59399216ac21c1384de6ec892c2b099a4d",
+      "size": 22008
+    },
+    "api-ms-win-core-datetime-l1-1-0.dll": {
+      "hash": "4e8c54b23d5c0d5b388d7c0182da2e3afc9819073640e83b753f517d5cf77aeb",
+      "size": 22016
+    },
+    "api-ms-win-core-debug-l1-1-0.dll": {
+      "hash": "29354cbe6e808ae1b1c187aafe5f2a66d8cb5b4ed7ef3f830884c7c02171305f",
+      "size": 22024
+    },
+    "api-ms-win-core-errorhandling-l1-1-0.dll": {
+      "hash": "cfce9bfbe11b534e1fc28d59efed233b7490f081380a016b45b2357b4be1f173",
+      "size": 21968
+    },
+    "api-ms-win-core-fibers-l1-1-0.dll": {
+      "hash": "7d02b9f60a652ee3496d809fb42a5779d6523aa9e574a853d9d71ca13aa0344d",
+      "size": 22024
+    },
+    "api-ms-win-core-file-l1-1-0.dll": {
+      "hash": "2ff6914e5887b3fa53cb418b5602c84b79f189e441e1e66bf42c759688d8c885",
+      "size": 26120
+    },
+    "api-ms-win-core-file-l1-2-0.dll": {
+      "hash": "98b4b6a29374e68a383bd6e4b58cd76223335d38d2586c5a494466444811b75c",
+      "size": 22016
+    },
+    "api-ms-win-core-file-l2-1-0.dll": {
+      "hash": "637e9a34044c366b9b004e62ee15aa4875e344a5a6b7634c803a40d95883d7cc",
+      "size": 22016
+    },
+    "api-ms-win-core-handle-l1-1-0.dll": {
+      "hash": "049a1b6b3fd664e5ab2bb27fc3614d8f8091a0dabd4aebc92a0804bf62a55c38",
+      "size": 21968
+    },
+    "api-ms-win-core-heap-l1-1-0.dll": {
+      "hash": "0d5db713081a8c823506739716ff483f6b68e203128b54ea3b807f9aa6fa7f49",
+      "size": 22024
+    },
+    "api-ms-win-core-interlocked-l1-1-0.dll": {
+      "hash": "73170ecc212462678605e0025d87dfad646e53edbf7c015857cfdd47dfa1138f",
+      "size": 22024
+    },
+    "api-ms-win-core-libraryloader-l1-1-0.dll": {
+      "hash": "f6445229c496e05b84092b4ae5ad765233471acdcd12460b492d499001d623bf",
+      "size": 21984
+    },
+    "api-ms-win-core-localization-l1-2-0.dll": {
+      "hash": "6ce59c2de64b6195695e8754636cbe283a7af3ddb78acf32c3879d7d09aba4b1",
+      "size": 21984
+    },
+    "api-ms-win-core-memory-l1-1-0.dll": {
+      "hash": "0b1793130550ea2e80c52cd5c28442f29364cddb063833d67b3c6d5995fd89dd",
+      "size": 22008
+    },
+    "api-ms-win-core-namedpipe-l1-1-0.dll": {
+      "hash": "218d0b5a06fb1c07249bb7388b8ff9c5d7622206c562ffc9fee21a372d1371af",
+      "size": 21984
+    },
+    "api-ms-win-core-processenvironment-l1-1-0.dll": {
+      "hash": "11dc3f718b8cd959c30d7c69af2880f728ab5640c678af7290acd554911bc9b0",
+      "size": 22016
+    },
+    "api-ms-win-core-processthreads-l1-1-0.dll": {
+      "hash": "49172aa2c8734ef8159bc6dd58a9ddf9d391f3a109254a96f48fc0d9f9eec89a",
+      "size": 21968
+    },
+    "api-ms-win-core-processthreads-l1-1-1.dll": {
+      "hash": "f5c82a141bdc7929bb3d6d4196c0e8501f4a894fd65a435f8134c073134461ac",
+      "size": 22024
+    },
+    "api-ms-win-core-profile-l1-1-0.dll": {
+      "hash": "d71ca70fcf6871ef83f8b45218edc50a2a1ee9d568b77bb69bd56fcf3ebda97b",
+      "size": 22024
+    },
+    "api-ms-win-core-rtlsupport-l1-1-0.dll": {
+      "hash": "e400bf8019dc0caf98865aea07429f8581ac5b004b9759a1c62f2d7bccbcb3a4",
+      "size": 22024
+    },
+    "api-ms-win-core-string-l1-1-0.dll": {
+      "hash": "3e35afeb848c4777e3db2b3b38b2cd8fe768feac82b18c69308fe07d65b1a602",
+      "size": 22024
+    },
+    "api-ms-win-core-synch-l1-1-0.dll": {
+      "hash": "f09a3b2d04c4ae6c1217ed073421c912eb7e0fb006441291948470e6329a4fd2",
+      "size": 22024
+    },
+    "api-ms-win-core-synch-l1-2-0.dll": {
+      "hash": "5cf8cf2b29a0fb4f3df647ccb1efcae0390e0d57bedfc37200c1577810c3716c",
+      "size": 22008
+    },
+    "api-ms-win-core-sysinfo-l1-1-0.dll": {
+      "hash": "b3b356cdca34cb5023cd8f49025e23128f1e86dd0d4865d62bc42f775f1acca8",
+      "size": 22024
+    },
+    "api-ms-win-core-timezone-l1-1-0.dll": {
+      "hash": "a202f21169cc103c019019d3cbc05c3549a8dbac6eed0ecb4e5281e36f028a26",
+      "size": 22024
+    },
+    "api-ms-win-core-util-l1-1-0.dll": {
+      "hash": "01cbe35a9513dd5c499179a31dbae86a4f37a510bba7a7cc484f23559b252067",
+      "size": 22024
+    },
+    "api-ms-win-crt-conio-l1-1-0.dll": {
+      "hash": "ea8ad551e8944389ce502cb8d5f979d243af7784ce7382fa18a04a9de2f7b2d1",
+      "size": 22008
+    },
+    "api-ms-win-crt-convert-l1-1-0.dll": {
+      "hash": "eb41bf23e10405efcad8bb3eb8972f431394113324717386362ac6406a5c6d75",
+      "size": 26120
+    },
+    "api-ms-win-crt-environment-l1-1-0.dll": {
+      "hash": "294bca6dcb6455e9027b527aae42ed5aa04d5ae769cb897cb36a150b40a6fa26",
+      "size": 22024
+    },
+    "api-ms-win-crt-filesystem-l1-1-0.dll": {
+      "hash": "a60dbd92bc1e1e06035d6aeef821d71dd06de7e15b5536110048233dd523a9a2",
+      "size": 21984
+    },
+    "api-ms-win-crt-heap-l1-1-0.dll": {
+      "hash": "20ce58e1990ac2f726466e234e6a6ef4dfae97f8cb1571a0a4b1bd74df87dfdd",
+      "size": 22024
+    },
+    "api-ms-win-crt-locale-l1-1-0.dll": {
+      "hash": "fe617cc8748560a1e12e58559fdf192c5888babff4ae62e386617293d5fc20b0",
+      "size": 22024
+    },
+    "api-ms-win-crt-math-l1-1-0.dll": {
+      "hash": "655965eca578ae6b0afedd0ce2a424a3f6e9b3e624dd0d55ce67bc7df75b3b6b",
+      "size": 30160
+    },
+    "api-ms-win-crt-multibyte-l1-1-0.dll": {
+      "hash": "ba576980f8a3a8fd4c81c5f845fff71d61c1d1ef23f6a2a30e049b76e15a710e",
+      "size": 30216
+    },
+    "api-ms-win-crt-private-l1-1-0.dll": {
+      "hash": "d9acda540d678213d5d1756a8717a78b2ac905f61127a815796f44dde0908f92",
+      "size": 75264
+    },
+    "api-ms-win-crt-process-l1-1-0.dll": {
+      "hash": "2292e2b873f90645e2d6e94e83c748f301773a2c12c3824e80581aefd869cc9c",
+      "size": 21968
+    },
+    "api-ms-win-crt-runtime-l1-1-0.dll": {
+      "hash": "84ce7e29868776de9939938d5c3091736669ebad4f063f5e83df0299b474e5ed",
+      "size": 26120
+    },
+    "api-ms-win-crt-stdio-l1-1-0.dll": {
+      "hash": "acd08d06dfc981071142a851913e55aa253926c12b5b9d73649b832a4bfd0dd9",
+      "size": 26120
+    },
+    "api-ms-win-crt-string-l1-1-0.dll": {
+      "hash": "db897e58b7d327a059db263af2f1be1eff58176e3bcdb82aa801e2d69fd2293c",
+      "size": 26080
+    },
+    "api-ms-win-crt-time-l1-1-0.dll": {
+      "hash": "44705d9b3271d9db307f92c7c2764a98db5819e670897dbfc95beb386a1840bb",
+      "size": 22024
+    },
+    "api-ms-win-crt-utility-l1-1-0.dll": {
+      "hash": "fe4c586d1fc06d9012b2fc9c34aa72b219a939dbb2d9f034763465a7de24fff2",
+      "size": 22024
+    },
+    "base_library.zip": {
+      "hash": "4fcfc2edcde1fd031db87a07459d8fc0f02a5c413024268a0968f71b4b280ee6",
+      "size": 1033057
+    },
+    "CanteenDesktop.exe": {
+      "hash": "dac39592a349b5a72057d7707686ea4d0a5a83af31e810c6ccf8be6ee3320b51",
+      "size": 13732987
+    },
+    "libcrypto-1_1-x64.dll": {
+      "hash": "b9a553ea944e2a8f2bb9f5e4d5fe2771b433e65408f0bb7ce55d8abef94e23e2",
+      "size": 4084224
+    },
+    "libffi-8.dll": {
+      "hash": "60884095fa052fc3e9ec510040007aaf0831b83a04a1320dfa2b3eaf390c1e2a",
+      "size": 27648
+    },
+    "libopenblas64__v0.3.21-gcc_10_3_0.dll": {
+      "hash": "14c543c418e719d8d193ff890c1afeacfedf5749583bcd079812183e7d904aab",
+      "size": 35875883
+    },
+    "libssl-1_1-x64.dll": {
+      "hash": "4a6ef47ffb1f0dd80e20ec0bfa49d0dae509d002697bbd8cdd0fa76e634f4b5b",
+      "size": 839680
+    },
+    "pyexpat.pyd": {
+      "hash": "c7a5bd4f178ec876737ae27975ae482800891cffed7e3fcd68bb04b9a1214931",
+      "size": 199168
+    },
+    "python3.dll": {
+      "hash": "31be2410c68f796c3172862c82b859c8cd3d23e74c45301e793adc07058223c6",
+      "size": 51712
+    },
+    "python38.dll": {
+      "hash": "a4788c025850745db5f8c76a8f394fa2e0c7e78ee1c0e069094e181010cdd321",
+      "size": 4229120
+    },
+    "select.pyd": {
+      "hash": "e8d41c9e65af0ad8b351828e13762c340b69cd2a6ca1a8605aa645a923c2a888",
+      "size": 20480
+    },
+    "sqlite3.dll": {
+      "hash": "09c5e06514f5db2277537daae4b9efed097d0ea8c9ab41f031caa5fea8bf9e1c",
+      "size": 1662464
+    },
+    "ucrtbase.dll": {
+      "hash": "048d4c5a51e45777ba15facdaddbf7702594a2268e8de1768ab0f5f4e4d7e733",
+      "size": 1123808
+    },
+    "unicodedata.pyd": {
+      "hash": "ac72f2a227c54f4913f87533134935e3036c50b35b12d6d0a23e5c94fb7a0971",
+      "size": 1089536
+    },
+    "updater.exe": {
+      "hash": "5c3bdd377b5af41e50975d87928d796f345ddea311d9a16907a9a7c2dc5fb3c7",
+      "size": 47383898
+    },
+    "VCRUNTIME140.dll": {
+      "hash": "3ea53d61f2c5a96bfaa6722b271bcfca84b1f3fb1020c5d081e12762eb3797ce",
+      "size": 88064
+    },
+    "VCRUNTIME140_1.dll": {
+      "hash": "03fd6ba760bb3e85f55c9ce707ae11d3a25cb1487c987c6c1f8d3262c9875acf",
+      "size": 28160
+    },
+    "_asyncio.pyd": {
+      "hash": "915769e8fc3656e90378db454ed8515550cd31bbcc69407e8f67002d15423d3b",
+      "size": 56832
+    },
+    "_bz2.pyd": {
+      "hash": "a5527c343b9b21a4265311a915b73cc0824c9cbabc7dec98209808b4691e8290",
+      "size": 79360
+    },
+    "_cffi_backend.cp38-win_amd64.pyd": {
+      "hash": "efaeb325ed9c318919d73c7d11db3165a7398568047f702c6707b3b154a10a7e",
+      "size": 177664
+    },
+    "_ctypes.pyd": {
+      "hash": "423c8edcb9b6708ea804ea17d76212173b387c7db08fd5b8715c8f336a463381",
+      "size": 126976
+    },
+    "_decimal.pyd": {
+      "hash": "29f58a3ab4cbda0e17b4e061e94672a89509c6d31b4a8766f02324732acfceb9",
+      "size": 261632
+    },
+    "_elementtree.pyd": {
+      "hash": "f64bcc362d6fdab207da85a4f09d34511fd1c4151c67122333a26ab8f1e70185",
+      "size": 184320
+    },
+    "_hashlib.pyd": {
+      "hash": "0a04750152ece055a067cc3d61ac42ff3ad03b3eca8764107d5d814f17e8d46a",
+      "size": 39424
+    },
+    "_lzma.pyd": {
+      "hash": "81c20f8f00b1011c2651db41b1bafd86dcf246294dc989275775d3d0bff519f0",
+      "size": 157184
+    },
+    "_multiprocessing.pyd": {
+      "hash": "6788c4f6c920e8ebdb354cb16e4b184e6ad4e8f20a807c3cf71d62af1cd54ea0",
+      "size": 23552
+    },
+    "_overlapped.pyd": {
+      "hash": "f1893f5ab78f27c6c23c80285a1907c8f273276733a9d42f1054dea3bb50378b",
+      "size": 39424
+    },
+    "_queue.pyd": {
+      "hash": "759584ecc0b2a5b14f7d915c78c0201740a3860d2f07f29a5796a0042e5b784e",
+      "size": 22016
+    },
+    "_socket.pyd": {
+      "hash": "d8851c29f3d5410ad2149feb0272003f0a6d3219d6f86a469d7e360f9cdbb599",
+      "size": 72704
+    },
+    "_sqlite3.pyd": {
+      "hash": "51098c7a333baf9d949813f6d1344ca8aac9d4eeb7ae679a84c0caf139787966",
+      "size": 82432
+    },
+    "_ssl.pyd": {
+      "hash": "740d0777a42f919f215cc1d776c761d919b4a6ce563547b3344d650eb449c32e",
+      "size": 148992
+    },
+    "assets/Amiri-Regular.ttf": {
+      "hash": "d0c7df005eff037b7ecf9664aec62cb3f6eedf17e19ca92087ee3b4b1a2252ed",
+      "size": 611080
+    },
+    "assets/app_icon.ico": {
+      "hash": "1ae9c473e382ad08d8c49424768af50c444db362d1abd0ccba2730e7ff5246d9",
+      "size": 14179
+    },
+    "bidi/bidi.cp38-win_amd64.pyd": {
+      "hash": "13d0c6e50a036c4888f0d04d498ba91a6afc743c4ca444a92cebd6424cdf8a78",
+      "size": 277504
+    },
+    "certifi/cacert.pem": {
+      "hash": "fc9165a12403263e7ebfbdad7be7a3eac0fa5d325d3c70465f28d3690072ca28",
+      "size": 272441
+    },
+    "certifi/py.typed": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "charset_normalizer/cd.cp38-win_amd64.pyd": {
+      "hash": "b4836732d7bd632813704a20a61cc59d4a8913a06e82eec18360e3f0e419bc9f",
+      "size": 10752
+    },
+    "charset_normalizer/md.cp38-win_amd64.pyd": {
+      "hash": "f53bd6144fbab25303c3c758b29636832d7d3b9673151b09b709a8ea9c42d874",
+      "size": 10752
+    },
+    "contourpy/_contourpy.cp38-win_amd64.pyd": {
+      "hash": "f41699aac7f71748b5e7115f6d92e82f84c3b1d0c78077962c1bef826d519ec2",
+      "size": 389120
+    },
+    "cryptography/hazmat/bindings/_rust.pyd": {
+      "hash": "dd91ff673d7d423ab6abc4e22bc33898af80897e734e74e37ba412a5e68567f4",
+      "size": 9064960
+    },
+    "cryptography-46.0.7.dist-info/INSTALLER": {
+      "hash": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4
+    },
+    "cryptography-46.0.7.dist-info/METADATA": {
+      "hash": "cd6e7fad3b9e42368313d459aa4914bd59f39893828145a00219fbc61c75cff1",
+      "size": 5748
+    },
+    "cryptography-46.0.7.dist-info/RECORD": {
+      "hash": "d40a81c9b838aa62fd9370a9d49754dfe677cc0a8d4d2f2d044db300b8d3b9ea",
+      "size": 15995
+    },
+    "cryptography-46.0.7.dist-info/WHEEL": {
+      "hash": "edb7e5e6fd306d585765b6bad77834c7e9f6a1b34d7e942e37c235710e28694f",
+      "size": 94
+    },
+    "cryptography-46.0.7.dist-info/licenses/LICENSE": {
+      "hash": "3e0c7c091a948b82533ba98fd7cbb40432d6f1a9acbf85f5922d2f99a93ae6bb",
+      "size": 197
+    },
+    "cryptography-46.0.7.dist-info/licenses/LICENSE.APACHE": {
+      "hash": "aac73b3148f6d1d7111dbca32099f68d26c644c6813ae1e4f05f6579aa2663fe",
+      "size": 11360
+    },
+    "cryptography-46.0.7.dist-info/licenses/LICENSE.BSD": {
+      "hash": "602c4c7482de6479dd2e9793cda275e5e63d773dacd1eca689232ab7008fb4fb",
+      "size": 1532
+    },
+    "dateutil/zoneinfo/dateutil-zoneinfo.tar.gz": {
+      "hash": "d3ea52e7b6e968de0d884df1288193596fa95b803db4f92a18279a7398004475",
+      "size": 156400
+    },
+    "fontTools/misc/bezierTools.cp38-win_amd64.pyd": {
+      "hash": "0af066937162d0c52ef103999947c8818e0774e54c2e3d3458ff29d001891620",
+      "size": 384512
+    },
+    "fontTools/varLib/iup.cp38-win_amd64.pyd": {
+      "hash": "d988a72ba4770204703f76ec52958a05d4cedef803d8ceb50e72ac6d2803b43d",
+      "size": 138240
+    },
+    "google/_upb/_message.cp38-win_amd64.pyd": {
+      "hash": "1ab422b4b5d4dba20655b09c308738492d365364a6941245293a80e28843292f",
+      "size": 713133
+    },
+    "google_api_core-2.29.0.dist-info/INSTALLER": {
+      "hash": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4
+    },
+    "google_api_core-2.29.0.dist-info/METADATA": {
+      "hash": "41a8582224c9adcec1c6c030bcfa5dca9d75fd82abebb81d5e42b123c600b816",
+      "size": 3296
+    },
+    "google_api_core-2.29.0.dist-info/RECORD": {
+      "hash": "61f9b56100deff0dfb2e81f2635d50e4c9e7f3c1e55f826fb99139ed372011b4",
+      "size": 10824
+    },
+    "google_api_core-2.29.0.dist-info/top_level.txt": {
+      "hash": "ff542f48922114019fc5befd0fa0e107b494c365fa4f8af09f3fcb2eb6dc0f77",
+      "size": 7
+    },
+    "google_api_core-2.29.0.dist-info/WHEEL": {
+      "hash": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+      "size": 91
+    },
+    "google_api_core-2.29.0.dist-info/licenses/LICENSE": {
+      "hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358
+    },
+    "grpc/_cython/cygrpc.cp38-win_amd64.pyd": {
+      "hash": "29694573baab984f15d14c9d6ef9e46f31e377de48c54eaa3314a8f976d01d65",
+      "size": 9312768
+    },
+    "grpc/_cython/_credentials/roots.pem": {
+      "hash": "890af1e9222a5a76b0c0beec4c570aa32d1ad592088fcf5610de95478a8de638",
+      "size": 268777
+    },
+    "h2-4.1.0.dist-info/INSTALLER": {
+      "hash": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4
+    },
+    "h2-4.1.0.dist-info/LICENSE": {
+      "hash": "7a65a5af0cbabf1c16251c7c6b2b7cb46d16a7222e79975b9b61fcd66a2e3f28",
+      "size": 1102
+    },
+    "h2-4.1.0.dist-info/METADATA": {
+      "hash": "c504eaa29585f6bdd95644fec420c7016599401de0ff3caa80ac429748a847a4",
+      "size": 3583
+    },
+    "h2-4.1.0.dist-info/RECORD": {
+      "hash": "40f721335376c6da3f6e160d40d0bcee93d3bb89a8fe21bdbb97c6846d53411e",
+      "size": 1705
+    },
+    "h2-4.1.0.dist-info/top_level.txt": {
+      "hash": "1e2ba5c7c2b12368c550cd5d1bbf8265e4643b78f9d0c07008b1b7e95aeafa42",
+      "size": 3
+    },
+    "h2-4.1.0.dist-info/WHEEL": {
+      "hash": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+      "size": 92
+    },
+    "importlib_metadata-8.5.0.dist-info/INSTALLER": {
+      "hash": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4
+    },
+    "importlib_metadata-8.5.0.dist-info/LICENSE": {
+      "hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358
+    },
+    "importlib_metadata-8.5.0.dist-info/METADATA": {
+      "hash": "1d78a40e966eb78ad8d83e19ba10315e72d40dbf9ffd73ff0b2a7d898985e06d",
+      "size": 4775
+    },
+    "importlib_metadata-8.5.0.dist-info/RECORD": {
+      "hash": "4a932857fdac0414c8f455bb335813e568678b6251136d16817c1bbecb9a122c",
+      "size": 2407
+    },
+    "importlib_metadata-8.5.0.dist-info/top_level.txt": {
+      "hash": "08eddf0fdcb29403625e4acca38a872d5fe6a972f6b02e4914a82dd725804fe0",
+      "size": 19
+    },
+    "importlib_metadata-8.5.0.dist-info/WHEEL": {
+      "hash": "715c5c07d026b93717aa6c2bb4f84d2bcf1dafb211fdbeaa6a04e3d14bc811b6",
+      "size": 91
+    },
+    "kiwisolver/_cext.cp38-win_amd64.pyd": {
+      "hash": "1e47d90f58557a6ad1eafdea02128d6a374112e00ab96ceb79192475c0760225",
+      "size": 110592
+    },
+    "matplotlib/ft2font.cp38-win_amd64.pyd": {
+      "hash": "0f7732e83ebffc05dc41f9ed8e1ae909b5ca8c55c436fd86b9db2b1e8eff6dbf",
+      "size": 605184
+    },
+    "matplotlib/_c_internal_utils.cp38-win_amd64.pyd": {
+      "hash": "5fb50757256e8182d1b643d9a9f028a28ea0fa22a5292883125f25136cb1edbe",
+      "size": 13824
+    },
+    "matplotlib/_image.cp38-win_amd64.pyd": {
+      "hash": "42b0a97ae97025206cc4b6873bee7232cf37c138e98cb9a45a8e1d55c8e539ba",
+      "size": 142848
+    },
+    "matplotlib/_path.cp38-win_amd64.pyd": {
+      "hash": "7c3bb4d0afcf8ce8766d51a27d8385f5e76db8285c3c2d78c9c963a38b29c524",
+      "size": 141824
+    },
+    "matplotlib/_qhull.cp38-win_amd64.pyd": {
+      "hash": "7e4f4e85a8768765f238dd1ec021da1eae4c06011dcaafaa8cc0e7e38f6cdf1b",
+      "size": 450048
+    },
+    "matplotlib/_tri.cp38-win_amd64.pyd": {
+      "hash": "b45e1a78592da65026b7ac28ad40469ef4dedfc08e95f5b80421b58ee832e2f1",
+      "size": 209920
+    },
+    "matplotlib/backends/_backend_agg.cp38-win_amd64.pyd": {
+      "hash": "85f5916fc006986d18342e893270e5d49bedde5bc67a1976fded04b1b42ee18d",
+      "size": 197120
+    },
+    "matplotlib/mpl-data/kpsewhich.lua": {
+      "hash": "df89dbd399acd4d3e40692a85eb849ada18ed7eac94a9086188363aa3e9c878a",
+      "size": 142
+    },
+    "matplotlib/mpl-data/matplotlibrc": {
+      "hash": "a86a009613d9246002e9ad0c94c2a24c8b5248873c179fb6109ce9be1c408d9b",
+      "size": 42626
+    },
+    "matplotlib/mpl-data/fonts/afm/cmex10.afm": {
+      "hash": "cdd0edb72caa43a01ae403155a8c2935680492c4d7e4a50016a52314c4c18947",
+      "size": 12290
+    },
+    "matplotlib/mpl-data/fonts/afm/cmmi10.afm": {
+      "hash": "742abe4160bd565e1699c0fd20e8be08c301faf9958fc5414ce252db4383302d",
+      "size": 10742
+    },
+    "matplotlib/mpl-data/fonts/afm/cmr10.afm": {
+      "hash": "6c66fa5c04be1f8f2f87ebe6beb17494cba73f573e446341dd4ce6d409bdbdec",
+      "size": 10444
+    },
+    "matplotlib/mpl-data/fonts/afm/cmsy10.afm": {
+      "hash": "971851d028dc4d5c4ab10e063def32a42e0375809b9f98f821796ad904c07033",
+      "size": 8490
+    },
+    "matplotlib/mpl-data/fonts/afm/cmtt10.afm": {
+      "hash": "905cc1434597d06641b2cd2397f328809ed9bc408213c3272e95f9f081515055",
+      "size": 6657
+    },
+    "matplotlib/mpl-data/fonts/afm/pagd8a.afm": {
+      "hash": "ffef35f8ae0819c9c45d998eaa420cc8be3680145cc4c12e93c37ca270ed2c83",
+      "size": 17759
+    },
+    "matplotlib/mpl-data/fonts/afm/pagdo8a.afm": {
+      "hash": "1abb1b4623787eea0f2be4a268c9e09e68b92b2642fe73857ff2d8164fcbbb18",
+      "size": 17831
+    },
+    "matplotlib/mpl-data/fonts/afm/pagk8a.afm": {
+      "hash": "163cfe394cc4f6a07e302a2c0ee52b06732af015e695dc7a8ffce08f698a7359",
+      "size": 17814
+    },
+    "matplotlib/mpl-data/fonts/afm/pagko8a.afm": {
+      "hash": "a52ef5e9a970eb2b666184919f3ea13ef6f50593e5ab76948958891586a0b079",
+      "size": 17919
+    },
+    "matplotlib/mpl-data/fonts/afm/pbkd8a.afm": {
+      "hash": "58e256e619c49f0050190b15c6d7572363c9d66f2ac05fb10b89fa683dfe8512",
+      "size": 15572
+    },
+    "matplotlib/mpl-data/fonts/afm/pbkdi8a.afm": {
+      "hash": "e83d9246171873e6a9abf42aeb66e3fc5c14fee1f120ad3d4edff08d24894bb7",
+      "size": 15695
+    },
+    "matplotlib/mpl-data/fonts/afm/pbkl8a.afm": {
+      "hash": "fd926e1412a8cfbd04f92065846e136fd62ac66dc8e83fa300ba72f91faf71ec",
+      "size": 15407
+    },
+    "matplotlib/mpl-data/fonts/afm/pbkli8a.afm": {
+      "hash": "d7fe9be7960f0d793d6b74549cdbe36bbcb6891dcfe812a787a0ef90f9d9e690",
+      "size": 15591
+    },
+    "matplotlib/mpl-data/fonts/afm/pcrb8a.afm": {
+      "hash": "e420c97b7b7bd5a339aa29c361213cb2f5a173a463b5e64f36c94ebcd569f0d0",
+      "size": 15696
+    },
+    "matplotlib/mpl-data/fonts/afm/pcrbo8a.afm": {
+      "hash": "8cd7db6c11dfc2fbb4460971b8b7ae8752b5d0a584923d65115251fe15d04961",
+      "size": 15766
+    },
+    "matplotlib/mpl-data/fonts/afm/pcrr8a.afm": {
+      "hash": "1f1e17f646ec466fd2ddea3d58b8ee390cee3a67991cedf76faba10d3b07d4d4",
+      "size": 15683
+    },
+    "matplotlib/mpl-data/fonts/afm/pcrro8a.afm": {
+      "hash": "0cbac19b888ebe30a92819f20bbc8600ee1f748bd15023b4b95fe4422cbd55f4",
+      "size": 15787
+    },
+    "matplotlib/mpl-data/fonts/afm/phvb8a.afm": {
+      "hash": "3d1ff26ebd87571e9a397551cdaedafb6e7902d184c83c23fe90bfc4ad551f5a",
+      "size": 17725
+    },
+    "matplotlib/mpl-data/fonts/afm/phvb8an.afm": {
+      "hash": "a451dd8d1804a0ac719a57f53dc4dcfb71f2ce1d45cf3d977b603c2b34f726e0",
+      "size": 17656
+    },
+    "matplotlib/mpl-data/fonts/afm/phvbo8a.afm": {
+      "hash": "e2870c6e77d663177e621a736d63c34730dd7240512251073d97c03911626994",
+      "size": 17800
+    },
+    "matplotlib/mpl-data/fonts/afm/phvbo8an.afm": {
+      "hash": "70e01e8564146cb02d7e17168d381973c68bbcaa3f716a26d0976a98a0cfb13a",
+      "size": 17765
+    },
+    "matplotlib/mpl-data/fonts/afm/phvl8a.afm": {
+      "hash": "413a8953871556d6ef661a865c500c44dc99c6526d9aae8713a5086e1eaf2d81",
+      "size": 16072
+    },
+    "matplotlib/mpl-data/fonts/afm/phvlo8a.afm": {
+      "hash": "7c011dd86450cda9a79dd070e0045690934a2018265b6e09be8e306435153d18",
+      "size": 16174
+    },
+    "matplotlib/mpl-data/fonts/afm/phvr8a.afm": {
+      "hash": "ec6ea0364d74cec6ffc24436aa8bff4ae20cb6ca4d69f006a69150f55fbb166a",
+      "size": 18451
+    },
+    "matplotlib/mpl-data/fonts/afm/phvr8an.afm": {
+      "hash": "f530964604720a0a70a4a885f7c8f5d21abd9878dd1afd3d694f7a99c81fc769",
+      "size": 18393
+    },
+    "matplotlib/mpl-data/fonts/afm/phvro8a.afm": {
+      "hash": "f5e5d6f2db093bef22c3df0709df47eec21b1b97777d0fa2939f975d73249bef",
+      "size": 18531
+    },
+    "matplotlib/mpl-data/fonts/afm/phvro8an.afm": {
+      "hash": "460af853e80286031c594e55c853303e0da01970790fd0e1adbb58b566fb8d21",
+      "size": 18489
+    },
+    "matplotlib/mpl-data/fonts/afm/pncb8a.afm": {
+      "hash": "6407d847a8036684e33f0d57f4229700a85d199ce04a50df766c4520068d30fd",
+      "size": 16500
+    },
+    "matplotlib/mpl-data/fonts/afm/pncbi8a.afm": {
+      "hash": "87a8085a114a8776a250cb80e103c228ddfd8dad422560e76a0cfeacb2567890",
+      "size": 18098
+    },
+    "matplotlib/mpl-data/fonts/afm/pncr8a.afm": {
+      "hash": "c2aa61bffefea08103ac687342ca720de143d3b8f302ce6e6926cb9eb679dead",
+      "size": 17189
+    },
+    "matplotlib/mpl-data/fonts/afm/pncri8a.afm": {
+      "hash": "9976445aafa94e0b0e1bcfcdc79179d83305f1107add1cc054e9c7dd071158fa",
+      "size": 17456
+    },
+    "matplotlib/mpl-data/fonts/afm/pplb8a.afm": {
+      "hash": "61df0cfaa5c47a6c95b01b78398eef298aabed873f29f4676f6139d398a3dd3b",
+      "size": 16096
+    },
+    "matplotlib/mpl-data/fonts/afm/pplbi8a.afm": {
+      "hash": "04b45e5224923afa22693ca62bc870a96091da7757251d94d85014d982958603",
+      "size": 16251
+    },
+    "matplotlib/mpl-data/fonts/afm/pplr8a.afm": {
+      "hash": "39d33b9a9fbe1df1567e9f48c28946a2f8ae1e986801334597cf0e1b7877530f",
+      "size": 16197
+    },
+    "matplotlib/mpl-data/fonts/afm/pplri8a.afm": {
+      "hash": "9f4fefa3e242f2fa0ae85287be7642ca0cecbd37cd965411c9adcbd1db534596",
+      "size": 16172
+    },
+    "matplotlib/mpl-data/fonts/afm/psyr.afm": {
+      "hash": "1c8b6906a0a9a4629a2da2d47628d3677d63cd4575dd4544a2161550f4a4d4a7",
+      "size": 9853
+    },
+    "matplotlib/mpl-data/fonts/afm/ptmb8a.afm": {
+      "hash": "b5df1520d0f0ffbfd7dd4e9d1cb70dc53fbfdb053f0aa6934a7b525baf7af8cf",
+      "size": 18631
+    },
+    "matplotlib/mpl-data/fonts/afm/ptmbi8a.afm": {
+      "hash": "65b2b51f6f31c48c1c6464aa191ea256da4cad9d792d137539f54ba6dd72899f",
+      "size": 18718
+    },
+    "matplotlib/mpl-data/fonts/afm/ptmr8a.afm": {
+      "hash": "9700e22c5f11909e3a468545634a8443d27f879e1c40717a302471dde84b1bf6",
+      "size": 18590
+    },
+    "matplotlib/mpl-data/fonts/afm/ptmri8a.afm": {
+      "hash": "ad8373d3ce043ee0a075b65c22fb9a5c0efba33839b0e8261998f0a45cc318a4",
+      "size": 18716
+    },
+    "matplotlib/mpl-data/fonts/afm/putb8a.afm": {
+      "hash": "449bae873afe772a1c28c5f8a600bd5282b722f7b66e75ad93be0ecb1ed904f9",
+      "size": 22537
+    },
+    "matplotlib/mpl-data/fonts/afm/putbi8a.afm": {
+      "hash": "d60c909275eaa62566c8aadc46199e9d226b3f4928b7987ce07996b434372de8",
+      "size": 22948
+    },
+    "matplotlib/mpl-data/fonts/afm/putr8a.afm": {
+      "hash": "63fbfded924a44f7cf236705b85b2d06d07145b01fdc02be84760356cc0cb5d0",
+      "size": 23177
+    },
+    "matplotlib/mpl-data/fonts/afm/putri8a.afm": {
+      "hash": "1f1bb681256957ddf328ee9e72ab59489647432135c61c1c52787e449f1360fa",
+      "size": 22899
+    },
+    "matplotlib/mpl-data/fonts/afm/pzcmi8a.afm": {
+      "hash": "061ccb72877cfa755dd8c59e66c3bf1a86545eca383a1424b486767bbb71258f",
+      "size": 16730
+    },
+    "matplotlib/mpl-data/fonts/afm/pzdr.afm": {
+      "hash": "6bbf8d8124d21326a4b6cf3887e8572eb6d1af1985871aff351e756e138b6584",
+      "size": 9689
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm": {
+      "hash": "ad0150d4bedcc8877742bf94251fcec13e348dd599d4603f679d92027d1e6e99",
+      "size": 15675
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm": {
+      "hash": "cb82e69ef5f6d421e8f404fe00bb0d993425aae79725331d0ebf847e94e97e92",
+      "size": 15741
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm": {
+      "hash": "b27103b2a2ef6030c110626597e2ab47bb8279075a039ab9170facb0aa1f70e1",
+      "size": 15783
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm": {
+      "hash": "521e0d7c7521efd4be78a5a9c5398e4c67d0771e396115b0346bc4ef74ada53d",
+      "size": 15677
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm": {
+      "hash": "b880d96baf56d0cc059f258f60b4d764ef49b555ab9db294b959c0016dee41f2",
+      "size": 72096
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm": {
+      "hash": "69984a35ca26973a39f261cf83e0d367ea2e6517c590b0b030d4d4a219d9c269",
+      "size": 72192
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm": {
+      "hash": "b4609b71b660a392ac09df35060271a876c2ce66617dd83bf826f742bb9d9721",
+      "size": 77443
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm": {
+      "hash": "da33f1870474c8e68bfe3e2353ff107ab6c6eea1f9836ce2aaf1e1a07b17982f",
+      "size": 77343
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/readme.txt": {
+      "hash": "c90d620fde38d533cfbb9faffb89e783ad80516a4e3f05b533f3687984f01984",
+      "size": 843
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm": {
+      "hash": "3d2128a820375a10de9bc8bf6cfb15ded482c01ca0f95cc0b3277f37ec8bde66",
+      "size": 9953
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm": {
+      "hash": "b4a000ed85cb22c6cdd985aa0fd3f6f78ed5079b7c6860dc4f0234e0d0e3c522",
+      "size": 66839
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm": {
+      "hash": "93c4744ba955215de02c4aae0b777133442ada2f7ab5a2af30a040b792b3c55d",
+      "size": 62026
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm": {
+      "hash": "ed37fa2e6a67b5b17dfd47f36fc7e90df32891a4408860dbc8d4cbbe9959e242",
+      "size": 68995
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm": {
+      "hash": "768e1cabea085d489a63da3e80b96bc5abf0ec98d3073c9b4d6ba76e7bccba64",
+      "size": 62879
+    },
+    "matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm": {
+      "hash": "a32565c90afd1b57a7008fc567b78d95cf1c22adff5e086094d666d88b039859",
+      "size": 9752
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmb10.ttf": {
+      "hash": "074497b50c43ea57597181591f9893d38fc12a87e95104f5657fc2481f61a23a",
+      "size": 25680
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmex10.ttf": {
+      "hash": "af28f0c170723ac776a71bfa595aca09e98d15ae5c3d54ce19afd5619c96a905",
+      "size": 21092
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmmi10.ttf": {
+      "hash": "3092965b8811fd6a6765799664845181fc1dd1330b937f915808c485d316234d",
+      "size": 32560
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmr10.ttf": {
+      "hash": "4dd9761b058c009db9b2145f55ee6617d093c273dd3d6c5b3e43ff6110fa9bf6",
+      "size": 26348
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmss10.ttf": {
+      "hash": "7df91a83d05b2e471ec638cb0b435a360a3c792b09fc42a7da67e91f2e79115a",
+      "size": 20376
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmsy10.ttf": {
+      "hash": "bb226ed932f3f100cd0e52f5e4912ee553b41b69e7bfdb8d3854db0eb6605232",
+      "size": 29396
+    },
+    "matplotlib/mpl-data/fonts/ttf/cmtt10.ttf": {
+      "hash": "6211f09ae93599991afda970c24669dad1a77e253d915624fbf212f702f071d7",
+      "size": 28136
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf": {
+      "hash": "b184b89e3c1075f22f6b71575b6fc20d4972b3cfd3b23322ca6fd596dcaef167",
+      "size": 704128
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf": {
+      "hash": "6edf0283160186af451cbee71e7b845f2e4cabf264bb992ce668c83c25465e6f",
+      "size": 641720
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf": {
+      "hash": "ccdf74b350f11fd3dd5774de50e5e6346a1a5da1f5b7d5fb83590665e97a5213",
+      "size": 633840
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf": {
+      "hash": "3fdf69cabf06049ea70a00b5919340e2ce1e6d02b0cc3c4b44fb6801bd1e0d22",
+      "size": 756072
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf": {
+      "hash": "82099dcfba5aa868cdfc27451989525fe3292f737fb3c9e0328ce9cef59652f6",
+      "size": 25712
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf": {
+      "hash": "baada9a5172fe20886251aff0433fc38461912d5daf07287e7bee56620a8da96",
+      "size": 331536
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf": {
+      "hash": "a69081c15c76c827e0a27a5a7f5c74b6135c843499955495ffa8c20d3a98288b",
+      "size": 253116
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf": {
+      "hash": "28052813f7a709fc89f52d192dc995ef4f0fdc5c3d7b73a49d6849b1916d0cd0",
+      "size": 251472
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf": {
+      "hash": "602ec86b8948cfcd956482fe64f94c36c867770149ef2f791d4613f443bcecb3",
+      "size": 340240
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf": {
+      "hash": "c3753f2ed6bc673f15846dc45addbeb3b9c872f32fb18fd53a21f1bef1ed7676",
+      "size": 355692
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf": {
+      "hash": "d93efec7a9d2e826768d1a2ee95b95870e15e29599a84f3484af1de1cec2e181",
+      "size": 347064
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf": {
+      "hash": "3e7994fbc54fa10ce3352a42d548fadd7d9cadb69cb1109bc9d960f6dac57f04",
+      "size": 345612
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf": {
+      "hash": "107244956e9962b9e96faccdc551825e0ae0898ae13737133e1b921a2fd35ffa",
+      "size": 379740
+    },
+    "matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf": {
+      "hash": "2914f32e47c777c27be5677afae7db4de79f9e45de6fc9097d9949c23c14f7d5",
+      "size": 14300
+    },
+    "matplotlib/mpl-data/fonts/ttf/LICENSE_DEJAVU": {
+      "hash": "c61ba9e8668a511cbd0bcfdee8329e02ca6ca4048abda6ca7ee8ac68a059776a",
+      "size": 4915
+    },
+    "matplotlib/mpl-data/fonts/ttf/LICENSE_STIX": {
+      "hash": "20742462c1dc14913b39f00ca1e06a2e9885b64b593a06de4209066988dbdb8e",
+      "size": 5600
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf": {
+      "hash": "167378031e2dddc6216d67819c9260e9a06ffc4c478e4e23cb98a6fd44b183c2",
+      "size": 448228
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf": {
+      "hash": "e8533dc7083fa346bda1933d60ea4a83b67d0945bceaf1b3541f82b4a0e2c6a0",
+      "size": 237360
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf": {
+      "hash": "98788fd4ba48dfbb2bd026c0e20a247a8b06c7372879628b7a6bb0d5bb09736c",
+      "size": 181152
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf": {
+      "hash": "6cfcb333d22b7c3c623bdfd40174f14c85c3d6731ca6166c1edc80140eae8527",
+      "size": 175040
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf": {
+      "hash": "5256f7e021335ac4854d180f0e8bf198964ec2fc820176276e16aabc6537bb57",
+      "size": 59108
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf": {
+      "hash": "5d106a5b78d1ffc30174553439b86257bfa45f088120cb3b4150a51dc4f9b60b",
+      "size": 30512
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf": {
+      "hash": "a5bdb60e76c37f6c90aa2ce8b5cdf0043a85182fe0dbb61c086262bc7f7e2def",
+      "size": 41272
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf": {
+      "hash": "04cafda56881bf660865dab4e17e1cdc280be8d3cb50fae5eb8695d4de30f548",
+      "size": 46752
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf": {
+      "hash": "c18b87d60614a42baeb2a22d447e647fda7fb3a9940fef57dcbe51bd1b4a4b1b",
+      "size": 13656
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf": {
+      "hash": "c8d76f8d4a129ac64250b983ed256af4769b9dd1bd3f874f85ba0bd49a407f4b",
+      "size": 12228
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf": {
+      "hash": "fbdc553182f8ff5adc3bc16208aac27d1e0f69298ab40e3675d2c6ab0b5e8b5c",
+      "size": 15972
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf": {
+      "hash": "7187b1ca8f2b65c76a325a5af5f345e5ad88a172d44d9b88be1d090f5429d22e",
+      "size": 12556
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf": {
+      "hash": "d256c7ce99ddcc998ef12e369a5921b33e4d6ef24b402687e4c71ced06510f37",
+      "size": 19760
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf": {
+      "hash": "dde05cf95b586e1414dc19f18b2a5f3ba780cc4bbc05d0efb4825215b912da86",
+      "size": 12192
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf": {
+      "hash": "5c548a0a9b5b11233cbb11ed5054805767326f0c614a377c756541caae9fdf0d",
+      "size": 15836
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf": {
+      "hash": "3140981eb03466a162484fcf8c81a525980cbafefd694810a84ec3b6ede4ba8d",
+      "size": 12116
+    },
+    "matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf": {
+      "hash": "fec7710ee130043b400e9bbd0b221743157bb08a80d93655042522523ab95029",
+      "size": 15704
+    },
+    "matplotlib/mpl-data/images/back-symbolic.svg": {
+      "hash": "c9174c88ab1af9ac149b6c7f244feb115db4acd4daec52276c5044a0ca3eea29",
+      "size": 1512
+    },
+    "matplotlib/mpl-data/images/back.pdf": {
+      "hash": "651ec2268fdd01e08cf8a95a1afb2482d1d0c91b6b3c8a2573c4443a6728a899",
+      "size": 1623
+    },
+    "matplotlib/mpl-data/images/back.png": {
+      "hash": "1387467f81a7cf5c49d6fdad33280757460d4204a1ade0de540a5a31bfbbe265",
+      "size": 380
+    },
+    "matplotlib/mpl-data/images/back.svg": {
+      "hash": "c9174c88ab1af9ac149b6c7f244feb115db4acd4daec52276c5044a0ca3eea29",
+      "size": 1512
+    },
+    "matplotlib/mpl-data/images/back_large.png": {
+      "hash": "f40ea151241eb3385838d13866e1f792f388b4cd097c356eead91fae89826ec4",
+      "size": 620
+    },
+    "matplotlib/mpl-data/images/filesave-symbolic.svg": {
+      "hash": "a313d56cb4bd3f37a5cfbd42d46089581df80d9d2cc7fa5454f44706b099ac6b",
+      "size": 2029
+    },
+    "matplotlib/mpl-data/images/filesave.pdf": {
+      "hash": "3f510f3d5da0e74593b7c51a5feea41684d9335c55aa8e92d87e8527a65dd5e7",
+      "size": 1734
+    },
+    "matplotlib/mpl-data/images/filesave.png": {
+      "hash": "6fb72db9caccfc5da61be0f271379d1bf6bfcb8a47931dc5fb333b975f062e19",
+      "size": 458
+    },
+    "matplotlib/mpl-data/images/filesave.svg": {
+      "hash": "a313d56cb4bd3f37a5cfbd42d46089581df80d9d2cc7fa5454f44706b099ac6b",
+      "size": 2029
+    },
+    "matplotlib/mpl-data/images/filesave_large.png": {
+      "hash": "2cd6d10f9299dca7fb9dba7eb2dc7f6b5ffa5df18149651f0dda609a7ce846f9",
+      "size": 720
+    },
+    "matplotlib/mpl-data/images/forward-symbolic.svg": {
+      "hash": "36740339e9df8ec9fea346893147c4aeb3f7db465cc7d5c76642e1d1c8cc1ec9",
+      "size": 1531
+    },
+    "matplotlib/mpl-data/images/forward.pdf": {
+      "hash": "288a882f8608778dcb91c3b157f4d3e6ebf3d523fc939894354789980125315f",
+      "size": 1630
+    },
+    "matplotlib/mpl-data/images/forward.png": {
+      "hash": "a4a6cb7a98068867b26364c2065f2cbe3be6ed9e024b78b2b05c5cab8191fb09",
+      "size": 357
+    },
+    "matplotlib/mpl-data/images/forward.svg": {
+      "hash": "36740339e9df8ec9fea346893147c4aeb3f7db465cc7d5c76642e1d1c8cc1ec9",
+      "size": 1531
+    },
+    "matplotlib/mpl-data/images/forward_large.png": {
+      "hash": "dfa87b9bb0d90c7aa5ea491da4d3dc9328b62ca09eff1861c9abd6011cffda44",
+      "size": 593
+    },
+    "matplotlib/mpl-data/images/hand.pdf": {
+      "hash": "86ca7090d63dd7928f0fb00c5a7550b3b2c53ceb65723d155222eeefa74c69b4",
+      "size": 4172
+    },
+    "matplotlib/mpl-data/images/hand.png": {
+      "hash": "d9c7214444c629ad2160d294c672400709326171013ea272fd5a923e54f45b64",
+      "size": 979
+    },
+    "matplotlib/mpl-data/images/hand.svg": {
+      "hash": "b6c548112fe720dac06c7e05a9db0218ec74495137eef7287d26018679da38fd",
+      "size": 4888
+    },
+    "matplotlib/mpl-data/images/help-symbolic.svg": {
+      "hash": "29769bbd086a2167a7fedd92bd9b9d74561add2d222375bc7002a6decd5f23c4",
+      "size": 1870
+    },
+    "matplotlib/mpl-data/images/help.pdf": {
+      "hash": "09e13defc20c8b4616ce758a8c84f547c22b3f82a16744bbbac3d4beb79281c0",
+      "size": 1813
+    },
+    "matplotlib/mpl-data/images/help.png": {
+      "hash": "b38a50aea690d29cbc23bbdcf61bf7048dc33bfb64cbeed804ca5a1ee0430816",
+      "size": 472
+    },
+    "matplotlib/mpl-data/images/help.svg": {
+      "hash": "29769bbd086a2167a7fedd92bd9b9d74561add2d222375bc7002a6decd5f23c4",
+      "size": 1870
+    },
+    "matplotlib/mpl-data/images/help_large.png": {
+      "hash": "d48c04c967c64609e809633eafd0891c4a204c9543e67d5cf0b5d32b8009e111",
+      "size": 747
+    },
+    "matplotlib/mpl-data/images/home-symbolic.svg": {
+      "hash": "9ff028b232555c44f731cca616e1e05db52be6f30b7572b63c3820857f02721e",
+      "size": 1891
+    },
+    "matplotlib/mpl-data/images/home.pdf": {
+      "hash": "7b47b4a48f9746d3e6bd4096d954ca2f50de62ed69bcf99451e4528046d69a29",
+      "size": 1737
+    },
+    "matplotlib/mpl-data/images/home.png": {
+      "hash": "21c15d00051aebf034aadf083b723ca78ae95e942002527c9dd04408287b0b5c",
+      "size": 468
+    },
+    "matplotlib/mpl-data/images/home.svg": {
+      "hash": "9ff028b232555c44f731cca616e1e05db52be6f30b7572b63c3820857f02721e",
+      "size": 1891
+    },
+    "matplotlib/mpl-data/images/home_large.png": {
+      "hash": "bb14b63b7b5638787589abbb09a555e1eae6209699d34ee26e6e59de2f245d88",
+      "size": 790
+    },
+    "matplotlib/mpl-data/images/matplotlib.pdf": {
+      "hash": "0644947fedb1a228fe7977e9576b7bcb5245286d730f582d57a6808375e2ff01",
+      "size": 22852
+    },
+    "matplotlib/mpl-data/images/matplotlib.png": {
+      "hash": "c3c28b45855afafa146576b8d618096ae42ea288acdb77f73457dd73bda95186",
+      "size": 1283
+    },
+    "matplotlib/mpl-data/images/matplotlib.svg": {
+      "hash": "4224c872a950c066953ed1ec124fafb66264d70c70652be28e1a817bf6fd5422",
+      "size": 62087
+    },
+    "matplotlib/mpl-data/images/matplotlib_large.png": {
+      "hash": "125468b9ef60ad4aa4657267824fa7be1e0629fa6f278804ebd5abca309b5f95",
+      "size": 3088
+    },
+    "matplotlib/mpl-data/images/move-symbolic.svg": {
+      "hash": "fd92a9730183e8331391995bca3d2741b4fc620b79bec9446743aa5da5c67781",
+      "size": 2509
+    },
+    "matplotlib/mpl-data/images/move.pdf": {
+      "hash": "0979373c62bd58be6dfb927e1b65f94e5fa76fa95c12b4c14b9a148f64ade9a5",
+      "size": 1867
+    },
+    "matplotlib/mpl-data/images/move.png": {
+      "hash": "4e68d1e352334b3c466e1894715eb85f4cf1d818ebc5b587ddc48abe71b6bf37",
+      "size": 481
+    },
+    "matplotlib/mpl-data/images/move.svg": {
+      "hash": "fd92a9730183e8331391995bca3d2741b4fc620b79bec9446743aa5da5c67781",
+      "size": 2509
+    },
+    "matplotlib/mpl-data/images/move_large.png": {
+      "hash": "4a48f3da75bf453039b3fd20f3c81dab686b55b9ba0ce71f616e05bb8d859fd5",
+      "size": 767
+    },
+    "matplotlib/mpl-data/images/qt4_editor_options.pdf": {
+      "hash": "daabba195c81ac9bd51f1c9c850a095225cf63107295b1f68fdd109f2b57b3fc",
+      "size": 1568
+    },
+    "matplotlib/mpl-data/images/qt4_editor_options.png": {
+      "hash": "12bc908d0e61876770988c6dcc216230dd54e939ddd75a750837e01f96478cd3",
+      "size": 380
+    },
+    "matplotlib/mpl-data/images/qt4_editor_options.svg": {
+      "hash": "134d18a17eeee0daf13079bf2f54ccf0f0c9f3c6d7e6a45d0ab3be523e7d0840",
+      "size": 1244
+    },
+    "matplotlib/mpl-data/images/qt4_editor_options_large.png": {
+      "hash": "f8f77ef55879688af73d96bc3ba19efc12e8e35922127a6691d0e3f1ad752646",
+      "size": 619
+    },
+    "matplotlib/mpl-data/images/subplots-symbolic.svg": {
+      "hash": "f1a701a205c8afd3961a7d620fa9949206a17456600f26f0c37f39ccb08ba08b",
+      "size": 2130
+    },
+    "matplotlib/mpl-data/images/subplots.pdf": {
+      "hash": "434b323cc23912fb6033e084f985ca3a42fd7855006678ff5f6221a23e91e29e",
+      "size": 1714
+    },
+    "matplotlib/mpl-data/images/subplots.png": {
+      "hash": "3147c222dab7ff2cdbf724627863a09699f463be21f0803b9b98bbd01eb78917",
+      "size": 445
+    },
+    "matplotlib/mpl-data/images/subplots.svg": {
+      "hash": "f1a701a205c8afd3961a7d620fa9949206a17456600f26f0c37f39ccb08ba08b",
+      "size": 2130
+    },
+    "matplotlib/mpl-data/images/subplots_large.png": {
+      "hash": "11dbbd4b054c4045c9679a205397325bb54b7305c976175ff84b71c66c5d908b",
+      "size": 662
+    },
+    "matplotlib/mpl-data/images/zoom_to_rect-symbolic.svg": {
+      "hash": "d6f471af7725f104f04ee4654330f58f1bb47d76687d32763cc806f7b13b05ca",
+      "size": 1479
+    },
+    "matplotlib/mpl-data/images/zoom_to_rect.pdf": {
+      "hash": "484bcf736e207d946997e747bfb9f1f0a9313f253ae8aab8ce0413bc6166f4a0",
+      "size": 1609
+    },
+    "matplotlib/mpl-data/images/zoom_to_rect.png": {
+      "hash": "68dcf741906b220c6ef44f9f15f690c1e095362b46b83505a02dbb7b9354d8be",
+      "size": 530
+    },
+    "matplotlib/mpl-data/images/zoom_to_rect.svg": {
+      "hash": "d6f471af7725f104f04ee4654330f58f1bb47d76687d32763cc806f7b13b05ca",
+      "size": 1479
+    },
+    "matplotlib/mpl-data/images/zoom_to_rect_large.png": {
+      "hash": "57aa64c669ba570144c5d83f3c425674adfb1c1ee4ddc13f728acb6bb45b50c9",
+      "size": 1016
+    },
+    "matplotlib/mpl-data/plot_directive/plot_directive.css": {
+      "hash": "75805f6a8e4e1065f15861de05054e81359e87a90f469185aa233edec5778dbc",
+      "size": 334
+    },
+    "matplotlib/mpl-data/sample_data/data_x_x2_x3.csv": {
+      "hash": "206ee66b37c8944c899ea21c66b2811218e2b6b2375afdf9b9515557a84180ca",
+      "size": 143
+    },
+    "matplotlib/mpl-data/sample_data/eeg.dat": {
+      "hash": "28656316df0004acfba7a5d98ab35f7314933a918636ec80f09604ad128b4417",
+      "size": 25600
+    },
+    "matplotlib/mpl-data/sample_data/embedding_in_wx3.xrc": {
+      "hash": "21c2793dd74c236c12c65506514bf71deddbb2619a45f069f59c04433e504dda",
+      "size": 2250
+    },
+    "matplotlib/mpl-data/sample_data/goog.npz": {
+      "hash": "400917cf30e6b664f7b0da93d7c745860d3aa9008da8b7f160d2dd12e6a318b1",
+      "size": 22845
+    },
+    "matplotlib/mpl-data/sample_data/grace_hopper.jpg": {
+      "hash": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+      "size": 61306
+    },
+    "matplotlib/mpl-data/sample_data/jacksboro_fault_dem.npz": {
+      "hash": "d493f50a33e82a4420494c54d1fca1539d177bdc27ab190bc5fe6e92f62fb637",
+      "size": 174061
+    },
+    "matplotlib/mpl-data/sample_data/logo2.png": {
+      "hash": "213c64254b1a9f6a2a5e0243cba0c9bf0278687be229e5869f13e44e35d4b7b0",
+      "size": 33541
+    },
+    "matplotlib/mpl-data/sample_data/membrane.dat": {
+      "hash": "ab795b429201a5bb575c6370d5e17090dfcfc317431aa9382f8e881366f43357",
+      "size": 48000
+    },
+    "matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png": {
+      "hash": "5e72868826a7a4329a950e5a9efa393594807833fb7f27e5cd001a8afb9cd081",
+      "size": 13634
+    },
+    "matplotlib/mpl-data/sample_data/msft.csv": {
+      "hash": "e09b4a4f999eeb4f8634c52808cb880c0600229ca54ff12ba3205b1a1d328bf5",
+      "size": 3276
+    },
+    "matplotlib/mpl-data/sample_data/percent_bachelors_degrees_women_usa.csv": {
+      "hash": "01b6a9f8d163ab0a7510b18d602a132f84b9bd19e20333394778b1804145a535",
+      "size": 5723
+    },
+    "matplotlib/mpl-data/sample_data/README.txt": {
+      "hash": "73c25f8541bbda31d98fa4b24b4856be55c4b565096e344d7cc66503ce52588a",
+      "size": 130
+    },
+    "matplotlib/mpl-data/sample_data/s1045.ima.gz": {
+      "hash": "32b424d64f62b7e71cb24d29fd53938ad5664d608055a67ab2b2af4369f8b89e",
+      "size": 33229
+    },
+    "matplotlib/mpl-data/sample_data/Stocks.csv": {
+      "hash": "cc56092236be62e1d21aa6fdbecff13576a195a5dcaa96c3f204d7c56fbe7280",
+      "size": 68450
+    },
+    "matplotlib/mpl-data/sample_data/topobathy.npz": {
+      "hash": "0244e03291702df45024dcb5cacbc4f3d4cb30d72dfa7fd371c4ac61c42b4fbf",
+      "size": 45224
+    },
+    "matplotlib/mpl-data/sample_data/axes_grid/bivariate_normal.npy": {
+      "hash": "0e9599f6e74087aa2ca58aa77846b6ec3e8491180e445c07a2c69c65756ef7c5",
+      "size": 1880
+    },
+    "matplotlib/mpl-data/stylelib/bmh.mplstyle": {
+      "hash": "5133bffd3e9869a518eaee4d8c0b01181b2ffc038ae399ca8b5b1c7fe391c735",
+      "size": 741
+    },
+    "matplotlib/mpl-data/stylelib/classic.mplstyle": {
+      "hash": "d03939db05b0ee45c3850a2506930c30ef5bdce15cdb24e5364f27a60f66e7b3",
+      "size": 25091
+    },
+    "matplotlib/mpl-data/stylelib/dark_background.mplstyle": {
+      "hash": "55e8b6ed060e3f774d4da1f399162778d2d30b0df49c4ef924e50362e3a39d77",
+      "size": 687
+    },
+    "matplotlib/mpl-data/stylelib/fast.mplstyle": {
+      "hash": "1c3a9ad060130bd1a335e440f2b62264cfaa87b853c6cada7b263388695b8338",
+      "size": 299
+    },
+    "matplotlib/mpl-data/stylelib/fivethirtyeight.mplstyle": {
+      "hash": "21f5f089ab6a92feab91ab8d9e371f0c34baa54f9469bb4485ba242b9faa01eb",
+      "size": 872
+    },
+    "matplotlib/mpl-data/stylelib/ggplot.mplstyle": {
+      "hash": "4bb39cfedcb70e950cd00da472d6417a63238fb212d1c709974e90245421d97c",
+      "size": 995
+    },
+    "matplotlib/mpl-data/stylelib/grayscale.mplstyle": {
+      "hash": "3278a05c9cb6724c9066e8b06fe9c25d0d3ed1c241cf558fbbe0842571075a90",
+      "size": 555
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-bright.mplstyle": {
+      "hash": "0c8a3dd87e4b55054f31e24e71568e3cea2f721a8c783be42a8110d015fefb00",
+      "size": 147
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-colorblind.mplstyle": {
+      "hash": "33b398551d5c868228fe39437ccb064800c96a12c36ae644394249a6e0caf07b",
+      "size": 151
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-dark-palette.mplstyle": {
+      "hash": "1cb6f99f95e05be210f1be58713788940d50c878cfef088d3c01c3dacca9b56e",
+      "size": 145
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-dark.mplstyle": {
+      "hash": "21931cd9012791399b39f02be47222bba4b299c7516ca59221818eb69acd943c",
+      "size": 697
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-darkgrid.mplstyle": {
+      "hash": "958f5a69ed597922755b24f8d9f8b495fb908b6b74bf086273c4c112984a0397",
+      "size": 700
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-deep.mplstyle": {
+      "hash": "763c71bdff3df1089c4e599e0c7256e47563aef1c664439220f5a014ad30aa9c",
+      "size": 145
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-muted.mplstyle": {
+      "hash": "e6ddb07b0e7276bac9ada12ebb11fdd7c4ee01ba02cee095563e2462aefcfcb5",
+      "size": 146
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-notebook.mplstyle": {
+      "hash": "8349c1eb13f637955f5b7d6905ae26447654e642ea64b427723f44c694ee4e2f",
+      "size": 403
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-paper.mplstyle": {
+      "hash": "4ad112623f92d99bfd0a781de5ba45a89570e2805d769a81dc2e6a1c44a6ce2f",
+      "size": 414
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-pastel.mplstyle": {
+      "hash": "f0a3baaf91f68d6228a6111fed725560acab5d2ad81849f67f517f297a041087",
+      "size": 147
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-poster.mplstyle": {
+      "hash": "f316717998925f69e927ebc2aac4ac0dc73819e16b5f07eb48dbb4c577c0d949",
+      "size": 424
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-talk.mplstyle": {
+      "hash": "fdcdbd73c88376c08c3551117071f00fc92121c515c5eba81c8da8d5e1343e18",
+      "size": 424
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-ticks.mplstyle": {
+      "hash": "0279ee8ba05d309a9866c2060a476693cf2be26fc7e1eb1aedb4acce40699be0",
+      "size": 695
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-white.mplstyle": {
+      "hash": "558eacc3cc24a9b97495e5ad59ae60cfcc5f0cc7eab79c848484c88cfe05b0e2",
+      "size": 695
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8-whitegrid.mplstyle": {
+      "hash": "20e9b61f5bad5ceff347b156a8c2c1891c47cb10012f792ad5f874fba0432741",
+      "size": 694
+    },
+    "matplotlib/mpl-data/stylelib/seaborn-v0_8.mplstyle": {
+      "hash": "37d954147bce9f4eb04f830e0d7a5554640c4ae78e35e8de01f097e547d6ac83",
+      "size": 1187
+    },
+    "matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle": {
+      "hash": "18adcdaa050ec17bf8d849b7190610e858a2417324cb25a8207b9fadf2974a15",
+      "size": 1310
+    },
+    "matplotlib/mpl-data/stylelib/tableau-colorblind10.mplstyle": {
+      "hash": "3f350ca0eb70d15ea5d1b3e4f00a5100abdcc5d266cd15366d53a436acfc0e75",
+      "size": 192
+    },
+    "matplotlib/mpl-data/stylelib/_classic_test_patch.mplstyle": {
+      "hash": "f574726f65f30ad4baa622c86056cd1e953e6c5e1fed896258b75b2d7bc1a232",
+      "size": 173
+    },
+    "matplotlib/mpl-data/stylelib/_mpl-gallery-nogrid.mplstyle": {
+      "hash": "1564b3576999378baec8dcfa05bd467dd2268ed8ae6fce48e297dde8734a5f4e",
+      "size": 508
+    },
+    "matplotlib/mpl-data/stylelib/_mpl-gallery.mplstyle": {
+      "hash": "a333f3f81d3d89e066efbec57831227f1447ff15643c419188c55e16d9cca6cf",
+      "size": 523
+    },
+    "matplotlib.libs/.load-order-matplotlib-3.7.5": {
+      "hash": "d37fd8a16bf85713c3723fcefeabd3a475b72f363339f8b2142c253700b66d69",
+      "size": 46
+    },
+    "matplotlib.libs/msvcp140-456d948669199b545d061b84c160bebc.dll": {
+      "hash": "8f59c5f5c949a6a6532ec1bba3fe085fa8c157354f66ec8166a09cc5b7ecaec8",
+      "size": 621960
+    },
+    "msgpack/_cmsgpack.cp38-win_amd64.pyd": {
+      "hash": "e9cf5e5c5911337b5019c952efd4caf9ec67276b7ba3338366b7284ed2981e44",
+      "size": 129024
+    },
+    "numpy/core/_multiarray_tests.cp38-win_amd64.pyd": {
+      "hash": "be1ddb44e9f05cc0aedd1caa408ce4dc28ea6f6fe507cc8f35df00aba4d57cc5",
+      "size": 66560
+    },
+    "numpy/core/_multiarray_umath.cp38-win_amd64.pyd": {
+      "hash": "b1efdf792a3d2cc30e7dcc3bdd911cbcfd52d47031c7c6de8dace521311c93fe",
+      "size": 2776064
+    },
+    "numpy/fft/_pocketfft_internal.cp38-win_amd64.pyd": {
+      "hash": "bd9f62e8fd5283b7eb8e205b3c3eb37b848634502deaf8f41636790576738885",
+      "size": 111104
+    },
+    "numpy/linalg/lapack_lite.cp38-win_amd64.pyd": {
+      "hash": "6a5cfb552a383207757d7711a9e80ddc42b13e39f6aa0412f153df8bf5d5559b",
+      "size": 17920
+    },
+    "numpy/linalg/_umath_linalg.cp38-win_amd64.pyd": {
+      "hash": "67c91c186cb43d3c8159ca02400677dcc01cc6a18e1bdc835cfe71a1c9053690",
+      "size": 106496
+    },
+    "numpy/random/bit_generator.cp38-win_amd64.pyd": {
+      "hash": "8bc1dcd34c36a4fac09d1aefef3b16369a6f770affa4782c722d2f54656ebe43",
+      "size": 139264
+    },
+    "numpy/random/mtrand.cp38-win_amd64.pyd": {
+      "hash": "bd4def439de55d3c508ca857d07b3e1b20a4864d4fb47dfd3aaafff157de8109",
+      "size": 564736
+    },
+    "numpy/random/_bounded_integers.cp38-win_amd64.pyd": {
+      "hash": "1640888db0f7557b2e5f2b5e13b08f21520b0ecff2c348a9202f8ddcecdd3e75",
+      "size": 239616
+    },
+    "numpy/random/_common.cp38-win_amd64.pyd": {
+      "hash": "bd51c00f9c77ea4636949b7f7dfaf5afc9f9dcee001e7a5529a1ce1eb1ebbd75",
+      "size": 177664
+    },
+    "numpy/random/_generator.cp38-win_amd64.pyd": {
+      "hash": "efae4e54fc1053b6a7dcdd6cc76bd656d2bed511550b8f0f24d22689d39d1d41",
+      "size": 655360
+    },
+    "numpy/random/_mt19937.cp38-win_amd64.pyd": {
+      "hash": "72f9ddffaba7a99bddf61f6232709831c8b40cb2c6115bfd2210b361f72b53cd",
+      "size": 69120
+    },
+    "numpy/random/_pcg64.cp38-win_amd64.pyd": {
+      "hash": "8f3c82b0e32dccdc685a72c5396cbb208d2b8f6a45cad0de7193681ff423fb01",
+      "size": 73728
+    },
+    "numpy/random/_philox.cp38-win_amd64.pyd": {
+      "hash": "65e8ddf862eced2f6376f99155c14f14bc1c6888746d6fa38a49c8c622fca948",
+      "size": 61440
+    },
+    "numpy/random/_sfc64.cp38-win_amd64.pyd": {
+      "hash": "c9795c2bb95bb54b32d330d7b94b9b332b28a690f712b81dfdf3140317496967",
+      "size": 44032
+    },
+    "pandas/io/formats/templates/html.tpl": {
+      "hash": "79b00950bcfcb6de1e48ac9f1597f6906dfe5fe8671e320830ae034feda0f541",
+      "size": 428
+    },
+    "pandas/io/formats/templates/html_style.tpl": {
+      "hash": "ebb5c175279fa2d46ce8262dcf7ccce9f1bfd33c2e6f61f8849d232e2fdefe1b",
+      "size": 720
+    },
+    "pandas/io/formats/templates/html_table.tpl": {
+      "hash": "b5b836c16d7071c0024606bfe6dda73faf77fd2d26c7d829fd34971803144ab3",
+      "size": 1874
+    },
+    "pandas/io/formats/templates/latex.tpl": {
+      "hash": "4bf92559ecb45641ee8ee617c6a6dab63cb11f619b60972582c504dbb57df61b",
+      "size": 132
+    },
+    "pandas/io/formats/templates/latex_longtable.tpl": {
+      "hash": "20b8c6ddadb67eb0184684f997e1f4ce0bf49ce4086aa00a1bde60387c2f4b4f",
+      "size": 2959
+    },
+    "pandas/io/formats/templates/latex_table.tpl": {
+      "hash": "2971ec0d03477c882e9daab2257a7b1abbed3074d8fa3437077d76093dcb51ed",
+      "size": 2278
+    },
+    "pandas/io/formats/templates/string.tpl": {
+      "hash": "5b9d7221dc2e64fdd0ce03350e7418de8593aa83324dad743f5385f8a5902d9f",
+      "size": 356
+    },
+    "pandas/io/sas/_byteswap.cp38-win_amd64.pyd": {
+      "hash": "9ec126e71ba819850500857172bfa6c383a683da0ee9d64a889c5f93d44388fc",
+      "size": 28672
+    },
+    "pandas/io/sas/_sas.cp38-win_amd64.pyd": {
+      "hash": "288d4d5c67f24986d10d37546b28172703b64637fbc34dbc3115d1b3eca7630c",
+      "size": 163328
+    },
+    "pandas/_libs/algos.cp38-win_amd64.pyd": {
+      "hash": "650ed84d952b4133d1cb72cb29b5007721156f709592a0ab2b1ebe0c9a8ca27f",
+      "size": 1557504
+    },
+    "pandas/_libs/arrays.cp38-win_amd64.pyd": {
+      "hash": "5c668e1a988cfe4b008c8d173e2f5822fb039bb50b325f4fc82375662a5929ea",
+      "size": 66560
+    },
+    "pandas/_libs/groupby.cp38-win_amd64.pyd": {
+      "hash": "89c200e63f60f3c93c70848f60f9e85b029ee66af4eee5e3bff8580e449e7c3a",
+      "size": 1648128
+    },
+    "pandas/_libs/hashing.cp38-win_amd64.pyd": {
+      "hash": "e582d24065c10b9bf079867c0397b065d7f3ef1ecd552949b8ac96ae8583a407",
+      "size": 130048
+    },
+    "pandas/_libs/hashtable.cp38-win_amd64.pyd": {
+      "hash": "b4c4c9879a359e1c79bd01366fb8a9296f0ff4698c8b486763377c9940cc2d37",
+      "size": 1448960
+    },
+    "pandas/_libs/index.cp38-win_amd64.pyd": {
+      "hash": "a186de1db3c102daac57e55c4f627c0eefa4c2066495918b8591a1b7fb333ef2",
+      "size": 581120
+    },
+    "pandas/_libs/indexing.cp38-win_amd64.pyd": {
+      "hash": "959281d01bcf5a815bd343ef33dbd5bbece1fcfef65a5b8f2a4a4d711c3be2c3",
+      "size": 37888
+    },
+    "pandas/_libs/internals.cp38-win_amd64.pyd": {
+      "hash": "de7ef923dfcac44239bd1282ba128052a1310eaa9baab8f2e0fc969292ca1d45",
+      "size": 239104
+    },
+    "pandas/_libs/interval.cp38-win_amd64.pyd": {
+      "hash": "0d9ea82e54c73bce2bca4ee1afd2003102b0748719d47e5a3317bd5a094b56d3",
+      "size": 928768
+    },
+    "pandas/_libs/join.cp38-win_amd64.pyd": {
+      "hash": "41d8a8ece8b323d5e44a8811c4592450cb1440705051cf4db4ef75daae8b41ba",
+      "size": 1645056
+    },
+    "pandas/_libs/json.cp38-win_amd64.pyd": {
+      "hash": "aeecc6f468e1f36ea7a33e58df7b530e4d7f735c80dffed59286a7b78d6f092e",
+      "size": 58368
+    },
+    "pandas/_libs/lib.cp38-win_amd64.pyd": {
+      "hash": "3320369278ff5713160294415a00cc29a7d99db438776911d768b53db9236915",
+      "size": 472064
+    },
+    "pandas/_libs/missing.cp38-win_amd64.pyd": {
+      "hash": "9eff1755bb48863608b803b97079953f6a31c2c9179c0632ba8349c57cfb4e00",
+      "size": 148480
+    },
+    "pandas/_libs/ops.cp38-win_amd64.pyd": {
+      "hash": "5aa851162aa2caecd43163956c2df81967685588bb627ba42e33ab584bac6f19",
+      "size": 168960
+    },
+    "pandas/_libs/ops_dispatch.cp38-win_amd64.pyd": {
+      "hash": "d2f0954e3f4841677470fa3280a35ccb46df8acfbd6d242f4ae57487c6dae5b9",
+      "size": 45056
+    },
+    "pandas/_libs/parsers.cp38-win_amd64.pyd": {
+      "hash": "26078be46a7c815dd1bb2dd5cc7f57ab5d48ddc477c37c66998fa7009036e7d1",
+      "size": 357888
+    },
+    "pandas/_libs/properties.cp38-win_amd64.pyd": {
+      "hash": "d1820ebcba228c3581cdbf9dc2ec3df12e87b44c572cb13b538983f4d80aeb16",
+      "size": 49152
+    },
+    "pandas/_libs/reduction.cp38-win_amd64.pyd": {
+      "hash": "0eb9ee232a7ee42ce1c31d9316d7d049ddceb44e0405a74f64805a8260855bd2",
+      "size": 29696
+    },
+    "pandas/_libs/reshape.cp38-win_amd64.pyd": {
+      "hash": "e090a33f5d17a8debd1b4363c2b0f0fbf12da2d8d44f26bb638131bc958142ec",
+      "size": 197632
+    },
+    "pandas/_libs/sparse.cp38-win_amd64.pyd": {
+      "hash": "0a3081b95c0624c27cedf10f907ea13e477e973201be9668bf1fd15e572924c6",
+      "size": 755200
+    },
+    "pandas/_libs/testing.cp38-win_amd64.pyd": {
+      "hash": "639308a1474eea8e36a22e1b1e9f170fc84cb7c94ba76abf9cc917908f98483a",
+      "size": 66048
+    },
+    "pandas/_libs/tslib.cp38-win_amd64.pyd": {
+      "hash": "508ff393e1dccedc6b9d7780b9e6fdeaa36be2c706e80f4963128eaa07724d34",
+      "size": 198144
+    },
+    "pandas/_libs/writers.cp38-win_amd64.pyd": {
+      "hash": "971f2451f61c55acba463d424ae1ee0120bf8e4df0c661c50e3704fb84b3fc31",
+      "size": 153088
+    },
+    "pandas/_libs/tslibs/base.cp38-win_amd64.pyd": {
+      "hash": "dd5277928745cb38c0ec90c444c63f86fb0276ea5746f71cffd670874c85bec7",
+      "size": 34816
+    },
+    "pandas/_libs/tslibs/ccalendar.cp38-win_amd64.pyd": {
+      "hash": "5187cc8a4bfa3498ec977efc95b2390ba45effe8fba076df1f3f3dd4c12d9070",
+      "size": 44544
+    },
+    "pandas/_libs/tslibs/conversion.cp38-win_amd64.pyd": {
+      "hash": "e5aacbd5acc7a0d2914b9974e08d440c87a9104111905f84ee12e627d2689b38",
+      "size": 164864
+    },
+    "pandas/_libs/tslibs/dtypes.cp38-win_amd64.pyd": {
+      "hash": "70feee35b2f5a6324c0dd83276d15a86759c9d0e851b185fe8f42705b58dcadd",
+      "size": 104448
+    },
+    "pandas/_libs/tslibs/fields.cp38-win_amd64.pyd": {
+      "hash": "c2d44a61ab9feb584502e854a08a28b12a2e590ab3357c0f097b9c54e4355b83",
+      "size": 226816
+    },
+    "pandas/_libs/tslibs/nattype.cp38-win_amd64.pyd": {
+      "hash": "d7903f0a091b381585a2c844c006c17875c12d828132ce99a7935a3139aad717",
+      "size": 168960
+    },
+    "pandas/_libs/tslibs/np_datetime.cp38-win_amd64.pyd": {
+      "hash": "48a39368a7cf4e60e0fcd2b3a107da8fc5967f9ab7dfc48348c4e7691a14031a",
+      "size": 91648
+    },
+    "pandas/_libs/tslibs/offsets.cp38-win_amd64.pyd": {
+      "hash": "7ce96ccc930ce382795171676decce63b217c1364e64edb6394217f9b8f271b6",
+      "size": 647168
+    },
+    "pandas/_libs/tslibs/parsing.cp38-win_amd64.pyd": {
+      "hash": "88b19b7514d926560fac9e41372c404faa12747d502217ebf4c5d8f3f892925c",
+      "size": 271872
+    },
+    "pandas/_libs/tslibs/period.cp38-win_amd64.pyd": {
+      "hash": "f3408a13f00eb4cc0c9d1a175314c798f53d3244db58a18575654cea839efa85",
+      "size": 320000
+    },
+    "pandas/_libs/tslibs/strptime.cp38-win_amd64.pyd": {
+      "hash": "69ba903d8f6579b0834c61ca20417d957dd5169487b4f0dfcf324026ba337ba7",
+      "size": 214528
+    },
+    "pandas/_libs/tslibs/timedeltas.cp38-win_amd64.pyd": {
+      "hash": "b195e0d580003cb39a7573944eb281934801c17b73f389ef9ca99bb110fe47f7",
+      "size": 397312
+    },
+    "pandas/_libs/tslibs/timestamps.cp38-win_amd64.pyd": {
+      "hash": "56fe33d366bd4cb6d30fa896eba2f8d1755cbf8f4832a3a476f18ceca85476df",
+      "size": 410112
+    },
+    "pandas/_libs/tslibs/timezones.cp38-win_amd64.pyd": {
+      "hash": "938f17db299ab5d3adf471867337c0abbddaa6281753e8a75fe75f525d656227",
+      "size": 176640
+    },
+    "pandas/_libs/tslibs/tzconversion.cp38-win_amd64.pyd": {
+      "hash": "c7e21cb2eaa2e9d1ded8f17148fcf08c715c99e408ae780443c9f8b8d9dad260",
+      "size": 207360
+    },
+    "pandas/_libs/tslibs/vectorized.cp38-win_amd64.pyd": {
+      "hash": "2453eb838fee504ef75f9416acbb900df64592be599837c99fda245f89976c8b",
+      "size": 152576
+    },
+    "pandas/_libs/window/aggregations.cp38-win_amd64.pyd": {
+      "hash": "20f28616f33068916c6b80bd2931681b673adc2f06c232b2a86b31eb5b5111d9",
+      "size": 296960
+    },
+    "pandas/_libs/window/indexers.cp38-win_amd64.pyd": {
+      "hash": "d3f33efdf6526f16fbe171ce2a216ff946a172c8b37ff7cbf2646021bbefc4d2",
+      "size": 125440
+    },
+    "pandas/_libs/window/MSVCP140.dll": {
+      "hash": "9fee6f36547d6f6ea7ca0338655555dba6bb0f798bc60334d29b94d1547da4da",
+      "size": 566704
+    },
+    "pandas/_libs/window/VCRUNTIME140_1.dll": {
+      "hash": "34048abaa070ecc13b318cea31425f4ca3edd133d350318ac65259e6058c8b32",
+      "size": 37256
+    },
+    "PIL/_imaging.cp38-win_amd64.pyd": {
+      "hash": "bf56f78e0cf9bc5181933c80858cd4ee471e1fb45e3d4e59f5830a8b28e0268d",
+      "size": 2341888
+    },
+    "PIL/_imagingcms.cp38-win_amd64.pyd": {
+      "hash": "0dc71b5af9766e8301f981631069950c3605bf92fd27aa526cb92061e3547220",
+      "size": 263168
+    },
+    "PIL/_imagingft.cp38-win_amd64.pyd": {
+      "hash": "697b1ce2b051909ecf525e47d6109ceeb2522efe971ac9b00b938a8b16e74c3c",
+      "size": 1819136
+    },
+    "PIL/_imagingmath.cp38-win_amd64.pyd": {
+      "hash": "226e86933f9dc89294c249dc5e166ecb803297baa5ab586fa743e2a4a694a427",
+      "size": 24064
+    },
+    "PIL/_imagingtk.cp38-win_amd64.pyd": {
+      "hash": "788e4b63447fc5f37c87230df43303e222a984084f12941792975d17aa53f5d7",
+      "size": 14848
+    },
+    "PIL/_webp.cp38-win_amd64.pyd": {
+      "hash": "ce3ef695b206725e4bcb816b4ed337bae8e1fdf25175dd4d21eac3a1bc70ab40",
+      "size": 412672
+    },
+    "PySide2/d3dcompiler_47.dll": {
+      "hash": "8c88c162010a8d6b80f2c0433d4ce973ce626afcbc8da5be68bfa2ba68341eba",
+      "size": 4467904
+    },
+    "PySide2/libEGL.dll": {
+      "hash": "f3303efd4b4957c85cb2f29a6ecd69261f6af6140c4c6cb9f13bd11a944915cd",
+      "size": 29976
+    },
+    "PySide2/libGLESv2.dll": {
+      "hash": "94e3c9f72345005f0eba3347c9c5143f181a75ed80262fba43982e129add32e4",
+      "size": 3390232
+    },
+    "PySide2/MSVCP140.dll": {
+      "hash": "f87819ae8c6f7c90d3237a1abb9809e8cba9dcd0c80ac3f0969a5e68ef652ca4",
+      "size": 618264
+    },
+    "PySide2/MSVCP140_1.dll": {
+      "hash": "b05f3dfd4e999c3e110219fb59151cbaa322757f4f3ce52b64dddc853e5c105c",
+      "size": 31512
+    },
+    "PySide2/opengl32sw.dll": {
+      "hash": "963641a718f9cae2705d5299eae9b7444e84e72ab3bef96a691510dd05fa1da4",
+      "size": 20923392
+    },
+    "PySide2/pyside2.abi3.dll": {
+      "hash": "3c2a5cc20fe1c00b5783f8c46f5d3cd64e9b9a8e4cb14ac12e4363b42b2b1bd2",
+      "size": 162072
+    },
+    "PySide2/Qt5Core.dll": {
+      "hash": "420feba51d296a441c243b17cd5aaa9afd8c8c4bbb112d07820b5745be5e1928",
+      "size": 6028568
+    },
+    "PySide2/Qt5DBus.dll": {
+      "hash": "448f0e27809b8049ee1d045f2308003541752308eac197fbe71ba14e9b80a273",
+      "size": 441624
+    },
+    "PySide2/Qt5Gui.dll": {
+      "hash": "5d90e673766875c799cc3abb9e341f542e7cde630770394d6c114d91caff8ccb",
+      "size": 7013144
+    },
+    "PySide2/Qt5Network.dll": {
+      "hash": "c0d5fcf7ca747e93dc2650d102cc6cce90383e1fb47ff294806d09ddc46b10dd",
+      "size": 1345304
+    },
+    "PySide2/Qt5Pdf.dll": {
+      "hash": "fd9e0abdbfc06223bbe1382d3d40976fe4a349854c09ceebef7db257bee0dc90",
+      "size": 4474136
+    },
+    "PySide2/Qt5PrintSupport.dll": {
+      "hash": "00463a98f364fcb6a2e690818fdc0186a7a7a01b57099185b4c06d934a432b8f",
+      "size": 322328
+    },
+    "PySide2/Qt5Qml.dll": {
+      "hash": "7393a8567258efb588a5911191d3537b6c280d919f51149166365a4932c1dace",
+      "size": 3596568
+    },
+    "PySide2/Qt5QmlModels.dll": {
+      "hash": "1044ed33385be04b57ab87923e011f3b13c268ff15f6072299c1b38a25b2565b",
+      "size": 443672
+    },
+    "PySide2/Qt5Quick.dll": {
+      "hash": "32a496ed857cfc063c0098a11eddd4098e896b77a54f035dee9df18ceb98552d",
+      "size": 4153624
+    },
+    "PySide2/Qt5Svg.dll": {
+      "hash": "1112ea391351cc20cd4f3241dfcb9b8af26d4cac2cd78a7b53e593cf1daca55e",
+      "size": 335640
+    },
+    "PySide2/Qt5VirtualKeyboard.dll": {
+      "hash": "05ce471e702e844a92098aaa8983698f1989764a4aa8a74ad9324a0e42b906ce",
+      "size": 2100504
+    },
+    "PySide2/Qt5WebSockets.dll": {
+      "hash": "448901a39a33300028a06df2f16cf1eabd1bd31410b93ecd18d2fcb14b570bbb",
+      "size": 154392
+    },
+    "PySide2/Qt5Widgets.dll": {
+      "hash": "2be48fd4307f10a611a9349cbaef41af0d7dbc49e2c45af155e6b9207cf64622",
+      "size": 5503256
+    },
+    "PySide2/Qt5WinExtras.dll": {
+      "hash": "10ed253703ecd4c9a203636aff8cf29dd8cd58380dec2d4ab92a046b29f8f717",
+      "size": 241944
+    },
+    "PySide2/Qt5Xml.dll": {
+      "hash": "3c9a45293c025f9e21736393bd962a2110f02cf273ce22d3c2c31a2d349ff601",
+      "size": 218392
+    },
+    "PySide2/QtCore.pyd": {
+      "hash": "11c4b8859d2e1fd1bb315edb21112662c674d739992abc545afab894d3848cef",
+      "size": 3460888
+    },
+    "PySide2/QtGui.pyd": {
+      "hash": "bec878849cba1d0fc79e6d313e5b28e1da9b5ca903673a6634768f52df33bc4f",
+      "size": 3824920
+    },
+    "PySide2/QtNetwork.pyd": {
+      "hash": "ce289b3a1950693d33e47a47143ddb156e468907ebd3a2af8a3e8016e1ecc163",
+      "size": 953624
+    },
+    "PySide2/QtPrintSupport.pyd": {
+      "hash": "df8e47c3ded8ed5f20122585ec05da95a4f338c0f58adae8293a880de7a4545a",
+      "size": 302360
+    },
+    "PySide2/QtSvg.pyd": {
+      "hash": "39f65d11af932600aee7ef83f6b3a1613ff2518c80102d9968250e66254be8c6",
+      "size": 141592
+    },
+    "PySide2/QtWidgets.pyd": {
+      "hash": "a2c9c88fb848bebacf6889579e274c70c2eee86dd3f209d45e656d9248eff529",
+      "size": 6293272
+    },
+    "PySide2/QtWinExtras.pyd": {
+      "hash": "81f3523b108275e969bca6d456724f08d6033d1039eb28dacaf222a61f645149",
+      "size": 168728
+    },
+    "PySide2/QtXml.pyd": {
+      "hash": "259a6739cc99a068b7bf9fd9f568edc9743e45e0f410067f45bf41e71b670775",
+      "size": 384280
+    },
+    "PySide2/VCRUNTIME140_1.dll": {
+      "hash": "6cc4315daceb0522816c60678344466cb452426267f70c7faae925361674e774",
+      "size": 44312
+    },
+    "PySide2/plugins/bearer/qgenericbearer.dll": {
+      "hash": "2d77d69816777c6b7c68d82cf6be5d8e2adda80d9050df831b946befda93ab28",
+      "size": 58136
+    },
+    "PySide2/plugins/generic/qtuiotouchplugin.dll": {
+      "hash": "7cdeb6a9a2b001c6de122a38639a2869443101f63ce3402549275bd7ad6a4ffb",
+      "size": 72984
+    },
+    "PySide2/plugins/iconengines/qsvgicon.dll": {
+      "hash": "6948741c5975c3c6bd4dd0537d738e23feda834a2af8b0e3e6c0bd1d92043b55",
+      "size": 46872
+    },
+    "PySide2/plugins/imageformats/qgif.dll": {
+      "hash": "4e2d82a4c7a9df94401cebe65e504ae68e3b0c2c8bfed242f77019f67d35bc10",
+      "size": 44312
+    },
+    "PySide2/plugins/imageformats/qicns.dll": {
+      "hash": "378ad6111b6b7b45d7350bee499a596152dde13f659e7de33612826fcc80ffd1",
+      "size": 49944
+    },
+    "PySide2/plugins/imageformats/qico.dll": {
+      "hash": "f472c9d9f651a044ce63659dc612632e2c7efaef35421e205931bbc21d68f54e",
+      "size": 43288
+    },
+    "PySide2/plugins/imageformats/qjpeg.dll": {
+      "hash": "2b5c049f40929b9c2921643975877e1e948b188b340f45e956e1d32fe9ffc9a0",
+      "size": 426264
+    },
+    "PySide2/plugins/imageformats/qpdf.dll": {
+      "hash": "884a6ea0b0d243627eb5c414ef52e8000abce5c22bd8bfb40b7c2d4a3c66391d",
+      "size": 38168
+    },
+    "PySide2/plugins/imageformats/qsvg.dll": {
+      "hash": "323f52f1275698370b929e1fe2b27813bebce6cf4b7c9a4e573472671d64c5f0",
+      "size": 37144
+    },
+    "PySide2/plugins/imageformats/qtga.dll": {
+      "hash": "be3c1d8c84cc9cc223e79a30e24d887dd65a12042fa8a5dd4b01e29bb61f313b",
+      "size": 36632
+    },
+    "PySide2/plugins/imageformats/qtiff.dll": {
+      "hash": "cda1763cd0ffd9eefe804ee2f299934758c5f7d947375d8547a9cdd70fd99e34",
+      "size": 395032
+    },
+    "PySide2/plugins/imageformats/qwbmp.dll": {
+      "hash": "5bae9155e4856cd66f86a9eda71519d26603d6f6e6cd2d2e96fbc481b9ed259b",
+      "size": 35096
+    },
+    "PySide2/plugins/imageformats/qwebp.dll": {
+      "hash": "ea9e97d98f5a803830138c833d302f3a12aef9e9b39ec6dff78133fbf2207080",
+      "size": 515352
+    },
+    "PySide2/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll": {
+      "hash": "4776be17fd95a6ac6fee5f3ba7e57868cbde956c372e392b09b1fc1d0a957868",
+      "size": 49432
+    },
+    "PySide2/plugins/platforms/qdirect2d.dll": {
+      "hash": "a1b1860501ca29892a8411987f489590083c0f720f23626c766bd196dd31cf25",
+      "size": 1544984
+    },
+    "PySide2/plugins/platforms/qminimal.dll": {
+      "hash": "2fff09c466bf9d5e91532bc92c8b4e18809b7e4e6ab32e9cbd2fa99578f152c4",
+      "size": 849688
+    },
+    "PySide2/plugins/platforms/qoffscreen.dll": {
+      "hash": "0fe9b82b3c56029fbe2db4d1d91670ae1b1b5e67c1944c729f3edfb32d3af068",
+      "size": 759576
+    },
+    "PySide2/plugins/platforms/qwebgl.dll": {
+      "hash": "284e3b9d592cb959bce5a8959c68781b79e966127da97683142671d8174fecc6",
+      "size": 487192
+    },
+    "PySide2/plugins/platforms/qwindows.dll": {
+      "hash": "9a91d16703f11e8fcac85537d03e2b34bbbb54001e681ea4e310e5ed5840674b",
+      "size": 1482008
+    },
+    "PySide2/plugins/platformthemes/qxdgdesktopportal.dll": {
+      "hash": "647971a49bbcf8ef3d1b321baaa58cbe58ddd342f1de4e0511fb7600f75f24c5",
+      "size": 73496
+    },
+    "PySide2/plugins/printsupport/windowsprintersupport.dll": {
+      "hash": "a3f03a96945af09e8932a4922c0255160d6165b7aca34a4e77d005106c50cda8",
+      "size": 60184
+    },
+    "PySide2/plugins/styles/qwindowsvistastyle.dll": {
+      "hash": "f99524b208dceb5e3d1161368eef1b72a15ec50ed39d9c38d3220dcdff51d476",
+      "size": 149272
+    },
+    "PySide2/translations/qtbase_ar.qm": {
+      "hash": "e03fe68d83201543698fd7fe267dd5dfc5bfd195147e74ff2f19ac3491401263",
+      "size": 160017
+    },
+    "PySide2/translations/qtbase_bg.qm": {
+      "hash": "e448ac9e3f16c29eb27af3012efe21052daa78fabfb34cd6dff2f69ee3bd3cdb",
+      "size": 165337
+    },
+    "PySide2/translations/qtbase_ca.qm": {
+      "hash": "52e94fcc9490889b55812c5433d009b44bdc2dc3170eb55b1af444ef4aae1d7f",
+      "size": 210159
+    },
+    "PySide2/translations/qtbase_cs.qm": {
+      "hash": "03028b42df5479270371e4c3bdc7df2f56cbbe6dda956a2864ac6f6415861fe8",
+      "size": 174701
+    },
+    "PySide2/translations/qtbase_da.qm": {
+      "hash": "7d1e5ca3310b54d104c19bf2abd402b38e584e87039a70e153c4a9af74b25c22",
+      "size": 181387
+    },
+    "PySide2/translations/qtbase_de.qm": {
+      "hash": "553c046835db9adef15954fa9a576625366ba8bfd16637038c4bcd28e5ebace1",
+      "size": 220467
+    },
+    "PySide2/translations/qtbase_en.qm": {
+      "hash": "9959b510b15d18937848ad13007e30459d2e993c67e564badbfc18f935695c85",
+      "size": 16
+    },
+    "PySide2/translations/qtbase_es.qm": {
+      "hash": "4ffda56ba3bb5414ab0482d1dde64a6f226e3488f6b7f3f11a150e01f53fa4c8",
+      "size": 165170
+    },
+    "PySide2/translations/qtbase_fi.qm": {
+      "hash": "e47fe13713e184d07fa4495dde0c589b0e8f562e91574a3558a9363443a4fa72",
+      "size": 179941
+    },
+    "PySide2/translations/qtbase_fr.qm": {
+      "hash": "edb32a933cef376a2636634e14e2977ced6284e4aa9a4ac7e2292f9ca54c384a",
+      "size": 166167
+    },
+    "PySide2/translations/qtbase_gd.qm": {
+      "hash": "63b439dd44139aa3aed54c2ebe03fa9bc77f22c14ed8fba8eff2608445bb233d",
+      "size": 189580
+    },
+    "PySide2/translations/qtbase_he.qm": {
+      "hash": "e1ebca16afe8994356f81ca007fbdb9ddf865842010fe908923d873b687cad3f",
+      "size": 138690
+    },
+    "PySide2/translations/qtbase_hu.qm": {
+      "hash": "c61b67bb9d1e84f0ab0792b6518fe055414a68e44d0c7bc7c862773800fa8299",
+      "size": 160494
+    },
+    "PySide2/translations/qtbase_it.qm": {
+      "hash": "7c7dc8b45bf4e41fec60021ab13d9c7655be007b8123db8d7537a119eb64a366",
+      "size": 161172
+    },
+    "PySide2/translations/qtbase_ja.qm": {
+      "hash": "cba382acc44d3680d400f2c625de93d0c4bd72a90102769edfd1fe91cb9b617b",
+      "size": 129911
+    },
+    "PySide2/translations/qtbase_ko.qm": {
+      "hash": "0179ed1b136e1cb3f583351eaa2c545ba3d83a6ee3f82c32505926a1a5f5f183",
+      "size": 156799
+    },
+    "PySide2/translations/qtbase_lv.qm": {
+      "hash": "846e047573ae40c83671c3ba7f73e27efc24b98c82701da0df9973e574178bb2",
+      "size": 153608
+    },
+    "PySide2/translations/qtbase_pl.qm": {
+      "hash": "ce99032a3b0bf8abad758895cc22837088ead99fd2d2514e2d180693081cfe57",
+      "size": 162982
+    },
+    "PySide2/translations/qtbase_ru.qm": {
+      "hash": "3da6605668f9178d11a838c4515478084dcfb4f9cf22f99d7a92b492db9c224b",
+      "size": 203767
+    },
+    "PySide2/translations/qtbase_sk.qm": {
+      "hash": "d586ae2c314074cf398417fdecb40709d5478dfeb0a67c2fe60d509ee9b59ed7",
+      "size": 125763
+    },
+    "PySide2/translations/qtbase_tr.qm": {
+      "hash": "6a0bf6e70e7920c2b193e76e92f78f315936955d3b06ac039d917f2e06c43281",
+      "size": 194487
+    },
+    "PySide2/translations/qtbase_uk.qm": {
+      "hash": "51b8ff55b37dc5907d637a8ddda12fbe816852b0244c74eb4f0fb84867a786e0",
+      "size": 158274
+    },
+    "PySide2/translations/qtbase_zh_TW.qm": {
+      "hash": "085d29eaf9bbb788b2f2503d74a1ef963a9411ceb600441254ce49a120e1ab63",
+      "size": 127849
+    },
+    "PySide2/translations/qt_ar.qm": {
+      "hash": "a8a1b0d6f958e7366d1c856be61000106d3e7fc993fb931675369892b9002d0b",
+      "size": 130
+    },
+    "PySide2/translations/qt_bg.qm": {
+      "hash": "9e1ce4d91852352043d9191f1a992838f919cba7e2f2d9bb1161e494e8bf5f5e",
+      "size": 153
+    },
+    "PySide2/translations/qt_ca.qm": {
+      "hash": "171c7424b24d8502ab53cb3784ff34d8fcfae26557cf8af4dfddec6485acc2fe",
+      "size": 153
+    },
+    "PySide2/translations/qt_cs.qm": {
+      "hash": "3c0cbfd19490d67d1b3b9e944c3a4d9a9e7f87d7ae35e88d5d5a0077349b5b21",
+      "size": 157
+    },
+    "PySide2/translations/qt_da.qm": {
+      "hash": "b5036161ce808c728e5fda985f792db565831fd01cf00b282547790c037353a2",
+      "size": 153
+    },
+    "PySide2/translations/qt_de.qm": {
+      "hash": "5805b8ff3747849794e2d70661d737c69c15f1ae763c38e17084b1e5a81e9153",
+      "size": 153
+    },
+    "PySide2/translations/qt_en.qm": {
+      "hash": "9959b510b15d18937848ad13007e30459d2e993c67e564badbfc18f935695c85",
+      "size": 16
+    },
+    "PySide2/translations/qt_es.qm": {
+      "hash": "e25e43f046f61022ffe871a2f73c6a12edfc5c3efd958c0e019a721860a053b0",
+      "size": 153
+    },
+    "PySide2/translations/qt_fa.qm": {
+      "hash": "b292afb0763b8c7c30a5af7372bfc12d8a0d00bf3dd4a000715d9f576d9c1a39",
+      "size": 293121
+    },
+    "PySide2/translations/qt_fi.qm": {
+      "hash": "048ca42dce4faf5fc21d843576e3c6fd963146ecc78554e7e5f34d07f64fb213",
+      "size": 117
+    },
+    "PySide2/translations/qt_fr.qm": {
+      "hash": "8624033d849e670b12c9532337fcbf260f20848e044fee7787cfe2ac92be28db",
+      "size": 153
+    },
+    "PySide2/translations/qt_gd.qm": {
+      "hash": "49df855a004a17950338af3146466f6df4d5852410bd0b58ea80e0d0203a9d24",
+      "size": 70
+    },
+    "PySide2/translations/qt_gl.qm": {
+      "hash": "204a01ac7deb6b5bae193afecbd1e50d18c73bf7d94badeb2bbfdf6123c4ed93",
+      "size": 323590
+    },
+    "PySide2/translations/qt_he.qm": {
+      "hash": "c113d14e218d5402b616dabea27969c6f83852676468c5ef051dddefb3ee0235",
+      "size": 83
+    },
+    "PySide2/translations/qt_help_ar.qm": {
+      "hash": "222088c9752d1cc3bab985ef2dc77e5ae78578dce18a61ec15b39f02e588163d",
+      "size": 8743
+    },
+    "PySide2/translations/qt_help_bg.qm": {
+      "hash": "cbcdd1e0bbae332d80ddb0a286056f17c824fa28d353d7fdf12fc97d9f6fe054",
+      "size": 10599
+    },
+    "PySide2/translations/qt_help_ca.qm": {
+      "hash": "ecd4283a660f2cf72849b323810d7eadd063120b6f561e05aa1243a5b280946a",
+      "size": 7444
+    },
+    "PySide2/translations/qt_help_cs.qm": {
+      "hash": "4ac56fc63e400943bab13f1d4c418502138908e1d488c24aee6131d3d17552aa",
+      "size": 15297
+    },
+    "PySide2/translations/qt_help_da.qm": {
+      "hash": "6bb092552a398687119f6d52145f04bf8373977446d8f00c0dcbd56b96829f0f",
+      "size": 4795
+    },
+    "PySide2/translations/qt_help_de.qm": {
+      "hash": "9962523fbae9f1e4c3b5c3c16860d059291cb30dc5ebe5a5eda4c836a03fed1e",
+      "size": 7570
+    },
+    "PySide2/translations/qt_help_en.qm": {
+      "hash": "9959b510b15d18937848ad13007e30459d2e993c67e564badbfc18f935695c85",
+      "size": 16
+    },
+    "PySide2/translations/qt_help_es.qm": {
+      "hash": "fd16b279f8cf69077f75e94d90c9c07a2afff3948a579e3789f5ffb5e5f4202d",
+      "size": 10704
+    },
+    "PySide2/translations/qt_help_fr.qm": {
+      "hash": "687e351c062f688aaff6cf05218d6017b80b1a1b4238d1d30250a55ee41c5fed",
+      "size": 10922
+    },
+    "PySide2/translations/qt_help_gl.qm": {
+      "hash": "7399a248609974773f60866c87b78ea7dfbc4f750313d692f7886cd763883c9f",
+      "size": 10891
+    },
+    "PySide2/translations/qt_help_hu.qm": {
+      "hash": "70f33b569c2942f41c6d634ea6a61cb8d80eb2c7011bad48ef6dbae9677960d5",
+      "size": 10284
+    },
+    "PySide2/translations/qt_help_it.qm": {
+      "hash": "316fe8d0815e2b4b396895beb38ef1a40431915b5e054df80f4c0cd556f26e4b",
+      "size": 10612
+    },
+    "PySide2/translations/qt_help_ja.qm": {
+      "hash": "ae603b2c0d434d40cde433ffcba65f9ee27978a9e19316007be7fe782a5b8b47",
+      "size": 7917
+    },
+    "PySide2/translations/qt_help_ko.qm": {
+      "hash": "f11c64694e8e34e1d2c46c1a1d15d6ba9f2db7b61de4fdf54eca5ab977c3e052",
+      "size": 5708
+    },
+    "PySide2/translations/qt_help_pl.qm": {
+      "hash": "cc6cb4d8c54086224672f2e49e623c8cb7c0c1cd65b8d5ecd42fc9ba3a6065bd",
+      "size": 9673
+    },
+    "PySide2/translations/qt_help_ru.qm": {
+      "hash": "557b644e6da5f1ec720ef93965617087e4d1f40b2494cc5aa524cf3796108de7",
+      "size": 7288
+    },
+    "PySide2/translations/qt_help_sk.qm": {
+      "hash": "f41e33e1d790bd0d3eb180f1f875bc191fe74773628f25c2cad95e1402e66867",
+      "size": 10388
+    },
+    "PySide2/translations/qt_help_sl.qm": {
+      "hash": "2ec955e662407ebcd8dcdae5aaa21e4108e0b5b0aee0e9db712c27072943535f",
+      "size": 10363
+    },
+    "PySide2/translations/qt_help_tr.qm": {
+      "hash": "ebdeca0cfee7a9441deb800babfd97c63bc4e421da885c55b3bd49725ebacd25",
+      "size": 4629
+    },
+    "PySide2/translations/qt_help_uk.qm": {
+      "hash": "497cfc473684692ee44d7a3795e8fb2270c57069fd9eb98a615dd29ab9be8a7c",
+      "size": 9750
+    },
+    "PySide2/translations/qt_help_zh_CN.qm": {
+      "hash": "c02aaa20923f18addab520be5cb84efd4c723396bdc24b4c9a72d406f101c7b4",
+      "size": 6441
+    },
+    "PySide2/translations/qt_help_zh_TW.qm": {
+      "hash": "3697f1660d7f2ac9b37ac33cd1c7ecae08adbd26710e7e0076497ccddc8bc830",
+      "size": 9301
+    },
+    "PySide2/translations/qt_hu.qm": {
+      "hash": "bb246aabd501e14ced8b1ffc1369e3d5d26567aae62b3ead4d94c22fb77c3471",
+      "size": 146
+    },
+    "PySide2/translations/qt_it.qm": {
+      "hash": "9117aac2d07bc86dfa55a29b8825ed27c7093300fcc90e143e135e00e85f09d7",
+      "size": 153
+    },
+    "PySide2/translations/qt_ja.qm": {
+      "hash": "23457ce8e44e233c6f85d56a4ee6a2cecd87c9c7bdde6d8b8a925902eed1cd9c",
+      "size": 146
+    },
+    "PySide2/translations/qt_ko.qm": {
+      "hash": "4cc1af37e771f0a43898849cff2cd42a820451b8d2b2e88931031629d781db05",
+      "size": 146
+    },
+    "PySide2/translations/qt_lt.qm": {
+      "hash": "47eb5f97467df769261421d54a5bea1131c9fb9b6388791d38bb6574335b64bf",
+      "size": 165383
+    },
+    "PySide2/translations/qt_lv.qm": {
+      "hash": "03467738042a15676e504ba02cb326dcdb773b171fada3cd62b7a0e0564314a0",
+      "size": 89
+    },
+    "PySide2/translations/qt_pl.qm": {
+      "hash": "bd7dd0c2cab119a973dc10c3bff7499d9728b928b541f86056921b30c8db78e6",
+      "size": 161
+    },
+    "PySide2/translations/qt_pt.qm": {
+      "hash": "2c1e7bbf5168a64b43752dd4c547601c0bde6d610f8671fa3e3af38597e84783",
+      "size": 70334
+    },
+    "PySide2/translations/qt_ru.qm": {
+      "hash": "6492b267608c6fb76907bd8fcfc8f1ef57e9f4ebbc2e81aca81715a88388f94a",
+      "size": 164
+    },
+    "PySide2/translations/qt_sk.qm": {
+      "hash": "b6adffd889ff96bf195cb997327e7d7005a815cad67823fa6915a19c2d9bb668",
+      "size": 157
+    },
+    "PySide2/translations/qt_sl.qm": {
+      "hash": "c44e0313a9414cc0e490b65b0c036fa11bca959353b228886547bc2c8492034f",
+      "size": 228428
+    },
+    "PySide2/translations/qt_sv.qm": {
+      "hash": "4b4b6ff7fd237c9da0301b4946132e68653d15eb5faf38e4c5fbfebb12dd97f7",
+      "size": 65851
+    },
+    "PySide2/translations/qt_tr.qm": {
+      "hash": "f574a2cfd4715885c3dbdf5ae60995252673bd94fdaa9586f7e0586f6c1ac0ee",
+      "size": 110
+    },
+    "PySide2/translations/qt_uk.qm": {
+      "hash": "f1621e680e1642f9463e4b07e7e78b50f9a7bdb7c321d7302039cb3405cbdea4",
+      "size": 164
+    },
+    "PySide2/translations/qt_zh_CN.qm": {
+      "hash": "28cde75d7b32c81fef1d4630c37b79a61dec24b357632ff00d6365a57d8be43b",
+      "size": 117347
+    },
+    "PySide2/translations/qt_zh_TW.qm": {
+      "hash": "751ecda0c33e061d91241268357fbd2f6b7f70a1116e714f28d22efd61ec7a1a",
+      "size": 141
+    },
+    "Pythonwin/mfc140u.dll": {
+      "hash": "643ce7fe6a203c53a96a00f272a1a5b42d5b0c320c84364a6fe866307a19bb65",
+      "size": 5664848
+    },
+    "Pythonwin/win32ui.pyd": {
+      "hash": "6bf6e90e3928ec70106c60b40382601eaf0ad07fb84bccbe6710da0331110dfb",
+      "size": 1147904
+    },
+    "pytz/zoneinfo/CET": {
+      "hash": "812f55aeb6e8cde9ddf4786e15eb4256b21e82cf5f5d28da1bad17d94570cac0",
+      "size": 2933
+    },
+    "pytz/zoneinfo/CST6CDT": {
+      "hash": "feba326ebe88eac20017a718748c46c68469a1e7f5e7716dcb8f1d43a6e6f686",
+      "size": 3592
+    },
+    "pytz/zoneinfo/Cuba": {
+      "hash": "1d441e02e281b04908e522d98eaca75c808e51539a8e42b3287e6bf8ebf939d7",
+      "size": 2416
+    },
+    "pytz/zoneinfo/EET": {
+      "hash": "5c363e14151d751c901cdf06c502d9e1ac23b8e956973954763bfb39d5c53730",
+      "size": 2262
+    },
+    "pytz/zoneinfo/Egypt": {
+      "hash": "2dfb7e1822d085a4899bd56a526b041681c84b55617daee91499fd1990a989fb",
+      "size": 2399
+    },
+    "pytz/zoneinfo/Eire": {
+      "hash": "40e8d2a1c3b572284da39f6f4245b1bc814f452c44f5aa73d0a011571d5ccc43",
+      "size": 3492
+    },
+    "pytz/zoneinfo/EST": {
+      "hash": "91ac80fe976931c490d058c8ce8b5d71ffa6d4961f6ca13ea9c153f0b0bccea0",
+      "size": 182
+    },
+    "pytz/zoneinfo/EST5EDT": {
+      "hash": "e9ed07d7bee0c76a9d442d091ef1f01668fee7c4f26014c0a868b19fe6c18a95",
+      "size": 3552
+    },
+    "pytz/zoneinfo/Factory": {
+      "hash": "6851652b1f771d7a09a05e124ae4e50fc719b4903e9dee682b301ae9e5f65789",
+      "size": 116
+    },
+    "pytz/zoneinfo/GB": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/GB-Eire": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/GMT": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/GMT+0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/GMT-0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/GMT0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Greenwich": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Hongkong": {
+      "hash": "6a5fcee243e5ab92698242d88c4699ceb7208a22ee97d342d11e41ebd2555a17",
+      "size": 1233
+    },
+    "pytz/zoneinfo/HST": {
+      "hash": "7f03d1bf5264e7ab023a2ef9b997ddfc8cb6936692407c770762b9c549523f33",
+      "size": 329
+    },
+    "pytz/zoneinfo/Iceland": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Iran": {
+      "hash": "2dbd87f410815edcfcd7d14be84de0040ef0d913a22203e0c7e7f4f17a6a915a",
+      "size": 1248
+    },
+    "pytz/zoneinfo/iso3166.tab": {
+      "hash": "837c80785080c8433fd9d4ea87e78f161ac7a40389301c5153d4f90198baeb2a",
+      "size": 4841
+    },
+    "pytz/zoneinfo/Israel": {
+      "hash": "254b964265b94e16b4a498f0eb543968dec25f4cf80fba29b3d38e4a775ae837",
+      "size": 2388
+    },
+    "pytz/zoneinfo/Jamaica": {
+      "hash": "c256a089e50f45fe7e6de89efa1ed0b0e35b3738c6b26f2f32cf2e7f6f29c36f",
+      "size": 482
+    },
+    "pytz/zoneinfo/Japan": {
+      "hash": "a02b9e66044dc5c35c5f76467627fdcba4aee1cc958606b85c777095cad82ceb",
+      "size": 309
+    },
+    "pytz/zoneinfo/Kwajalein": {
+      "hash": "4e667fd1ffb2490fac6810254575747f8f48b709dee755415e7eab59cad6a874",
+      "size": 302
+    },
+    "pytz/zoneinfo/leapseconds": {
+      "hash": "d6c8c0330527d995de5e50af9c07b929fa9d69d92e723cfb623b4ae6fae6d3b5",
+      "size": 3698
+    },
+    "pytz/zoneinfo/Libya": {
+      "hash": "5b5769b460fbd13ee9a46a28d1f733150783888a749ee96d2cd3d5eba3300767",
+      "size": 625
+    },
+    "pytz/zoneinfo/MET": {
+      "hash": "812f55aeb6e8cde9ddf4786e15eb4256b21e82cf5f5d28da1bad17d94570cac0",
+      "size": 2933
+    },
+    "pytz/zoneinfo/MST": {
+      "hash": "8a5973d2c62e2cbf2520f2b44e4a2ee9d2f455c93f0f45bfdeb4533af1584664",
+      "size": 360
+    },
+    "pytz/zoneinfo/MST7MDT": {
+      "hash": "32e819c00a43b3c348f539d700d425504f20b8d068c16418d26fa9b693e775c9",
+      "size": 2460
+    },
+    "pytz/zoneinfo/Navajo": {
+      "hash": "32e819c00a43b3c348f539d700d425504f20b8d068c16418d26fa9b693e775c9",
+      "size": 2460
+    },
+    "pytz/zoneinfo/NZ": {
+      "hash": "8000e3a323e8fd0212414e9426b020707a771c368ca0e151747f9ddb7b814b27",
+      "size": 2437
+    },
+    "pytz/zoneinfo/NZ-CHAT": {
+      "hash": "c617b155ce657c9fea02fd9ddc7ac823a95f452c4a6580408d8db3a58902184f",
+      "size": 2054
+    },
+    "pytz/zoneinfo/Poland": {
+      "hash": "4e22c33db79517472480b54491a49e0da299f3072d7490ce97f1c4fd6779acab",
+      "size": 2654
+    },
+    "pytz/zoneinfo/Portugal": {
+      "hash": "92b07cb24689226bf934308d1f1bd33c306aa4da610c52cd5bce25077960502c",
+      "size": 3527
+    },
+    "pytz/zoneinfo/PRC": {
+      "hash": "64ffc2e43a94435a043c040d1d3af7e92d031adc78e7737af1861baa4eeef3e6",
+      "size": 561
+    },
+    "pytz/zoneinfo/PST8PDT": {
+      "hash": "68977bb9ad6d186fefc6c7abd36010a66e30008dcb2d376087a41c49861e7268",
+      "size": 2852
+    },
+    "pytz/zoneinfo/ROC": {
+      "hash": "0cc990c0ea4faa5db9b9edcd7fcbc028a4f87a6d3a0f567dac76cb222b718b19",
+      "size": 761
+    },
+    "pytz/zoneinfo/ROK": {
+      "hash": "2c8f4bb15dd77090b497e2a841ff3323ecbbae4f9dbb9edead2f8dd8fb5d8bb4",
+      "size": 617
+    },
+    "pytz/zoneinfo/Singapore": {
+      "hash": "5e67952267aa709f212739bb4e302d8b59d6240c5ac0eaaaee32330e71d7da12",
+      "size": 401
+    },
+    "pytz/zoneinfo/Turkey": {
+      "hash": "264e308e7743b5afee2d673c5b57567636dabc925bb0be513939996e856718a5",
+      "size": 1933
+    },
+    "pytz/zoneinfo/tzdata.zi": {
+      "hash": "56da07d77d9a8799b631a0873c4e7045ea31e83355d9c2bcd45b01bddb00e0f4",
+      "size": 107480
+    },
+    "pytz/zoneinfo/UCT": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Universal": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/UTC": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/W-SU": {
+      "hash": "2a69287d1723e93f0f876f0f242866f09569d77b91bde7fa4d9d06b8fcd4883c",
+      "size": 1535
+    },
+    "pytz/zoneinfo/WET": {
+      "hash": "92b07cb24689226bf934308d1f1bd33c306aa4da610c52cd5bce25077960502c",
+      "size": 3527
+    },
+    "pytz/zoneinfo/zone.tab": {
+      "hash": "586b4207e6c76722de82adcda6bf49d761f668517f45a673f64da83b333eecc4",
+      "size": 18822
+    },
+    "pytz/zoneinfo/zone1970.tab": {
+      "hash": "e9d9fe30942a880f756b73f649667d8647a1ecf2131149445d9cc24c65e4ee8f",
+      "size": 17605
+    },
+    "pytz/zoneinfo/zonenow.tab": {
+      "hash": "a3c79f87a5a2b64748e106f994e2f979c04fd9416de7b92a1669c39d4ed84b0c",
+      "size": 7926
+    },
+    "pytz/zoneinfo/Zulu": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Africa/Abidjan": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Accra": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Addis_Ababa": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Algiers": {
+      "hash": "bda1698cd542c0e6e76dfbbcdab390cdd26f37a9d5826a57a50d5aab37f3b2a6",
+      "size": 735
+    },
+    "pytz/zoneinfo/Africa/Asmara": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Asmera": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Bamako": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Bangui": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Banjul": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Bissau": {
+      "hash": "223bb10cfe846620c716f97f6c74ba34deec751c4b297965a28042f36f69a1a9",
+      "size": 194
+    },
+    "pytz/zoneinfo/Africa/Blantyre": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Brazzaville": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Bujumbura": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Cairo": {
+      "hash": "2dfb7e1822d085a4899bd56a526b041681c84b55617daee91499fd1990a989fb",
+      "size": 2399
+    },
+    "pytz/zoneinfo/Africa/Casablanca": {
+      "hash": "e11a956f0fc5dd9b9ca29202da2bc027c583c23e7044e0c007aeed0697577200",
+      "size": 2429
+    },
+    "pytz/zoneinfo/Africa/Ceuta": {
+      "hash": "0b0fb6fe714319b37c5aa22c56971abb2668a165fc8f72a6c763e70b47c7badf",
+      "size": 2052
+    },
+    "pytz/zoneinfo/Africa/Conakry": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Dakar": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Dar_es_Salaam": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Djibouti": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Douala": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/El_Aaiun": {
+      "hash": "516082a902c9c5df2ab13630f36933f56d6cbb05b94d1827670df5b03583cf6d",
+      "size": 2295
+    },
+    "pytz/zoneinfo/Africa/Freetown": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Gaborone": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Harare": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Johannesburg": {
+      "hash": "6c1bcc752668e77585a308ae8543bd0bccd8e813865626e809bf94f3fe3d977e",
+      "size": 246
+    },
+    "pytz/zoneinfo/Africa/Juba": {
+      "hash": "5159c8a843c9c072d3302fabe6a6501cdbfda29a1856c29dabeb5aff95d4c3f4",
+      "size": 679
+    },
+    "pytz/zoneinfo/Africa/Kampala": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Khartoum": {
+      "hash": "318583a09dc070222d65d029a1e3a0b565830f1aaec13a27e6fe533863fbd3ea",
+      "size": 679
+    },
+    "pytz/zoneinfo/Africa/Kigali": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Kinshasa": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Lagos": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Libreville": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Lome": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Luanda": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Lubumbashi": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Lusaka": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Malabo": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Maputo": {
+      "hash": "444ed3a710414bc6bf43eb27e591da49d3be3db153449a6a0c9473f7e39fdbcb",
+      "size": 149
+    },
+    "pytz/zoneinfo/Africa/Maseru": {
+      "hash": "6c1bcc752668e77585a308ae8543bd0bccd8e813865626e809bf94f3fe3d977e",
+      "size": 246
+    },
+    "pytz/zoneinfo/Africa/Mbabane": {
+      "hash": "6c1bcc752668e77585a308ae8543bd0bccd8e813865626e809bf94f3fe3d977e",
+      "size": 246
+    },
+    "pytz/zoneinfo/Africa/Mogadishu": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Monrovia": {
+      "hash": "f95b095b9714e0a76f7e061a415bf895cbb399a28854531de369cee915ce05d5",
+      "size": 208
+    },
+    "pytz/zoneinfo/Africa/Nairobi": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Africa/Ndjamena": {
+      "hash": "f13dc0d199bd1a3d01be6eab77cf2ddc60172a229d1947c7948a98964608d0a3",
+      "size": 199
+    },
+    "pytz/zoneinfo/Africa/Niamey": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Nouakchott": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Ouagadougou": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Porto-Novo": {
+      "hash": "cffeb0282ccbd7fba0e493ff8677a1e5a6dd5197885042e437f95a773f844846",
+      "size": 235
+    },
+    "pytz/zoneinfo/Africa/Sao_Tome": {
+      "hash": "31d8f1a50dbaf2ecc9ed9c7566ba0552d454c2ab09e85ff263701857d157c352",
+      "size": 254
+    },
+    "pytz/zoneinfo/Africa/Timbuktu": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Africa/Tripoli": {
+      "hash": "5b5769b460fbd13ee9a46a28d1f733150783888a749ee96d2cd3d5eba3300767",
+      "size": 625
+    },
+    "pytz/zoneinfo/Africa/Tunis": {
+      "hash": "38554c10ce1e613d84cf46deba1114093488a5c165756c6c576b84a1364850d2",
+      "size": 689
+    },
+    "pytz/zoneinfo/Africa/Windhoek": {
+      "hash": "c6e86fb9dacc1f86a59d59a8b924d023c60bf05fc76e0b05d8443b0192b3b87b",
+      "size": 955
+    },
+    "pytz/zoneinfo/America/Adak": {
+      "hash": "201d4387025000a6e13c9f631cb7fccd6e4369dec7224052f9d86feb81353a53",
+      "size": 2356
+    },
+    "pytz/zoneinfo/America/Anchorage": {
+      "hash": "a190353523d2d8159dca66299c21c53bc0656154be965e4a2e0d84cfd09b113b",
+      "size": 2371
+    },
+    "pytz/zoneinfo/America/Anguilla": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Antigua": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Araguaina": {
+      "hash": "1babfdc18159f040785907c8b2a45b6e288a7766f6ee3ed9b797458c16f3c76a",
+      "size": 870
+    },
+    "pytz/zoneinfo/America/Aruba": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Asuncion": {
+      "hash": "f727c68843615cd81ddbfd311d5b05fa12de264192a91b3ecc3f4ef78e4a2567",
+      "size": 1644
+    },
+    "pytz/zoneinfo/America/Atikokan": {
+      "hash": "91ac80fe976931c490d058c8ce8b5d71ffa6d4961f6ca13ea9c153f0b0bccea0",
+      "size": 182
+    },
+    "pytz/zoneinfo/America/Atka": {
+      "hash": "201d4387025000a6e13c9f631cb7fccd6e4369dec7224052f9d86feb81353a53",
+      "size": 2356
+    },
+    "pytz/zoneinfo/America/Bahia": {
+      "hash": "aa2edd03a1687c384bc553267762fc6cadc779a42773d5fe8e28a3c327e1b378",
+      "size": 1010
+    },
+    "pytz/zoneinfo/America/Bahia_Banderas": {
+      "hash": "32fad7189e4bcda1ce7a0b89ab1b33c63c4c85569f1956e4fa88d711ceff6042",
+      "size": 1100
+    },
+    "pytz/zoneinfo/America/Barbados": {
+      "hash": "8a66be42bae16b3bb841fbeed99d3e7ba13e193898927b8906ee9cdb2546f4b1",
+      "size": 436
+    },
+    "pytz/zoneinfo/America/Belem": {
+      "hash": "69931482d1437473484a9ab241161b992d88043f81012dc26899e1bbaa272c26",
+      "size": 562
+    },
+    "pytz/zoneinfo/America/Belize": {
+      "hash": "a647cb63629f3dc85b7896b5a56717996030a7866546fc562d57b35e7adb930b",
+      "size": 1614
+    },
+    "pytz/zoneinfo/America/Blanc-Sablon": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Boa_Vista": {
+      "hash": "74cb5a1b5d641a526b8092601961036590269cefc77d3dcbe17f2923bd8b2c56",
+      "size": 618
+    },
+    "pytz/zoneinfo/America/Bogota": {
+      "hash": "6757ab9d9646431ba513c28558761670cdd25758e7dbf404735434389cc745a9",
+      "size": 232
+    },
+    "pytz/zoneinfo/America/Boise": {
+      "hash": "ec742c34f262521790805cf99152ef4e77f9c615c061a78036a0ec9312b3d95b",
+      "size": 2410
+    },
+    "pytz/zoneinfo/America/Buenos_Aires": {
+      "hash": "26653c941c26cb6f6047a3a67b2b6f15d311c7a39b24a9d834798bc8c9975f63",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Cambridge_Bay": {
+      "hash": "ff8c51957dd6755a4472aa13ea6c83ecd7930979e7f4e624fe21f4d3a6f050ba",
+      "size": 2254
+    },
+    "pytz/zoneinfo/America/Campo_Grande": {
+      "hash": "8083625e0e62d9ee9187635ba366c5aa13c024be05e1c02a1a705a9e45d30d7c",
+      "size": 1430
+    },
+    "pytz/zoneinfo/America/Cancun": {
+      "hash": "11d574370d968cced59e3147a2ae63b126cbbae13b78fd4e13be2eb44c96246e",
+      "size": 864
+    },
+    "pytz/zoneinfo/America/Caracas": {
+      "hash": "99434c15d0f364b6affde3c0d68701766a950627ab91e12ccd3205a4d0a6e49d",
+      "size": 250
+    },
+    "pytz/zoneinfo/America/Catamarca": {
+      "hash": "b8c0895d719898d1121d5be3e5160167431cace744d788709b5ee5db9320456d",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Cayenne": {
+      "hash": "e24ec8bf5c285f86ada9e3caadcbcc403d9593d4e699aeeb5bf016fd1eb6a427",
+      "size": 184
+    },
+    "pytz/zoneinfo/America/Cayman": {
+      "hash": "91ac80fe976931c490d058c8ce8b5d71ffa6d4961f6ca13ea9c153f0b0bccea0",
+      "size": 182
+    },
+    "pytz/zoneinfo/America/Chicago": {
+      "hash": "feba326ebe88eac20017a718748c46c68469a1e7f5e7716dcb8f1d43a6e6f686",
+      "size": 3592
+    },
+    "pytz/zoneinfo/America/Chihuahua": {
+      "hash": "dcd8336de760f00cc0ab1b1b4121b48d5471f8bc58970d62de4c7e63397ed887",
+      "size": 1102
+    },
+    "pytz/zoneinfo/America/Ciudad_Juarez": {
+      "hash": "8abe1bdbb0e216b84bd07e1f650f769c46be041a0f7cb588cf7a61537ef77601",
+      "size": 1538
+    },
+    "pytz/zoneinfo/America/Coral_Harbour": {
+      "hash": "91ac80fe976931c490d058c8ce8b5d71ffa6d4961f6ca13ea9c153f0b0bccea0",
+      "size": 182
+    },
+    "pytz/zoneinfo/America/Cordoba": {
+      "hash": "ba788d8a184c1e7af85cae16a7088f527ac04f460f9afcea07a7f48512ed5ef6",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Costa_Rica": {
+      "hash": "ef8ad86ba96b80893296cf4f907a3c482625f683aa8ae1b94bb31676725e94fe",
+      "size": 316
+    },
+    "pytz/zoneinfo/America/Coyhaique": {
+      "hash": "6de65753a2f0e63c765a9ddd3519058a87d71a66b674ce83b2abc94fd0921dd7",
+      "size": 2126
+    },
+    "pytz/zoneinfo/America/Creston": {
+      "hash": "8a5973d2c62e2cbf2520f2b44e4a2ee9d2f455c93f0f45bfdeb4533af1584664",
+      "size": 360
+    },
+    "pytz/zoneinfo/America/Cuiaba": {
+      "hash": "19126a92145736c3947208d975d43144825d4586b0f6933f60b59bba7f3c7648",
+      "size": 1402
+    },
+    "pytz/zoneinfo/America/Curacao": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Danmarkshavn": {
+      "hash": "6116407d40a856d68bd4bf8c60c60c1f5c3239a5509df528fe0167bcc5d2bb3c",
+      "size": 698
+    },
+    "pytz/zoneinfo/America/Dawson": {
+      "hash": "ac01e1cae32eca37ff7b20364811bbe8c4417ff7e3ff18b9140ba2595420261c",
+      "size": 1614
+    },
+    "pytz/zoneinfo/America/Dawson_Creek": {
+      "hash": "6895c2c8fe23de0804e3018237e2eb4bd8690ffe73587cd04de4802935843d43",
+      "size": 1050
+    },
+    "pytz/zoneinfo/America/Denver": {
+      "hash": "32e819c00a43b3c348f539d700d425504f20b8d068c16418d26fa9b693e775c9",
+      "size": 2460
+    },
+    "pytz/zoneinfo/America/Detroit": {
+      "hash": "85e733f32a98d828f907ad46de02d9740559bd180af65d0ff7473f80dfae0f98",
+      "size": 2230
+    },
+    "pytz/zoneinfo/America/Dominica": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Edmonton": {
+      "hash": "f939087dcdd096f6827f4a7c08e678dd8d47441025fa7011522f8975778ad6f1",
+      "size": 2332
+    },
+    "pytz/zoneinfo/America/Eirunepe": {
+      "hash": "8f9784c648c56aab42f83f172b4ac6ce817dc8481b4a54db3ea546f562a111af",
+      "size": 642
+    },
+    "pytz/zoneinfo/America/El_Salvador": {
+      "hash": "82f18df0b923fac1a6dbfaecf0e52300c7f5a0cb4aa765deb3a51f593d16aa05",
+      "size": 224
+    },
+    "pytz/zoneinfo/America/Ensenada": {
+      "hash": "8c2e7b321726e6345912da396796bdb3672bfc4bd1a91c65ee58b38e004d4ca5",
+      "size": 2906
+    },
+    "pytz/zoneinfo/America/Fortaleza": {
+      "hash": "ae3892074ab5701b8c0ce33da2b5bfbb07b950e2c1c1395f8c5a2dc0e61ed665",
+      "size": 702
+    },
+    "pytz/zoneinfo/America/Fort_Nelson": {
+      "hash": "7ab7ce0ebdc3ad2a73eb990074eed3b367466d9c6f75d10fea0c78057df2d89d",
+      "size": 2240
+    },
+    "pytz/zoneinfo/America/Fort_Wayne": {
+      "hash": "90d2b2f4a8fd202b226187c209b020833300edec5ff86a463ccc685e8707532c",
+      "size": 1682
+    },
+    "pytz/zoneinfo/America/Glace_Bay": {
+      "hash": "1bc0c62c609aa47fda60217f3a168be50a277fb14e02000fc1e94ee61b425817",
+      "size": 2192
+    },
+    "pytz/zoneinfo/America/Godthab": {
+      "hash": "2865eb30df98918a550a02dda5c7f030543bec4b11006b235021b7c8052f55fc",
+      "size": 1889
+    },
+    "pytz/zoneinfo/America/Goose_Bay": {
+      "hash": "26068bb9e8214af5f683bdb914e7c882982fb2ac591b29163a1019586a506516",
+      "size": 3210
+    },
+    "pytz/zoneinfo/America/Grand_Turk": {
+      "hash": "e1838510f2bad017a5dbf7c2b18eaf499c5470c24a8e22adc8e7ff4349211305",
+      "size": 1834
+    },
+    "pytz/zoneinfo/America/Grenada": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Guadeloupe": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Guatemala": {
+      "hash": "76e81480277a418e76c87907b943f88d15b3a39c78dfd2108a06980af105e3a4",
+      "size": 280
+    },
+    "pytz/zoneinfo/America/Guayaquil": {
+      "hash": "8f652e228fb846048e95335fbbbee6859f76c1a35378a152be6a157a6268a13d",
+      "size": 232
+    },
+    "pytz/zoneinfo/America/Guyana": {
+      "hash": "4746cebc24430bc49121ec6686c76e3dd1db6d13f02361af883f68b44c6252b9",
+      "size": 248
+    },
+    "pytz/zoneinfo/America/Halifax": {
+      "hash": "4d9a667393f05a82df4df42843f6f7535ec113689529278d911d07a3c99b4e7f",
+      "size": 3424
+    },
+    "pytz/zoneinfo/America/Havana": {
+      "hash": "1d441e02e281b04908e522d98eaca75c808e51539a8e42b3287e6bf8ebf939d7",
+      "size": 2416
+    },
+    "pytz/zoneinfo/America/Hermosillo": {
+      "hash": "8b160a7acb4b992ee05a86e4f4aaba16d2d9a35caa6d601cb6b1542a5bb372dc",
+      "size": 388
+    },
+    "pytz/zoneinfo/America/Indianapolis": {
+      "hash": "90d2b2f4a8fd202b226187c209b020833300edec5ff86a463ccc685e8707532c",
+      "size": 1682
+    },
+    "pytz/zoneinfo/America/Inuvik": {
+      "hash": "e89fa66a90e7ae4f40d4bb6cc28137e2da92cbfb9f79d70404dc62c64ac48c8a",
+      "size": 2074
+    },
+    "pytz/zoneinfo/America/Iqaluit": {
+      "hash": "7de3a7c40374374afe335aa592b03824cc9ac28734b6a69ed2288108f0c0b389",
+      "size": 2202
+    },
+    "pytz/zoneinfo/America/Jamaica": {
+      "hash": "c256a089e50f45fe7e6de89efa1ed0b0e35b3738c6b26f2f32cf2e7f6f29c36f",
+      "size": 482
+    },
+    "pytz/zoneinfo/America/Jujuy": {
+      "hash": "3c69807a1ca90b18f45c27a70925aaca50c83db28b2b40e5af024aff6e03e7dd",
+      "size": 1034
+    },
+    "pytz/zoneinfo/America/Juneau": {
+      "hash": "93b8716f46864677e713e0c18b72e472303344fc807f4fc7c34bd515f8c679bd",
+      "size": 2353
+    },
+    "pytz/zoneinfo/America/Knox_IN": {
+      "hash": "0acbd9e412b0daa55abf7c7f17c094f6d68974393b8d7e3509fb2a9acea35d5f",
+      "size": 2444
+    },
+    "pytz/zoneinfo/America/Kralendijk": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/La_Paz": {
+      "hash": "86a7c3f0b407ba97598638b67bddfff69390013f91ee6bb3ce33f49f27db1576",
+      "size": 218
+    },
+    "pytz/zoneinfo/America/Lima": {
+      "hash": "1c78139c3527099ce26ef2f432b1bcab23aebe3998630ddedd1e556e7c4c66cf",
+      "size": 392
+    },
+    "pytz/zoneinfo/America/Los_Angeles": {
+      "hash": "68977bb9ad6d186fefc6c7abd36010a66e30008dcb2d376087a41c49861e7268",
+      "size": 2852
+    },
+    "pytz/zoneinfo/America/Louisville": {
+      "hash": "b4fd3bdb157f9ffbc8423c71709efb0067868fac8bd4a3e99f77f089db3d8355",
+      "size": 2788
+    },
+    "pytz/zoneinfo/America/Lower_Princes": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Maceio": {
+      "hash": "dd1e439527b7da44039a8495216a5cca4da8eeaa21afeae58b0a834861483324",
+      "size": 730
+    },
+    "pytz/zoneinfo/America/Managua": {
+      "hash": "c41cc5d350079f61367c3f10772f831c57b7e94aa878da4a3df0a176e04a59d9",
+      "size": 430
+    },
+    "pytz/zoneinfo/America/Manaus": {
+      "hash": "17a44b38e78e8bd972999890990f6947cb45a4f67a120b8d74f7ce73a0615c31",
+      "size": 590
+    },
+    "pytz/zoneinfo/America/Marigot": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Martinique": {
+      "hash": "7ccb3cd24394d9816f0b47fdcb67a37bdec9780b536016a65eb9e54ee9cd2f34",
+      "size": 232
+    },
+    "pytz/zoneinfo/America/Matamoros": {
+      "hash": "7eaf8fa9d999ad0f7c52c1661c0f62be3059bf91840514ceb8b4390aee5a8d6f",
+      "size": 1418
+    },
+    "pytz/zoneinfo/America/Mazatlan": {
+      "hash": "0561f636a54f0353ecc842cf37fd8117c2a596bb26424aa0d5eba3b10be79f1f",
+      "size": 1060
+    },
+    "pytz/zoneinfo/America/Mendoza": {
+      "hash": "c5c395b6f47255814053dd32d90630a72421a4c2f2029efe171be4bb89209747",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Menominee": {
+      "hash": "02bbfd58b6df84d72946c5231c353be7b044770969d3c1addf4022c46de0674e",
+      "size": 2274
+    },
+    "pytz/zoneinfo/America/Merida": {
+      "hash": "4953441c26b38e899fb67b8f5416b2148f84f884345a696e1df4e91cfd21dddd",
+      "size": 1004
+    },
+    "pytz/zoneinfo/America/Metlakatla": {
+      "hash": "b709a27864d563657e53c9c5c6abf1edab18bfc1958de59d2edace23b500a552",
+      "size": 1423
+    },
+    "pytz/zoneinfo/America/Mexico_City": {
+      "hash": "528836f85316cf6a35da347ab0af6f7a625a98b7a8e8e105310477b34c53c647",
+      "size": 1222
+    },
+    "pytz/zoneinfo/America/Miquelon": {
+      "hash": "979b7104961ef474d166520b71b48bfc734362b8d46f4a2e79c372ed012483d7",
+      "size": 1652
+    },
+    "pytz/zoneinfo/America/Moncton": {
+      "hash": "5a6bfe6e4f5a28a7165b33a9735505bbaec739fc1a224d969a1dcb82a19cb72b",
+      "size": 3154
+    },
+    "pytz/zoneinfo/America/Monterrey": {
+      "hash": "622c5311226e6dfe990545f2ea0df6840336811e065d73ea394e2dbf42f7906d",
+      "size": 1114
+    },
+    "pytz/zoneinfo/America/Montevideo": {
+      "hash": "7501011389a364fb724632972ba67e6cc1c9745aa9c21233c431f8c74e2b2989",
+      "size": 1496
+    },
+    "pytz/zoneinfo/America/Montreal": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/America/Montserrat": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Nassau": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/America/New_York": {
+      "hash": "e9ed07d7bee0c76a9d442d091ef1f01668fee7c4f26014c0a868b19fe6c18a95",
+      "size": 3552
+    },
+    "pytz/zoneinfo/America/Nipigon": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/America/Nome": {
+      "hash": "da2cccdfe3fe3ea27dcdae8c761cc57ccbcf14dabb1a29baf6d02f1303de636b",
+      "size": 2367
+    },
+    "pytz/zoneinfo/America/Noronha": {
+      "hash": "7de7910228d0a8aca5660a9ef389ca86c14bc9c4f9cc8066ee62c8bddc86c38c",
+      "size": 702
+    },
+    "pytz/zoneinfo/America/Nuuk": {
+      "hash": "2865eb30df98918a550a02dda5c7f030543bec4b11006b235021b7c8052f55fc",
+      "size": 1889
+    },
+    "pytz/zoneinfo/America/Ojinaga": {
+      "hash": "6f7f10ffb55d902673695c1bece5ee75d8a1240cd428f4d3a97726a419b59ed1",
+      "size": 1524
+    },
+    "pytz/zoneinfo/America/Panama": {
+      "hash": "91ac80fe976931c490d058c8ce8b5d71ffa6d4961f6ca13ea9c153f0b0bccea0",
+      "size": 182
+    },
+    "pytz/zoneinfo/America/Pangnirtung": {
+      "hash": "7de3a7c40374374afe335aa592b03824cc9ac28734b6a69ed2288108f0c0b389",
+      "size": 2202
+    },
+    "pytz/zoneinfo/America/Paramaribo": {
+      "hash": "67b519bcd96077ea845078c43d85c890b35382331c0b393d11f51412653277b3",
+      "size": 248
+    },
+    "pytz/zoneinfo/America/Phoenix": {
+      "hash": "8a5973d2c62e2cbf2520f2b44e4a2ee9d2f455c93f0f45bfdeb4533af1584664",
+      "size": 360
+    },
+    "pytz/zoneinfo/America/Port-au-Prince": {
+      "hash": "d3d64025de083a23297dda54b85d54e3847f851b7a06fa409055ce9d83bdc8e3",
+      "size": 1434
+    },
+    "pytz/zoneinfo/America/Porto_Acre": {
+      "hash": "d20a49525e3a8506e9d0fe978f54b4340ac859e02bcaeb835e3b2576f0791871",
+      "size": 614
+    },
+    "pytz/zoneinfo/America/Porto_Velho": {
+      "hash": "b92315da16568fe572061141c02f79d3071385f3778eae8a9727044a64132ce0",
+      "size": 562
+    },
+    "pytz/zoneinfo/America/Port_of_Spain": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Puerto_Rico": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Punta_Arenas": {
+      "hash": "b51e6e21fd77e7501616aaea36d9979e14169ca444989699a8a0736964553134",
+      "size": 1902
+    },
+    "pytz/zoneinfo/America/Rainy_River": {
+      "hash": "ecffbf610ae77857289fb40a4933a79221a3129a450e7dd9e3c309d6aabc541c",
+      "size": 2868
+    },
+    "pytz/zoneinfo/America/Rankin_Inlet": {
+      "hash": "9d782a8cbdced815747a6f9793ca9545165bfd7d324261c4eaf9924af23d2b37",
+      "size": 2066
+    },
+    "pytz/zoneinfo/America/Recife": {
+      "hash": "6c9fc7134f89162a38fa8c29674a4b3bc5376a2d1f886bbc4072f40dec4b88b7",
+      "size": 702
+    },
+    "pytz/zoneinfo/America/Regina": {
+      "hash": "ca3a93d3ca476c80987bcdc7f099ad68306f085a91bfb4dfcdedd8f31b97ba4c",
+      "size": 980
+    },
+    "pytz/zoneinfo/America/Resolute": {
+      "hash": "0a7314d9d048fbadefb7cf89d10d51a29c7ef1bf694422e386faf270c21e7468",
+      "size": 2066
+    },
+    "pytz/zoneinfo/America/Rio_Branco": {
+      "hash": "d20a49525e3a8506e9d0fe978f54b4340ac859e02bcaeb835e3b2576f0791871",
+      "size": 614
+    },
+    "pytz/zoneinfo/America/Rosario": {
+      "hash": "ba788d8a184c1e7af85cae16a7088f527ac04f460f9afcea07a7f48512ed5ef6",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Santarem": {
+      "hash": "56664ff52e693ee705c72a80395f74f049965d066f8028162e6949253525d0b1",
+      "size": 588
+    },
+    "pytz/zoneinfo/America/Santa_Isabel": {
+      "hash": "8c2e7b321726e6345912da396796bdb3672bfc4bd1a91c65ee58b38e004d4ca5",
+      "size": 2906
+    },
+    "pytz/zoneinfo/America/Santiago": {
+      "hash": "d020f0d77742314b28aae32ea68260ba99330143610cae84d2557151103ba2c0",
+      "size": 2515
+    },
+    "pytz/zoneinfo/America/Santo_Domingo": {
+      "hash": "0cab5a123f1f43ddb26c84d3594e019b5eb44bda732665156e36964677a7c54e",
+      "size": 458
+    },
+    "pytz/zoneinfo/America/Sao_Paulo": {
+      "hash": "04c06744ee3fe078ef3b8b779e38eb30666bf993e67a092fcaf2fc28f63a64ce",
+      "size": 1430
+    },
+    "pytz/zoneinfo/America/Scoresbysund": {
+      "hash": "2beaa488c08216039ef1c70f300040fa50e373dbdbeb0a65b8138255f88174b2",
+      "size": 1935
+    },
+    "pytz/zoneinfo/America/Shiprock": {
+      "hash": "32e819c00a43b3c348f539d700d425504f20b8d068c16418d26fa9b693e775c9",
+      "size": 2460
+    },
+    "pytz/zoneinfo/America/Sitka": {
+      "hash": "6a24bb164dfb859a7367d56478941e17e06a4cb442d503930a03002704fc5310",
+      "size": 2329
+    },
+    "pytz/zoneinfo/America/St_Barthelemy": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/St_Johns": {
+      "hash": "af5fb5eee2afdbb799dc9b15930fc32d941ba3ac2f8eeb95bbb0b6a43b263a02",
+      "size": 3655
+    },
+    "pytz/zoneinfo/America/St_Kitts": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/St_Lucia": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/St_Thomas": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/St_Vincent": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Swift_Current": {
+      "hash": "45128e17bbd90bc56f6310fc3cfe09d7f8543dac8a04fecbbbcd1abd191f3c36",
+      "size": 560
+    },
+    "pytz/zoneinfo/America/Tegucigalpa": {
+      "hash": "1333b3ee7b5396b78cabaf4967609c01bf0fb3df15f5b50c378f34b693c8cb0e",
+      "size": 252
+    },
+    "pytz/zoneinfo/America/Thule": {
+      "hash": "f31b8f45a654f1180ee440aa1581d89a71e2a1cf35b0139a8a5915bbc634da2f",
+      "size": 1502
+    },
+    "pytz/zoneinfo/America/Thunder_Bay": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/America/Tijuana": {
+      "hash": "8c2e7b321726e6345912da396796bdb3672bfc4bd1a91c65ee58b38e004d4ca5",
+      "size": 2906
+    },
+    "pytz/zoneinfo/America/Toronto": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/America/Tortola": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Vancouver": {
+      "hash": "b249ca1f48d23d66a6f831df337e6a5ecf0d6a6edde5316591423d4a0c6bcb28",
+      "size": 2892
+    },
+    "pytz/zoneinfo/America/Virgin": {
+      "hash": "8491e557ff801a8306516b8ca5946ff5f2e6821af31477eb47d7d191cc5a6497",
+      "size": 246
+    },
+    "pytz/zoneinfo/America/Whitehorse": {
+      "hash": "4eb47a3c29d81be9920a504ca21aa53fcaa76215cc52cc9d23e2feaae5c5c723",
+      "size": 1614
+    },
+    "pytz/zoneinfo/America/Winnipeg": {
+      "hash": "ecffbf610ae77857289fb40a4933a79221a3129a450e7dd9e3c309d6aabc541c",
+      "size": 2868
+    },
+    "pytz/zoneinfo/America/Yakutat": {
+      "hash": "b45c2729bbf0872ca7e0b353027e727bf2560ddc6309eacd0edee83b05303b63",
+      "size": 2305
+    },
+    "pytz/zoneinfo/America/Yellowknife": {
+      "hash": "f939087dcdd096f6827f4a7c08e678dd8d47441025fa7011522f8975778ad6f1",
+      "size": 2332
+    },
+    "pytz/zoneinfo/America/Argentina/Buenos_Aires": {
+      "hash": "26653c941c26cb6f6047a3a67b2b6f15d311c7a39b24a9d834798bc8c9975f63",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/Catamarca": {
+      "hash": "b8c0895d719898d1121d5be3e5160167431cace744d788709b5ee5db9320456d",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/ComodRivadavia": {
+      "hash": "b8c0895d719898d1121d5be3e5160167431cace744d788709b5ee5db9320456d",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/Cordoba": {
+      "hash": "ba788d8a184c1e7af85cae16a7088f527ac04f460f9afcea07a7f48512ed5ef6",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/Jujuy": {
+      "hash": "3c69807a1ca90b18f45c27a70925aaca50c83db28b2b40e5af024aff6e03e7dd",
+      "size": 1034
+    },
+    "pytz/zoneinfo/America/Argentina/La_Rioja": {
+      "hash": "526e97a155e1b2beb669dd665ae79b7ba358d191dab81751f6d3060e0a823878",
+      "size": 1076
+    },
+    "pytz/zoneinfo/America/Argentina/Mendoza": {
+      "hash": "c5c395b6f47255814053dd32d90630a72421a4c2f2029efe171be4bb89209747",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/Rio_Gallegos": {
+      "hash": "17d64a478a3c80b1d7ed006e22331aa4621d9b3271a6ac1ba2e3e067932a0e96",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Argentina/Salta": {
+      "hash": "875298ac33486a9bc3918862d4f681f160f5a9639ee2f8618032560c2195e237",
+      "size": 1034
+    },
+    "pytz/zoneinfo/America/Argentina/San_Juan": {
+      "hash": "008d8696d03cd263cdce11f163272e13021b3b500d5f222a05064ca63a8aa9d4",
+      "size": 1076
+    },
+    "pytz/zoneinfo/America/Argentina/San_Luis": {
+      "hash": "d88b4645c2d52b6c31f0cc89b076c8041780914e01f8c379c7567137267b5091",
+      "size": 1088
+    },
+    "pytz/zoneinfo/America/Argentina/Tucuman": {
+      "hash": "b703be16ab4d255f173b3593bc543ec6711c582a035076378295481b43336dff",
+      "size": 1090
+    },
+    "pytz/zoneinfo/America/Argentina/Ushuaia": {
+      "hash": "03a21ba55958f4820fa1228c15147d0cc44e7705d44837361ec012b9e3929eaa",
+      "size": 1062
+    },
+    "pytz/zoneinfo/America/Indiana/Indianapolis": {
+      "hash": "90d2b2f4a8fd202b226187c209b020833300edec5ff86a463ccc685e8707532c",
+      "size": 1682
+    },
+    "pytz/zoneinfo/America/Indiana/Knox": {
+      "hash": "0acbd9e412b0daa55abf7c7f17c094f6d68974393b8d7e3509fb2a9acea35d5f",
+      "size": 2444
+    },
+    "pytz/zoneinfo/America/Indiana/Marengo": {
+      "hash": "7f7b50fa580c49403b9ef9fae295e12ad24bee65b319a8e809e81ae4c10949b2",
+      "size": 1738
+    },
+    "pytz/zoneinfo/America/Indiana/Petersburg": {
+      "hash": "03cf0e1ee334460de230b1e32a05eafddda36427554b2b5442cfbd5b429c1724",
+      "size": 1920
+    },
+    "pytz/zoneinfo/America/Indiana/Tell_City": {
+      "hash": "e1d5aa02bf58d815df2f8a40424fbcd5cde01a5d9c35d1d7383effc09861867f",
+      "size": 1700
+    },
+    "pytz/zoneinfo/America/Indiana/Vevay": {
+      "hash": "1fb551d86fbfb03fc2e519b83f78358910b515608f8389b43060f73f53cbcec9",
+      "size": 1430
+    },
+    "pytz/zoneinfo/America/Indiana/Vincennes": {
+      "hash": "eb6980c53ec03c509aa3281f96713374ea5ef9fb96d7239b23a9ba11451c4bb0",
+      "size": 1710
+    },
+    "pytz/zoneinfo/America/Indiana/Winamac": {
+      "hash": "69918cda347c087f411d252aed7ca08b078377a768ad72cf5e0db8e97b1b47ab",
+      "size": 1794
+    },
+    "pytz/zoneinfo/America/Kentucky/Louisville": {
+      "hash": "b4fd3bdb157f9ffbc8423c71709efb0067868fac8bd4a3e99f77f089db3d8355",
+      "size": 2788
+    },
+    "pytz/zoneinfo/America/Kentucky/Monticello": {
+      "hash": "2ed7720a8f3906b5d0b3aae51fad589bef0aa961c7e8fc003a30f44318487733",
+      "size": 2368
+    },
+    "pytz/zoneinfo/America/North_Dakota/Beulah": {
+      "hash": "aad81ba8dbbc3370241c5da7fbfa12a6cd69613e12c607256e490f29b5da047b",
+      "size": 2396
+    },
+    "pytz/zoneinfo/America/North_Dakota/Center": {
+      "hash": "f5959b2bd60a92ab942f2054152dcbaff89dc5bb7b57bcb85b810ed0a9f6d2cc",
+      "size": 2396
+    },
+    "pytz/zoneinfo/America/North_Dakota/New_Salem": {
+      "hash": "0c7fdbb107ee5272b6a1b75bd3a2a08ac3b85cbaa1b75d815ddae052c659bde8",
+      "size": 2396
+    },
+    "pytz/zoneinfo/Antarctica/Casey": {
+      "hash": "55e68b3b14df0f28df197ab9525f7924420c5cd587496fb4377c8ea12ed52be7",
+      "size": 423
+    },
+    "pytz/zoneinfo/Antarctica/Davis": {
+      "hash": "5c1d76744ab443edd793304d4cd0bb1b57f31fe5b1c5cb48b99a88df3a7cca92",
+      "size": 283
+    },
+    "pytz/zoneinfo/Antarctica/DumontDUrville": {
+      "hash": "9c1dfa1c15994dd8774e53f40cb14dcf529143468721f1dba7b2c2e14ae9f5f0",
+      "size": 172
+    },
+    "pytz/zoneinfo/Antarctica/Macquarie": {
+      "hash": "89eed195a53c4474e8ad5563f8c5fc4ad28cab1fe85dfe141f63d4aa9cdcc1ed",
+      "size": 2260
+    },
+    "pytz/zoneinfo/Antarctica/Mawson": {
+      "hash": "1232056ea45daf664905a2355efa16469b679d6d4b16b961c9dc430ee2108d22",
+      "size": 185
+    },
+    "pytz/zoneinfo/Antarctica/McMurdo": {
+      "hash": "8000e3a323e8fd0212414e9426b020707a771c368ca0e151747f9ddb7b814b27",
+      "size": 2437
+    },
+    "pytz/zoneinfo/Antarctica/Palmer": {
+      "hash": "1d3658d0cf2d77ba14c794443e04421eea8a8395777e32448b895804d2f812d8",
+      "size": 1404
+    },
+    "pytz/zoneinfo/Antarctica/Rothera": {
+      "hash": "ffd358f9ff2f928cd062b8db5073f96237080a0d3e2eec80f4f9c878ad76dd15",
+      "size": 150
+    },
+    "pytz/zoneinfo/Antarctica/South_Pole": {
+      "hash": "8000e3a323e8fd0212414e9426b020707a771c368ca0e151747f9ddb7b814b27",
+      "size": 2437
+    },
+    "pytz/zoneinfo/Antarctica/Syowa": {
+      "hash": "a02287eee69f37c475a3e8a35c6a13e54d49671c2fa0bcc9bbfd82ab28b68543",
+      "size": 151
+    },
+    "pytz/zoneinfo/Antarctica/Troll": {
+      "hash": "7e3718a69c2bd459e312cb1e7be44b806380373a14c9f8ec7be4462b8e8f4761",
+      "size": 1148
+    },
+    "pytz/zoneinfo/Antarctica/Vostok": {
+      "hash": "29f7edc1dccae8f90c0f3d1df83df3e0728806063d2aab2a1e74e7aac3ccad48",
+      "size": 213
+    },
+    "pytz/zoneinfo/Arctic/Longyearbyen": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Asia/Aden": {
+      "hash": "a02287eee69f37c475a3e8a35c6a13e54d49671c2fa0bcc9bbfd82ab28b68543",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Almaty": {
+      "hash": "94f2d65e4d9fd66598450645908aeaff91e486872c5018acd0cfb285d0c77014",
+      "size": 983
+    },
+    "pytz/zoneinfo/Asia/Amman": {
+      "hash": "42fe1c5d7c3b28141613cf367208f4923437c21d6fa55d68ac9dafd898f1af65",
+      "size": 1433
+    },
+    "pytz/zoneinfo/Asia/Anadyr": {
+      "hash": "5aa2a71e8e481d2599d3c776b12e72b47b6fd0c40ca1cccfdd6f736c30eb6d85",
+      "size": 1174
+    },
+    "pytz/zoneinfo/Asia/Aqtau": {
+      "hash": "e27eb9e0566d0ecb1749f850b338d91b93a6b5b136ce8d4a6e259c62b149834d",
+      "size": 969
+    },
+    "pytz/zoneinfo/Asia/Aqtobe": {
+      "hash": "d681474dbfb26dc4ea2d79b4af564e5607583131e51a836cf8f82fbb1e747771",
+      "size": 997
+    },
+    "pytz/zoneinfo/Asia/Ashgabat": {
+      "hash": "fac7c69d1ba68a8eff06cf30f581f8c510d6823077c01796edcd02e7a42a93ae",
+      "size": 605
+    },
+    "pytz/zoneinfo/Asia/Ashkhabad": {
+      "hash": "fac7c69d1ba68a8eff06cf30f581f8c510d6823077c01796edcd02e7a42a93ae",
+      "size": 605
+    },
+    "pytz/zoneinfo/Asia/Atyrau": {
+      "hash": "fd4f02394204f671bf1ca75d644d50d2c3eecf7accc1f8f099f9d50d8fef4a68",
+      "size": 977
+    },
+    "pytz/zoneinfo/Asia/Baghdad": {
+      "hash": "4bea65288e3308ba88d22746001124de84536b3372ac88f64fdf3e12d5ad643f",
+      "size": 969
+    },
+    "pytz/zoneinfo/Asia/Bahrain": {
+      "hash": "c2494663758f1a9fb3d4e5306ff28e1f3453c019ddb7545f0e0f54b6db77e86e",
+      "size": 185
+    },
+    "pytz/zoneinfo/Asia/Baku": {
+      "hash": "ebf86af7c4861b48f4240f2a631f7a59c20c6522d6e30e3ad105e1fce33f71c8",
+      "size": 1213
+    },
+    "pytz/zoneinfo/Asia/Bangkok": {
+      "hash": "85fff93d57a041c1524bad028d2f340bb87e4c63ab7d0e27726f3737c5666649",
+      "size": 185
+    },
+    "pytz/zoneinfo/Asia/Barnaul": {
+      "hash": "df37948a62d332b219134bd7e971c5bc1dcca2a131a156c4e424a6e86574cdfd",
+      "size": 1207
+    },
+    "pytz/zoneinfo/Asia/Beirut": {
+      "hash": "fd9ff664083f88bf6f539d490c1f02074e2e5c10eb7f590b222b3e2675da4b6a",
+      "size": 2154
+    },
+    "pytz/zoneinfo/Asia/Bishkek": {
+      "hash": "20ea14ca300120b0a45eed6b8c222a4b002e7d16059257396000b88dd855c3a4",
+      "size": 969
+    },
+    "pytz/zoneinfo/Asia/Brunei": {
+      "hash": "0f9aadc9627f48cf1b4d0789248621aaaa23c6554a6eb142d4460c0d4f46cd74",
+      "size": 469
+    },
+    "pytz/zoneinfo/Asia/Calcutta": {
+      "hash": "e90c341036cb7203200e293cb3b513267e104a39a594f35e195254e6bc0a17cf",
+      "size": 285
+    },
+    "pytz/zoneinfo/Asia/Chita": {
+      "hash": "2db4a54b6decc0590035449c83cce4351d2298035635f388698777f476cb7484",
+      "size": 1207
+    },
+    "pytz/zoneinfo/Asia/Choibalsan": {
+      "hash": "a9491746c4dcfeeec1f7427150b4aeef2cca6c6b467ca71f10521ab063c2d9e7",
+      "size": 877
+    },
+    "pytz/zoneinfo/Asia/Chongqing": {
+      "hash": "64ffc2e43a94435a043c040d1d3af7e92d031adc78e7737af1861baa4eeef3e6",
+      "size": 561
+    },
+    "pytz/zoneinfo/Asia/Chungking": {
+      "hash": "64ffc2e43a94435a043c040d1d3af7e92d031adc78e7737af1861baa4eeef3e6",
+      "size": 561
+    },
+    "pytz/zoneinfo/Asia/Colombo": {
+      "hash": "c39d8bedb813e26e6172046e7af20f63cdf1cad7e406690b86728cc29d7a2ac6",
+      "size": 358
+    },
+    "pytz/zoneinfo/Asia/Dacca": {
+      "hash": "fb1ba527629586f2a9eab9592ccc9da70ee85d58ab93eae2107fb5f35c4f139e",
+      "size": 323
+    },
+    "pytz/zoneinfo/Asia/Damascus": {
+      "hash": "12d84685e6875a6cb922b2c273d3663378ef0124051edf13b01174ec8d6d81b8",
+      "size": 1873
+    },
+    "pytz/zoneinfo/Asia/Dhaka": {
+      "hash": "fb1ba527629586f2a9eab9592ccc9da70ee85d58ab93eae2107fb5f35c4f139e",
+      "size": 323
+    },
+    "pytz/zoneinfo/Asia/Dili": {
+      "hash": "d80f6e166c12c28140e68d9e9352c0d2e72884f9cce368215af0fd0f94dd9c99",
+      "size": 257
+    },
+    "pytz/zoneinfo/Asia/Dubai": {
+      "hash": "a667613e16894702b038dbf18993467854880a3956cf263d265147bfe1fdba96",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Dushanbe": {
+      "hash": "9286279d85ae16c057775bc97d9b06769c276c51c4c2f9060664abaf1dca22cb",
+      "size": 577
+    },
+    "pytz/zoneinfo/Asia/Famagusta": {
+      "hash": "085adcca077cb9d7b9c7a384b5f33f0f0d0a607a31a4f3f3ab8e8aa075718e37",
+      "size": 2028
+    },
+    "pytz/zoneinfo/Asia/Gaza": {
+      "hash": "b7463171440be7754d2a729b2a28e7d0e13f31aaf21329e89da6ec7be893b73b",
+      "size": 3844
+    },
+    "pytz/zoneinfo/Asia/Harbin": {
+      "hash": "64ffc2e43a94435a043c040d1d3af7e92d031adc78e7737af1861baa4eeef3e6",
+      "size": 561
+    },
+    "pytz/zoneinfo/Asia/Hebron": {
+      "hash": "e98d144872b1fb1a02c42aff5a90ae337a253f5bd41a7ceb7271a2c9015ca9d4",
+      "size": 3872
+    },
+    "pytz/zoneinfo/Asia/Hong_Kong": {
+      "hash": "6a5fcee243e5ab92698242d88c4699ceb7208a22ee97d342d11e41ebd2555a17",
+      "size": 1233
+    },
+    "pytz/zoneinfo/Asia/Hovd": {
+      "hash": "667e0f2c6943f944490ec6c2868af96ea593cee022976b5bac6256d23e532dbb",
+      "size": 877
+    },
+    "pytz/zoneinfo/Asia/Ho_Chi_Minh": {
+      "hash": "2e7bf5be950d017068f2fd1bf5df40429cbe004c8ee506b6220d0fbc3923ae65",
+      "size": 337
+    },
+    "pytz/zoneinfo/Asia/Irkutsk": {
+      "hash": "215ba85c2c1d788f8a2147c5904b7ac818ea60fdd5f464eb17efd62e77df1739",
+      "size": 1229
+    },
+    "pytz/zoneinfo/Asia/Istanbul": {
+      "hash": "264e308e7743b5afee2d673c5b57567636dabc925bb0be513939996e856718a5",
+      "size": 1933
+    },
+    "pytz/zoneinfo/Asia/Jakarta": {
+      "hash": "4ef13306f4b37f314274eb0c019d10811f79240e717f790064e361cb98045d11",
+      "size": 383
+    },
+    "pytz/zoneinfo/Asia/Jayapura": {
+      "hash": "8a1cd477e2fc1d456a1be35ad743323c4f986308d5163fb17abaa34cde04259b",
+      "size": 221
+    },
+    "pytz/zoneinfo/Asia/Jerusalem": {
+      "hash": "254b964265b94e16b4a498f0eb543968dec25f4cf80fba29b3d38e4a775ae837",
+      "size": 2388
+    },
+    "pytz/zoneinfo/Asia/Kabul": {
+      "hash": "25911ba3c6d28ff2fb1e75d49b68005253650af2654498459121c2839a378209",
+      "size": 194
+    },
+    "pytz/zoneinfo/Asia/Kamchatka": {
+      "hash": "298d4f949bd148d918ff9872241c63e430f079e61541a04ad396602f791d7026",
+      "size": 1152
+    },
+    "pytz/zoneinfo/Asia/Karachi": {
+      "hash": "881fa658c4d75327c1c00919773f3f526130d31b20c48b9bf8a348eda9338649",
+      "size": 379
+    },
+    "pytz/zoneinfo/Asia/Kashgar": {
+      "hash": "17564e759643b151f00c98a792c47e86372a3f3a8e963bddade648585ba52716",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Kathmandu": {
+      "hash": "fd1b1f79259b0abf24338611262ed7bfa8401221d6d7820586c5ec7e16cf8e83",
+      "size": 198
+    },
+    "pytz/zoneinfo/Asia/Katmandu": {
+      "hash": "fd1b1f79259b0abf24338611262ed7bfa8401221d6d7820586c5ec7e16cf8e83",
+      "size": 198
+    },
+    "pytz/zoneinfo/Asia/Khandyga": {
+      "hash": "6ca7e6c3a939a980d0b041c6dccbfe5588acdd8842795eea8a30f17f140d9ff8",
+      "size": 1257
+    },
+    "pytz/zoneinfo/Asia/Kolkata": {
+      "hash": "e90c341036cb7203200e293cb3b513267e104a39a594f35e195254e6bc0a17cf",
+      "size": 285
+    },
+    "pytz/zoneinfo/Asia/Krasnoyarsk": {
+      "hash": "0f9284ff5c16483d98762c43cbc9f72c135a025135ff2dd3597c3a36bc4528a0",
+      "size": 1193
+    },
+    "pytz/zoneinfo/Asia/Kuala_Lumpur": {
+      "hash": "5e67952267aa709f212739bb4e302d8b59d6240c5ac0eaaaee32330e71d7da12",
+      "size": 401
+    },
+    "pytz/zoneinfo/Asia/Kuching": {
+      "hash": "0f9aadc9627f48cf1b4d0789248621aaaa23c6554a6eb142d4460c0d4f46cd74",
+      "size": 469
+    },
+    "pytz/zoneinfo/Asia/Kuwait": {
+      "hash": "a02287eee69f37c475a3e8a35c6a13e54d49671c2fa0bcc9bbfd82ab28b68543",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Macao": {
+      "hash": "32f02447246cac0dabd39d88b65c85e5b8761617918c8d233f0834b88887d989",
+      "size": 1227
+    },
+    "pytz/zoneinfo/Asia/Macau": {
+      "hash": "32f02447246cac0dabd39d88b65c85e5b8761617918c8d233f0834b88887d989",
+      "size": 1227
+    },
+    "pytz/zoneinfo/Asia/Magadan": {
+      "hash": "1dc704117050bcc98ba02fc913eccffcc94b019d5698d2d02df337b49b79e4ce",
+      "size": 1208
+    },
+    "pytz/zoneinfo/Asia/Makassar": {
+      "hash": "3a126d0aa493114faee67d28a4154ee41bbec10cdc60fcbd4bfe9a02125780ec",
+      "size": 254
+    },
+    "pytz/zoneinfo/Asia/Manila": {
+      "hash": "f314d21c542e615756dd385d36a896cd57ba16fef983fe6b4d061444bbf1ac9e",
+      "size": 422
+    },
+    "pytz/zoneinfo/Asia/Muscat": {
+      "hash": "a667613e16894702b038dbf18993467854880a3956cf263d265147bfe1fdba96",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Nicosia": {
+      "hash": "d149e6d08153ec7c86790ec5def4daffe9257f2b0282bba5a853ba043d699595",
+      "size": 2002
+    },
+    "pytz/zoneinfo/Asia/Novokuznetsk": {
+      "hash": "a72c71b5252d6037959859340a0f85df795a652d222ad75ef7f1899cbf5fd0a3",
+      "size": 1151
+    },
+    "pytz/zoneinfo/Asia/Novosibirsk": {
+      "hash": "e4adbe1b1d794e19477e89725bce52e73444b4070c8de1c16162b813cc762dd6",
+      "size": 1207
+    },
+    "pytz/zoneinfo/Asia/Omsk": {
+      "hash": "1f25c8588b495c12951d4cd67103e2d4c99de992e6664f90851528f4abf65ce2",
+      "size": 1193
+    },
+    "pytz/zoneinfo/Asia/Oral": {
+      "hash": "5904f8a91982f5123f965f3307d16f9002fc7b319bf2aa2a59def9193942ee44",
+      "size": 991
+    },
+    "pytz/zoneinfo/Asia/Phnom_Penh": {
+      "hash": "85fff93d57a041c1524bad028d2f340bb87e4c63ab7d0e27726f3737c5666649",
+      "size": 185
+    },
+    "pytz/zoneinfo/Asia/Pontianak": {
+      "hash": "8a7397c2e2ad8cabf5cff7a588f65222a8d2b7ac21b6ec613de1b56298d4fc14",
+      "size": 353
+    },
+    "pytz/zoneinfo/Asia/Pyongyang": {
+      "hash": "ffe8371a70c0b5f0d7e17024b571fd8c5a2e2d40e63a8be78e839fbd1a540ec1",
+      "size": 237
+    },
+    "pytz/zoneinfo/Asia/Qatar": {
+      "hash": "c2494663758f1a9fb3d4e5306ff28e1f3453c019ddb7545f0e0f54b6db77e86e",
+      "size": 185
+    },
+    "pytz/zoneinfo/Asia/Qostanay": {
+      "hash": "1c88e59fc4083cd454e8c916cf23e2eaf0eb8e59956785f31717141ed5cc8bbb",
+      "size": 1025
+    },
+    "pytz/zoneinfo/Asia/Qyzylorda": {
+      "hash": "2592cd37a36e2e4a9a5847956826625bf80be81ac814bf65afae622bb9b254f8",
+      "size": 1011
+    },
+    "pytz/zoneinfo/Asia/Rangoon": {
+      "hash": "fd81c04aae19e5871420b21d844ce0dbb0862f36ab5073c31ecd438f44203463",
+      "size": 254
+    },
+    "pytz/zoneinfo/Asia/Riyadh": {
+      "hash": "a02287eee69f37c475a3e8a35c6a13e54d49671c2fa0bcc9bbfd82ab28b68543",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Saigon": {
+      "hash": "2e7bf5be950d017068f2fd1bf5df40429cbe004c8ee506b6220d0fbc3923ae65",
+      "size": 337
+    },
+    "pytz/zoneinfo/Asia/Sakhalin": {
+      "hash": "c73028afcda28407bec971300ba39688cce8f5be99fa8425dfd348914e4785bb",
+      "size": 1188
+    },
+    "pytz/zoneinfo/Asia/Samarkand": {
+      "hash": "cc929246dde512f77a42f83d6f8f500323b87132725674cac8f61ccae7691f19",
+      "size": 563
+    },
+    "pytz/zoneinfo/Asia/Seoul": {
+      "hash": "2c8f4bb15dd77090b497e2a841ff3323ecbbae4f9dbb9edead2f8dd8fb5d8bb4",
+      "size": 617
+    },
+    "pytz/zoneinfo/Asia/Shanghai": {
+      "hash": "64ffc2e43a94435a043c040d1d3af7e92d031adc78e7737af1861baa4eeef3e6",
+      "size": 561
+    },
+    "pytz/zoneinfo/Asia/Singapore": {
+      "hash": "5e67952267aa709f212739bb4e302d8b59d6240c5ac0eaaaee32330e71d7da12",
+      "size": 401
+    },
+    "pytz/zoneinfo/Asia/Srednekolymsk": {
+      "hash": "79f69a4fc8851eb71c729f9564a34cbed4ee3cb3631b957d247e4a287847dd22",
+      "size": 1194
+    },
+    "pytz/zoneinfo/Asia/Taipei": {
+      "hash": "0cc990c0ea4faa5db9b9edcd7fcbc028a4f87a6d3a0f567dac76cb222b718b19",
+      "size": 761
+    },
+    "pytz/zoneinfo/Asia/Tashkent": {
+      "hash": "6a944fcb6e757d2472fe2c6c83704e64d9946c774ef3a3f9f8f7600b55f0b3b5",
+      "size": 577
+    },
+    "pytz/zoneinfo/Asia/Tbilisi": {
+      "hash": "7d3d348baa1b893b23089d35781696b9147d07034fcca02a2cc3b5fd6557f04b",
+      "size": 1007
+    },
+    "pytz/zoneinfo/Asia/Tehran": {
+      "hash": "2dbd87f410815edcfcd7d14be84de0040ef0d913a22203e0c7e7f4f17a6a915a",
+      "size": 1248
+    },
+    "pytz/zoneinfo/Asia/Tel_Aviv": {
+      "hash": "254b964265b94e16b4a498f0eb543968dec25f4cf80fba29b3d38e4a775ae837",
+      "size": 2388
+    },
+    "pytz/zoneinfo/Asia/Thimbu": {
+      "hash": "1b69d341510c98a956b7407be3f7d400beca437600bbffc9e87722898b362325",
+      "size": 189
+    },
+    "pytz/zoneinfo/Asia/Thimphu": {
+      "hash": "1b69d341510c98a956b7407be3f7d400beca437600bbffc9e87722898b362325",
+      "size": 189
+    },
+    "pytz/zoneinfo/Asia/Tokyo": {
+      "hash": "a02b9e66044dc5c35c5f76467627fdcba4aee1cc958606b85c777095cad82ceb",
+      "size": 309
+    },
+    "pytz/zoneinfo/Asia/Tomsk": {
+      "hash": "72bd142d981606741fcc38897989aaa40ed7a39411ceeaefac7b2b6d9b2784e4",
+      "size": 1207
+    },
+    "pytz/zoneinfo/Asia/Ujung_Pandang": {
+      "hash": "3a126d0aa493114faee67d28a4154ee41bbec10cdc60fcbd4bfe9a02125780ec",
+      "size": 254
+    },
+    "pytz/zoneinfo/Asia/Ulaanbaatar": {
+      "hash": "a9491746c4dcfeeec1f7427150b4aeef2cca6c6b467ca71f10521ab063c2d9e7",
+      "size": 877
+    },
+    "pytz/zoneinfo/Asia/Ulan_Bator": {
+      "hash": "a9491746c4dcfeeec1f7427150b4aeef2cca6c6b467ca71f10521ab063c2d9e7",
+      "size": 877
+    },
+    "pytz/zoneinfo/Asia/Urumqi": {
+      "hash": "17564e759643b151f00c98a792c47e86372a3f3a8e963bddade648585ba52716",
+      "size": 151
+    },
+    "pytz/zoneinfo/Asia/Ust-Nera": {
+      "hash": "cec1bc9209f0d0572ce4dd96c0d4d59af5a44e5a707fb3a8f32ebc1dc5e3632c",
+      "size": 1238
+    },
+    "pytz/zoneinfo/Asia/Vientiane": {
+      "hash": "85fff93d57a041c1524bad028d2f340bb87e4c63ab7d0e27726f3737c5666649",
+      "size": 185
+    },
+    "pytz/zoneinfo/Asia/Vladivostok": {
+      "hash": "5cc40b321e523db23a0b847750ee0a85b9c6e2159590735e7730907aac4593a0",
+      "size": 1194
+    },
+    "pytz/zoneinfo/Asia/Yakutsk": {
+      "hash": "3cf36b446820f6379f39433ee8cf17a9a226f8495f991652580b5218a2f33574",
+      "size": 1193
+    },
+    "pytz/zoneinfo/Asia/Yangon": {
+      "hash": "fd81c04aae19e5871420b21d844ce0dbb0862f36ab5073c31ecd438f44203463",
+      "size": 254
+    },
+    "pytz/zoneinfo/Asia/Yekaterinburg": {
+      "hash": "e0dc845ba5e3af852c58f87adc720f2381ba193fed546d57920736c5bc068f30",
+      "size": 1229
+    },
+    "pytz/zoneinfo/Asia/Yerevan": {
+      "hash": "14cd29500e0d6d35816ff0ac2792822d5acba0d99a77b9e304aa85ac9043a311",
+      "size": 1137
+    },
+    "pytz/zoneinfo/Atlantic/Azores": {
+      "hash": "eba843c5a2bcc459e4b4b32ba4dc640f8af58069214be3c4a657aec33b86440d",
+      "size": 3442
+    },
+    "pytz/zoneinfo/Atlantic/Bermuda": {
+      "hash": "2cd18a7ccb2762fc089a34f2cd7acb84c3871c3bbba88ebb45b60d2afbc8d792",
+      "size": 2396
+    },
+    "pytz/zoneinfo/Atlantic/Canary": {
+      "hash": "ca62bdb9faa986f3630cade1ce290de067e4711dd07820623cac9573a16395b0",
+      "size": 1897
+    },
+    "pytz/zoneinfo/Atlantic/Cape_Verde": {
+      "hash": "a3dda92dd2c55ff6fdbd48aadeb36971ae2dba920edddc7dacdae73dc03ce3be",
+      "size": 256
+    },
+    "pytz/zoneinfo/Atlantic/Faeroe": {
+      "hash": "3626dd64f66d6a99d847f9b22199cc753692286b0e04682e8e3d3f4f636f033b",
+      "size": 1815
+    },
+    "pytz/zoneinfo/Atlantic/Faroe": {
+      "hash": "3626dd64f66d6a99d847f9b22199cc753692286b0e04682e8e3d3f4f636f033b",
+      "size": 1815
+    },
+    "pytz/zoneinfo/Atlantic/Jan_Mayen": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Atlantic/Madeira": {
+      "hash": "95863ce4c0b9f8650a1319b7e778b1c2d643c5ab186af4d35842efbf94572f11",
+      "size": 3377
+    },
+    "pytz/zoneinfo/Atlantic/Reykjavik": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Atlantic/South_Georgia": {
+      "hash": "23d48070f3ee9b2e977fd3fb760d9a135ea8c700c8ab2285aa29c94c2f97b203",
+      "size": 150
+    },
+    "pytz/zoneinfo/Atlantic/Stanley": {
+      "hash": "b221235d302e4ee9bfe171ad4bdf0c044df85d6ff9c605d28445f938c9d2163a",
+      "size": 1200
+    },
+    "pytz/zoneinfo/Atlantic/St_Helena": {
+      "hash": "d2efac4e5f23d88c95d72c1db42807170f52f43dd98a205af5a92a91b9f2d997",
+      "size": 148
+    },
+    "pytz/zoneinfo/Australia/ACT": {
+      "hash": "42c3857585b16db2f8ffd47ba19faa60f473340de8d4fe9320ea7be861605906",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/Adelaide": {
+      "hash": "95dd846f153be6856098f7bbd37cfe23a6aa2e0d0a9afeb665c086ce44f9476d",
+      "size": 2208
+    },
+    "pytz/zoneinfo/Australia/Brisbane": {
+      "hash": "796e90cf37b6b74faca5e2669afb7524ccdb91269d20a744f385c773b254b467",
+      "size": 419
+    },
+    "pytz/zoneinfo/Australia/Broken_Hill": {
+      "hash": "de4ff79634ef4b91927e8ed787ac3bd54811dda03060f06c9c227e9a51180aa4",
+      "size": 2229
+    },
+    "pytz/zoneinfo/Australia/Canberra": {
+      "hash": "42c3857585b16db2f8ffd47ba19faa60f473340de8d4fe9320ea7be861605906",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/Currie": {
+      "hash": "18b412ce021fb16c4ebe628eae1a5fa1f5aa20d41fea1dfa358cb799caba81c8",
+      "size": 2358
+    },
+    "pytz/zoneinfo/Australia/Darwin": {
+      "hash": "7e7d08661216f7c1409f32e283efc606d5b92c0e788da8dd79e533838b421afa",
+      "size": 325
+    },
+    "pytz/zoneinfo/Australia/Eucla": {
+      "hash": "8b5f97186f08e84d1d5c8756185e039647c32d686203127fde0329b7e9e6feee",
+      "size": 456
+    },
+    "pytz/zoneinfo/Australia/Hobart": {
+      "hash": "18b412ce021fb16c4ebe628eae1a5fa1f5aa20d41fea1dfa358cb799caba81c8",
+      "size": 2358
+    },
+    "pytz/zoneinfo/Australia/LHI": {
+      "hash": "a323c5433991a963eb497b7da4d1d09848bf3ef5f5d64d9c9649f388e4bab9df",
+      "size": 1846
+    },
+    "pytz/zoneinfo/Australia/Lindeman": {
+      "hash": "c4ce94771db6a0b3682d1d58ec64211ce628bfc9f0df140daa073f35543624ae",
+      "size": 475
+    },
+    "pytz/zoneinfo/Australia/Lord_Howe": {
+      "hash": "a323c5433991a963eb497b7da4d1d09848bf3ef5f5d64d9c9649f388e4bab9df",
+      "size": 1846
+    },
+    "pytz/zoneinfo/Australia/Melbourne": {
+      "hash": "96fc7f31072e9cc73abb6b2622b97c5f8dbb6cbb17be3920a4249d8d80933413",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/North": {
+      "hash": "7e7d08661216f7c1409f32e283efc606d5b92c0e788da8dd79e533838b421afa",
+      "size": 325
+    },
+    "pytz/zoneinfo/Australia/NSW": {
+      "hash": "42c3857585b16db2f8ffd47ba19faa60f473340de8d4fe9320ea7be861605906",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/Perth": {
+      "hash": "025d4339487853fa1f3144127959734b20f7c7b4948cff5d72149a0541a67968",
+      "size": 446
+    },
+    "pytz/zoneinfo/Australia/Queensland": {
+      "hash": "796e90cf37b6b74faca5e2669afb7524ccdb91269d20a744f385c773b254b467",
+      "size": 419
+    },
+    "pytz/zoneinfo/Australia/South": {
+      "hash": "95dd846f153be6856098f7bbd37cfe23a6aa2e0d0a9afeb665c086ce44f9476d",
+      "size": 2208
+    },
+    "pytz/zoneinfo/Australia/Sydney": {
+      "hash": "42c3857585b16db2f8ffd47ba19faa60f473340de8d4fe9320ea7be861605906",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/Tasmania": {
+      "hash": "18b412ce021fb16c4ebe628eae1a5fa1f5aa20d41fea1dfa358cb799caba81c8",
+      "size": 2358
+    },
+    "pytz/zoneinfo/Australia/Victoria": {
+      "hash": "96fc7f31072e9cc73abb6b2622b97c5f8dbb6cbb17be3920a4249d8d80933413",
+      "size": 2190
+    },
+    "pytz/zoneinfo/Australia/West": {
+      "hash": "025d4339487853fa1f3144127959734b20f7c7b4948cff5d72149a0541a67968",
+      "size": 446
+    },
+    "pytz/zoneinfo/Australia/Yancowinna": {
+      "hash": "de4ff79634ef4b91927e8ed787ac3bd54811dda03060f06c9c227e9a51180aa4",
+      "size": 2229
+    },
+    "pytz/zoneinfo/Brazil/Acre": {
+      "hash": "d20a49525e3a8506e9d0fe978f54b4340ac859e02bcaeb835e3b2576f0791871",
+      "size": 614
+    },
+    "pytz/zoneinfo/Brazil/DeNoronha": {
+      "hash": "7de7910228d0a8aca5660a9ef389ca86c14bc9c4f9cc8066ee62c8bddc86c38c",
+      "size": 702
+    },
+    "pytz/zoneinfo/Brazil/East": {
+      "hash": "04c06744ee3fe078ef3b8b779e38eb30666bf993e67a092fcaf2fc28f63a64ce",
+      "size": 1430
+    },
+    "pytz/zoneinfo/Brazil/West": {
+      "hash": "17a44b38e78e8bd972999890990f6947cb45a4f67a120b8d74f7ce73a0615c31",
+      "size": 590
+    },
+    "pytz/zoneinfo/Canada/Atlantic": {
+      "hash": "4d9a667393f05a82df4df42843f6f7535ec113689529278d911d07a3c99b4e7f",
+      "size": 3424
+    },
+    "pytz/zoneinfo/Canada/Central": {
+      "hash": "ecffbf610ae77857289fb40a4933a79221a3129a450e7dd9e3c309d6aabc541c",
+      "size": 2868
+    },
+    "pytz/zoneinfo/Canada/Eastern": {
+      "hash": "a587a1a1607439f7bac283e1815f2bdbafb9649a453d18e06c2e44e6996d888f",
+      "size": 3494
+    },
+    "pytz/zoneinfo/Canada/Mountain": {
+      "hash": "f939087dcdd096f6827f4a7c08e678dd8d47441025fa7011522f8975778ad6f1",
+      "size": 2332
+    },
+    "pytz/zoneinfo/Canada/Newfoundland": {
+      "hash": "af5fb5eee2afdbb799dc9b15930fc32d941ba3ac2f8eeb95bbb0b6a43b263a02",
+      "size": 3655
+    },
+    "pytz/zoneinfo/Canada/Pacific": {
+      "hash": "b249ca1f48d23d66a6f831df337e6a5ecf0d6a6edde5316591423d4a0c6bcb28",
+      "size": 2892
+    },
+    "pytz/zoneinfo/Canada/Saskatchewan": {
+      "hash": "ca3a93d3ca476c80987bcdc7f099ad68306f085a91bfb4dfcdedd8f31b97ba4c",
+      "size": 980
+    },
+    "pytz/zoneinfo/Canada/Yukon": {
+      "hash": "4eb47a3c29d81be9920a504ca21aa53fcaa76215cc52cc9d23e2feaae5c5c723",
+      "size": 1614
+    },
+    "pytz/zoneinfo/Chile/Continental": {
+      "hash": "d020f0d77742314b28aae32ea68260ba99330143610cae84d2557151103ba2c0",
+      "size": 2515
+    },
+    "pytz/zoneinfo/Chile/EasterIsland": {
+      "hash": "41bb9b06cff1425bcac1e027bab8721e320ae238bbec68781bebac5ee97a5d53",
+      "size": 2219
+    },
+    "pytz/zoneinfo/Etc/GMT": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/GMT+0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/GMT+1": {
+      "hash": "d50ce5d97f6b43f45711fd75c87d3dc10642affa61e947453fb134caef6cf884",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+10": {
+      "hash": "244432432425902d28e994dd7958d984220e87a70ae5317b1f4d0f925b3eb142",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT+11": {
+      "hash": "b56bdcbd830509a13ad27255bc3aeba2feecb49becd4a4183b2ae1977773714b",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT+12": {
+      "hash": "6fbd0712112babc2099aaf31edc399cb8791fffddfab9b871e98ef3c1107a8c0",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT+2": {
+      "hash": "4fa129e7386c94129b61a10215407a8142a1de24d93f23285b59238689f1ad4a",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+3": {
+      "hash": "406a18ac4d386d427e3b32f7eddb763194f917158d2e92433d55e025bb2d6190",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+4": {
+      "hash": "456ae43648bec15ed7f9ca1ed15bee7c17ba2eb595a643c98226b94106049c1a",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+5": {
+      "hash": "a1199e0b8d5d8185d3fb3cf264844a5cdf48bdd2f60dae674eec261b6fe9ac80",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+6": {
+      "hash": "77a7409f089e8f2148da7ec0cc59455b4685013eb360d123048106d2ebb4b1b4",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+7": {
+      "hash": "4ea8d86f3774607a71d708ac160d3c275f704e983aced24b2e89e0658fe5a33b",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+8": {
+      "hash": "b61ffc6c832662044f09eb01adb981851af48d03bbc2177bd0b898f477f02729",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT+9": {
+      "hash": "42ae44ea2512ec9309232993ed8a2a948f0cb6ab55cb49abf6deb3585b5673d6",
+      "size": 116
+    },
+    "pytz/zoneinfo/Etc/GMT-0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/GMT-1": {
+      "hash": "ef7175794f2e01018fde6728076abdf428df31a9c61479377de7e58e9f69602e",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-10": {
+      "hash": "7ca5963702c13a9d4e90a8ed735c3d2c85c94759934c3f8976f61f951cb522b5",
+      "size": 118
+    },
+    "pytz/zoneinfo/Etc/GMT-11": {
+      "hash": "0f64bbf67ea9b1af6df7fdaf8f9c08ac5a471f63892dc08a3fabedc3315920d6",
+      "size": 118
+    },
+    "pytz/zoneinfo/Etc/GMT-12": {
+      "hash": "99ee15ea599623c812afc1fb378d56003d04c30d5a9e1fc4177e10afd5284a72",
+      "size": 118
+    },
+    "pytz/zoneinfo/Etc/GMT-13": {
+      "hash": "c5b99b1b505003a0e5a5afe2530106c89c56e1adedea599ac1d3ca004f2f6d1f",
+      "size": 118
+    },
+    "pytz/zoneinfo/Etc/GMT-14": {
+      "hash": "3e95e8444061d36a85a6fc55323da957d200cd242f044ed73ef9cdf6a499f8a7",
+      "size": 118
+    },
+    "pytz/zoneinfo/Etc/GMT-2": {
+      "hash": "bdeea158b75eba22e1a9a81a58ba8c0fa1cdc9b4b57214708ee75f4d9d9b6011",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-3": {
+      "hash": "37bee320b6a7b8b0d590bb1dba35d94aef9db078b0379308a7087b7cc5227eca",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-4": {
+      "hash": "2d2928e5f547a8f979cdfc231aa91b31afce167beda53ea8ff8c58c4dcfd9f9a",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-5": {
+      "hash": "b8b69247931bd7c1d14ec000e52bde63d3c027dedd3bc433216a8d5dedf065be",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-6": {
+      "hash": "25237e454029849e747e922fedc602eae9ebb6bcfd4b55a66bea620c79467bb7",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-7": {
+      "hash": "bd500e17cc54f53f444a7c3af1cd12157a5cbe4a28a5a8b04d1d336de7c71d25",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-8": {
+      "hash": "4bbc4541b14ca620d9cb8bf92f80fd7c2ae3448cf3a0b0b9a7c49edb7c62eeeb",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT-9": {
+      "hash": "239bc736650af98ca0fd2d6c905378e15195cc1824b6316055088320a3b868c2",
+      "size": 117
+    },
+    "pytz/zoneinfo/Etc/GMT0": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/Greenwich": {
+      "hash": "6d9f378883c079f86c0387a5547a92c449869d806e07de10084ab04f0249018d",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/UCT": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/Universal": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/UTC": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Etc/Zulu": {
+      "hash": "8b85846791ab2c8a5463c83a5be3c043e2570d7448434d41398969ed47e3e6f2",
+      "size": 114
+    },
+    "pytz/zoneinfo/Europe/Amsterdam": {
+      "hash": "812f55aeb6e8cde9ddf4786e15eb4256b21e82cf5f5d28da1bad17d94570cac0",
+      "size": 2933
+    },
+    "pytz/zoneinfo/Europe/Andorra": {
+      "hash": "8130798c2426bc8c372498b5fef01c398ba1b733c147a457531f60555ea9eae8",
+      "size": 1742
+    },
+    "pytz/zoneinfo/Europe/Astrakhan": {
+      "hash": "65e183663c15551a1e47e27ae36cc49cddba04f2f9f1589324b6f09e4ee92d79",
+      "size": 1151
+    },
+    "pytz/zoneinfo/Europe/Athens": {
+      "hash": "5c363e14151d751c901cdf06c502d9e1ac23b8e956973954763bfb39d5c53730",
+      "size": 2262
+    },
+    "pytz/zoneinfo/Europe/Belfast": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/Europe/Belgrade": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/Berlin": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Europe/Bratislava": {
+      "hash": "1bd7dd8545e6cf1eb9d419f267a57b00e60857d115e5a309326e3878968b2d9c",
+      "size": 2301
+    },
+    "pytz/zoneinfo/Europe/Brussels": {
+      "hash": "812f55aeb6e8cde9ddf4786e15eb4256b21e82cf5f5d28da1bad17d94570cac0",
+      "size": 2933
+    },
+    "pytz/zoneinfo/Europe/Bucharest": {
+      "hash": "9df83af9b5360fa0cc1166fd10c2014799319cdb1b0d2c7450a7c71ff673a857",
+      "size": 2184
+    },
+    "pytz/zoneinfo/Europe/Budapest": {
+      "hash": "94dc2ac5672206fc3d7a2f35550c082876c2fd90c98e980753a1c5838c025246",
+      "size": 2368
+    },
+    "pytz/zoneinfo/Europe/Busingen": {
+      "hash": "2b9418ed48e3d9551c84a4786e185bd2181d009866c040fbd729170d038629ef",
+      "size": 1909
+    },
+    "pytz/zoneinfo/Europe/Chisinau": {
+      "hash": "7b4941ae82ed7958f8897d198bf937e7ccf5460065caca2728e2a471cb3e9d93",
+      "size": 2424
+    },
+    "pytz/zoneinfo/Europe/Copenhagen": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Europe/Dublin": {
+      "hash": "40e8d2a1c3b572284da39f6f4245b1bc814f452c44f5aa73d0a011571d5ccc43",
+      "size": 3492
+    },
+    "pytz/zoneinfo/Europe/Gibraltar": {
+      "hash": "6bced6a5a065bf123880053d3a940e90df155096e2ad55987fe55f14b4c8a12e",
+      "size": 3068
+    },
+    "pytz/zoneinfo/Europe/Guernsey": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/Europe/Helsinki": {
+      "hash": "184901ecbb158667a0b7b62eb9685e083bc3182edbecdc3d6d3743192f6a9097",
+      "size": 1900
+    },
+    "pytz/zoneinfo/Europe/Isle_of_Man": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/Europe/Istanbul": {
+      "hash": "264e308e7743b5afee2d673c5b57567636dabc925bb0be513939996e856718a5",
+      "size": 1933
+    },
+    "pytz/zoneinfo/Europe/Jersey": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/Europe/Kaliningrad": {
+      "hash": "b3b19749ed58bcc72cec089484735303a2389c03909ff2a6cff66a2583be2cc3",
+      "size": 1493
+    },
+    "pytz/zoneinfo/Europe/Kiev": {
+      "hash": "fb0ae91bd8cfb882853f5360055be7c6c3117fd2ff879cf727a4378e3d40c0d3",
+      "size": 2120
+    },
+    "pytz/zoneinfo/Europe/Kirov": {
+      "hash": "3fb4f665fe44a3aa382f80db83f05f8858d48138f47505e5af063e419d5e0559",
+      "size": 1185
+    },
+    "pytz/zoneinfo/Europe/Kyiv": {
+      "hash": "fb0ae91bd8cfb882853f5360055be7c6c3117fd2ff879cf727a4378e3d40c0d3",
+      "size": 2120
+    },
+    "pytz/zoneinfo/Europe/Lisbon": {
+      "hash": "92b07cb24689226bf934308d1f1bd33c306aa4da610c52cd5bce25077960502c",
+      "size": 3527
+    },
+    "pytz/zoneinfo/Europe/Ljubljana": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/London": {
+      "hash": "c85495070dca42687df6a1c3ee780a27cbcb82f1844750ea6f642833a44d29b4",
+      "size": 3664
+    },
+    "pytz/zoneinfo/Europe/Luxembourg": {
+      "hash": "812f55aeb6e8cde9ddf4786e15eb4256b21e82cf5f5d28da1bad17d94570cac0",
+      "size": 2933
+    },
+    "pytz/zoneinfo/Europe/Madrid": {
+      "hash": "9a42d7d37ad6dedd2d9b328120f7bf9e852f6850c4af00baff964f659b161cea",
+      "size": 2614
+    },
+    "pytz/zoneinfo/Europe/Malta": {
+      "hash": "12129c6cf2f8efbeb9b56022439edcbac68ad9368842a64282d268119b3751dd",
+      "size": 2620
+    },
+    "pytz/zoneinfo/Europe/Mariehamn": {
+      "hash": "184901ecbb158667a0b7b62eb9685e083bc3182edbecdc3d6d3743192f6a9097",
+      "size": 1900
+    },
+    "pytz/zoneinfo/Europe/Minsk": {
+      "hash": "2a03e6d1f1f2727b60777c5b4e69839783b5dd787ff5edb352777c5c5494dbda",
+      "size": 1307
+    },
+    "pytz/zoneinfo/Europe/Monaco": {
+      "hash": "ab77a1488a2dd4667a4f23072236e0d2845fe208405eec1b4834985629ba7af8",
+      "size": 2962
+    },
+    "pytz/zoneinfo/Europe/Moscow": {
+      "hash": "2a69287d1723e93f0f876f0f242866f09569d77b91bde7fa4d9d06b8fcd4883c",
+      "size": 1535
+    },
+    "pytz/zoneinfo/Europe/Nicosia": {
+      "hash": "d149e6d08153ec7c86790ec5def4daffe9257f2b0282bba5a853ba043d699595",
+      "size": 2002
+    },
+    "pytz/zoneinfo/Europe/Oslo": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Europe/Paris": {
+      "hash": "ab77a1488a2dd4667a4f23072236e0d2845fe208405eec1b4834985629ba7af8",
+      "size": 2962
+    },
+    "pytz/zoneinfo/Europe/Podgorica": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/Prague": {
+      "hash": "1bd7dd8545e6cf1eb9d419f267a57b00e60857d115e5a309326e3878968b2d9c",
+      "size": 2301
+    },
+    "pytz/zoneinfo/Europe/Riga": {
+      "hash": "849dbfd26d6d696f48b80fa13323f99fe597ed83ab47485e2accc98609634569",
+      "size": 2198
+    },
+    "pytz/zoneinfo/Europe/Rome": {
+      "hash": "d5ade82cc4a232949b87d43157c84b2c355b66a6ac87cf6250ed6ead80b5018f",
+      "size": 2641
+    },
+    "pytz/zoneinfo/Europe/Samara": {
+      "hash": "9d72f42316d3eaabb5d0236e6831f1c785b539a02769a293b4827d37d5113285",
+      "size": 1201
+    },
+    "pytz/zoneinfo/Europe/San_Marino": {
+      "hash": "d5ade82cc4a232949b87d43157c84b2c355b66a6ac87cf6250ed6ead80b5018f",
+      "size": 2641
+    },
+    "pytz/zoneinfo/Europe/Sarajevo": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/Saratov": {
+      "hash": "ca0c23bd7375dd381a5b18e0eb2b161271d6371c2b56d9046eb93cb7d6f3555c",
+      "size": 1169
+    },
+    "pytz/zoneinfo/Europe/Simferopol": {
+      "hash": "b7397bc5d355499a6b342ba5e181392d2a6847d268ba398eabc55b6c1f301e27",
+      "size": 1469
+    },
+    "pytz/zoneinfo/Europe/Skopje": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/Sofia": {
+      "hash": "84240a5df30dae7039c47370feecd38cacd5c38f81becab9a063b8c940afe6d6",
+      "size": 2077
+    },
+    "pytz/zoneinfo/Europe/Stockholm": {
+      "hash": "5ee475f71a0fc1a32faeb849f8c39c6e7aa66d6d41ec742b97b3a7436b3b0701",
+      "size": 2298
+    },
+    "pytz/zoneinfo/Europe/Tallinn": {
+      "hash": "e1ae890b4688a4ccea215ecedf9ce81b42cb270910ab90285d9da2be489cebec",
+      "size": 2148
+    },
+    "pytz/zoneinfo/Europe/Tirane": {
+      "hash": "ced959c824bd5825de556f2706e9f74f28b91d463412d15b8816c473582e72ec",
+      "size": 2084
+    },
+    "pytz/zoneinfo/Europe/Tiraspol": {
+      "hash": "7b4941ae82ed7958f8897d198bf937e7ccf5460065caca2728e2a471cb3e9d93",
+      "size": 2424
+    },
+    "pytz/zoneinfo/Europe/Ulyanovsk": {
+      "hash": "73c01de69ec22a3ff570203b95546970fa9b417198697f3772ebbab88171f818",
+      "size": 1253
+    },
+    "pytz/zoneinfo/Europe/Uzhgorod": {
+      "hash": "fb0ae91bd8cfb882853f5360055be7c6c3117fd2ff879cf727a4378e3d40c0d3",
+      "size": 2120
+    },
+    "pytz/zoneinfo/Europe/Vaduz": {
+      "hash": "2b9418ed48e3d9551c84a4786e185bd2181d009866c040fbd729170d038629ef",
+      "size": 1909
+    },
+    "pytz/zoneinfo/Europe/Vatican": {
+      "hash": "d5ade82cc4a232949b87d43157c84b2c355b66a6ac87cf6250ed6ead80b5018f",
+      "size": 2641
+    },
+    "pytz/zoneinfo/Europe/Vienna": {
+      "hash": "6662379000c4e9b9eb24471caa1ef75d7058dfa2f51b80e4a624d0226b4dad49",
+      "size": 2200
+    },
+    "pytz/zoneinfo/Europe/Vilnius": {
+      "hash": "505cd15f7a2b09307c77d23397124fcb9794036a013ee0aed54265fb60fb0b75",
+      "size": 2162
+    },
+    "pytz/zoneinfo/Europe/Volgograd": {
+      "hash": "46016fb7b9b367e4ed20a2fd0551e6a0d64b21e2c8ba20dd5de635d20dbfbe4b",
+      "size": 1193
+    },
+    "pytz/zoneinfo/Europe/Warsaw": {
+      "hash": "4e22c33db79517472480b54491a49e0da299f3072d7490ce97f1c4fd6779acab",
+      "size": 2654
+    },
+    "pytz/zoneinfo/Europe/Zagreb": {
+      "hash": "3a95adb06156044fd2fa662841c0268c2b5af47c1b19000d9d299563d387093a",
+      "size": 1920
+    },
+    "pytz/zoneinfo/Europe/Zaporozhye": {
+      "hash": "fb0ae91bd8cfb882853f5360055be7c6c3117fd2ff879cf727a4378e3d40c0d3",
+      "size": 2120
+    },
+    "pytz/zoneinfo/Europe/Zurich": {
+      "hash": "2b9418ed48e3d9551c84a4786e185bd2181d009866c040fbd729170d038629ef",
+      "size": 1909
+    },
+    "pytz/zoneinfo/Indian/Antananarivo": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Indian/Chagos": {
+      "hash": "d9eaeb5f329d1487295342fe5d18521f184d69b2336c8e655d5dcfaba96de346",
+      "size": 185
+    },
+    "pytz/zoneinfo/Indian/Christmas": {
+      "hash": "85fff93d57a041c1524bad028d2f340bb87e4c63ab7d0e27726f3737c5666649",
+      "size": 185
+    },
+    "pytz/zoneinfo/Indian/Cocos": {
+      "hash": "fd81c04aae19e5871420b21d844ce0dbb0862f36ab5073c31ecd438f44203463",
+      "size": 254
+    },
+    "pytz/zoneinfo/Indian/Comoro": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Indian/Kerguelen": {
+      "hash": "17bddf7d57c1a14a07aded3e0f0b2242b60970ba4f396f892469379fcf253395",
+      "size": 185
+    },
+    "pytz/zoneinfo/Indian/Mahe": {
+      "hash": "a667613e16894702b038dbf18993467854880a3956cf263d265147bfe1fdba96",
+      "size": 151
+    },
+    "pytz/zoneinfo/Indian/Maldives": {
+      "hash": "17bddf7d57c1a14a07aded3e0f0b2242b60970ba4f396f892469379fcf253395",
+      "size": 185
+    },
+    "pytz/zoneinfo/Indian/Mauritius": {
+      "hash": "667aab7357218a695c889b1804e97436f2079eb35d0b19dc1b159ccead4f05e2",
+      "size": 227
+    },
+    "pytz/zoneinfo/Indian/Mayotte": {
+      "hash": "c89b2e253a8926a6cecf7eff34e4bfcdb7fe24daff22d84718c30deec0ea4968",
+      "size": 265
+    },
+    "pytz/zoneinfo/Indian/Reunion": {
+      "hash": "a667613e16894702b038dbf18993467854880a3956cf263d265147bfe1fdba96",
+      "size": 151
+    },
+    "pytz/zoneinfo/Mexico/BajaNorte": {
+      "hash": "8c2e7b321726e6345912da396796bdb3672bfc4bd1a91c65ee58b38e004d4ca5",
+      "size": 2906
+    },
+    "pytz/zoneinfo/Mexico/BajaSur": {
+      "hash": "0561f636a54f0353ecc842cf37fd8117c2a596bb26424aa0d5eba3b10be79f1f",
+      "size": 1060
+    },
+    "pytz/zoneinfo/Mexico/General": {
+      "hash": "528836f85316cf6a35da347ab0af6f7a625a98b7a8e8e105310477b34c53c647",
+      "size": 1222
+    },
+    "pytz/zoneinfo/Pacific/Apia": {
+      "hash": "33740ab29ef943b1f55f769e13ff59a90962f5a12434209072d650e6c10abb4d",
+      "size": 598
+    },
+    "pytz/zoneinfo/Pacific/Auckland": {
+      "hash": "8000e3a323e8fd0212414e9426b020707a771c368ca0e151747f9ddb7b814b27",
+      "size": 2437
+    },
+    "pytz/zoneinfo/Pacific/Bougainville": {
+      "hash": "85613ce9e5e7371faf0016e9efe61222a5b279c1cf30858b7ed565a00a0f84bf",
+      "size": 254
+    },
+    "pytz/zoneinfo/Pacific/Chatham": {
+      "hash": "c617b155ce657c9fea02fd9ddc7ac823a95f452c4a6580408d8db3a58902184f",
+      "size": 2054
+    },
+    "pytz/zoneinfo/Pacific/Chuuk": {
+      "hash": "9c1dfa1c15994dd8774e53f40cb14dcf529143468721f1dba7b2c2e14ae9f5f0",
+      "size": 172
+    },
+    "pytz/zoneinfo/Pacific/Easter": {
+      "hash": "41bb9b06cff1425bcac1e027bab8721e320ae238bbec68781bebac5ee97a5d53",
+      "size": 2219
+    },
+    "pytz/zoneinfo/Pacific/Efate": {
+      "hash": "a12c4d710631e7ed45536ff21f31c8fa14fe74c25c3f1cf2e1799d2355315c0a",
+      "size": 524
+    },
+    "pytz/zoneinfo/Pacific/Enderbury": {
+      "hash": "1cd4c02abb07fd1d96dd046529c98d95de4a71774fd328170a3128bdcd62fba4",
+      "size": 220
+    },
+    "pytz/zoneinfo/Pacific/Fakaofo": {
+      "hash": "a8ea1da5330a8f3b6f6485d52defdffe467a59c1e5f5f08b13d66ccaf74528b2",
+      "size": 186
+    },
+    "pytz/zoneinfo/Pacific/Fiji": {
+      "hash": "8c1e456ceb029c7550436a213e25844143e11ba2726c1dcda20dea4fa5894342",
+      "size": 564
+    },
+    "pytz/zoneinfo/Pacific/Funafuti": {
+      "hash": "53268a8a6b11f0b8e02fc67683ae48d074efaf7b4c66e036c1478107afd9a7d7",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Galapagos": {
+      "hash": "fc625460e8d28888e83413b6a9dab6de2b0b309e0d0959370ca21119e0dcf010",
+      "size": 224
+    },
+    "pytz/zoneinfo/Pacific/Gambier": {
+      "hash": "8004bb82bd471ffaded2e6272fa796a3928627e07941a88cf26576718e664311",
+      "size": 150
+    },
+    "pytz/zoneinfo/Pacific/Guadalcanal": {
+      "hash": "3389135aa69241a57500c8722d2be6c2804917b5fd89cac82dbbd0270a7de348",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Guam": {
+      "hash": "131f739e67faacd7c6cdeea036964908caf54d3e2b925d929eb85e72b749b9f2",
+      "size": 494
+    },
+    "pytz/zoneinfo/Pacific/Honolulu": {
+      "hash": "7f03d1bf5264e7ab023a2ef9b997ddfc8cb6936692407c770762b9c549523f33",
+      "size": 329
+    },
+    "pytz/zoneinfo/Pacific/Johnston": {
+      "hash": "7f03d1bf5264e7ab023a2ef9b997ddfc8cb6936692407c770762b9c549523f33",
+      "size": 329
+    },
+    "pytz/zoneinfo/Pacific/Kanton": {
+      "hash": "1cd4c02abb07fd1d96dd046529c98d95de4a71774fd328170a3128bdcd62fba4",
+      "size": 220
+    },
+    "pytz/zoneinfo/Pacific/Kiritimati": {
+      "hash": "8589353a8cfe2e3d4fb9909b355d96248bce2ed0b04b0ab6bbaddc6f567edcd4",
+      "size": 224
+    },
+    "pytz/zoneinfo/Pacific/Kosrae": {
+      "hash": "4348eb6f8cde0eb77ad5b53857c4ea8cc73421ea7cad667266a274baab2e9f1b",
+      "size": 337
+    },
+    "pytz/zoneinfo/Pacific/Kwajalein": {
+      "hash": "4e667fd1ffb2490fac6810254575747f8f48b709dee755415e7eab59cad6a874",
+      "size": 302
+    },
+    "pytz/zoneinfo/Pacific/Majuro": {
+      "hash": "53268a8a6b11f0b8e02fc67683ae48d074efaf7b4c66e036c1478107afd9a7d7",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Marquesas": {
+      "hash": "153c4f2535ad938f0b55bdcdd94eb828ba4bb26beed03401b9b4c283e76fc863",
+      "size": 159
+    },
+    "pytz/zoneinfo/Pacific/Midway": {
+      "hash": "7c262b62985863aad47f13b0ef5db2e5cc917b5d38002de9a2ea83ddb0883458",
+      "size": 175
+    },
+    "pytz/zoneinfo/Pacific/Nauru": {
+      "hash": "f4048a80b1c1fbc9ec4c42b5029cdf4c7d3242d6cd026197f8923bb87662aa70",
+      "size": 238
+    },
+    "pytz/zoneinfo/Pacific/Niue": {
+      "hash": "3a5957c6e927711edaf92326745a31e5acf5c6920f3216da85086d39b9a9b833",
+      "size": 189
+    },
+    "pytz/zoneinfo/Pacific/Norfolk": {
+      "hash": "0cc757d419b5f25ccdba2096cf07de1d43111973d2f2fe405a787efc45ff019c",
+      "size": 866
+    },
+    "pytz/zoneinfo/Pacific/Noumea": {
+      "hash": "b641f1c67c6c5d33aacf76335a2d269214c220e37383e5bb12949131d3e329d4",
+      "size": 290
+    },
+    "pytz/zoneinfo/Pacific/Pago_Pago": {
+      "hash": "7c262b62985863aad47f13b0ef5db2e5cc917b5d38002de9a2ea83ddb0883458",
+      "size": 175
+    },
+    "pytz/zoneinfo/Pacific/Palau": {
+      "hash": "68dd876d3d2b7aac0aaed2ca0caf4cdb36f47748a474d953aeb9ed571747ebaa",
+      "size": 166
+    },
+    "pytz/zoneinfo/Pacific/Pitcairn": {
+      "hash": "5388c052ebec44da32f17acf6b5e98a5c5c272a1c9634bba26f08d80f1163b57",
+      "size": 188
+    },
+    "pytz/zoneinfo/Pacific/Pohnpei": {
+      "hash": "3389135aa69241a57500c8722d2be6c2804917b5fd89cac82dbbd0270a7de348",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Ponape": {
+      "hash": "3389135aa69241a57500c8722d2be6c2804917b5fd89cac82dbbd0270a7de348",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Port_Moresby": {
+      "hash": "9c1dfa1c15994dd8774e53f40cb14dcf529143468721f1dba7b2c2e14ae9f5f0",
+      "size": 172
+    },
+    "pytz/zoneinfo/Pacific/Rarotonga": {
+      "hash": "c0f12ca176f20e7ba17f39202ef52a852ceb331fc50f8dae00f96e48f321dc17",
+      "size": 589
+    },
+    "pytz/zoneinfo/Pacific/Saipan": {
+      "hash": "131f739e67faacd7c6cdeea036964908caf54d3e2b925d929eb85e72b749b9f2",
+      "size": 494
+    },
+    "pytz/zoneinfo/Pacific/Samoa": {
+      "hash": "7c262b62985863aad47f13b0ef5db2e5cc917b5d38002de9a2ea83ddb0883458",
+      "size": 175
+    },
+    "pytz/zoneinfo/Pacific/Tahiti": {
+      "hash": "0517dff46dc4fa258a84e591d56bb4d99d223208ebc035d5f9736ba88b577536",
+      "size": 151
+    },
+    "pytz/zoneinfo/Pacific/Tarawa": {
+      "hash": "53268a8a6b11f0b8e02fc67683ae48d074efaf7b4c66e036c1478107afd9a7d7",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Tongatapu": {
+      "hash": "3a9a4166a4c06626fd1d8ed4f400be25abceee6e8dc4f194b547cf40097da016",
+      "size": 358
+    },
+    "pytz/zoneinfo/Pacific/Truk": {
+      "hash": "9c1dfa1c15994dd8774e53f40cb14dcf529143468721f1dba7b2c2e14ae9f5f0",
+      "size": 172
+    },
+    "pytz/zoneinfo/Pacific/Wake": {
+      "hash": "53268a8a6b11f0b8e02fc67683ae48d074efaf7b4c66e036c1478107afd9a7d7",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Wallis": {
+      "hash": "53268a8a6b11f0b8e02fc67683ae48d074efaf7b4c66e036c1478107afd9a7d7",
+      "size": 152
+    },
+    "pytz/zoneinfo/Pacific/Yap": {
+      "hash": "9c1dfa1c15994dd8774e53f40cb14dcf529143468721f1dba7b2c2e14ae9f5f0",
+      "size": 172
+    },
+    "pytz/zoneinfo/US/Alaska": {
+      "hash": "a190353523d2d8159dca66299c21c53bc0656154be965e4a2e0d84cfd09b113b",
+      "size": 2371
+    },
+    "pytz/zoneinfo/US/Aleutian": {
+      "hash": "201d4387025000a6e13c9f631cb7fccd6e4369dec7224052f9d86feb81353a53",
+      "size": 2356
+    },
+    "pytz/zoneinfo/US/Arizona": {
+      "hash": "8a5973d2c62e2cbf2520f2b44e4a2ee9d2f455c93f0f45bfdeb4533af1584664",
+      "size": 360
+    },
+    "pytz/zoneinfo/US/Central": {
+      "hash": "feba326ebe88eac20017a718748c46c68469a1e7f5e7716dcb8f1d43a6e6f686",
+      "size": 3592
+    },
+    "pytz/zoneinfo/US/East-Indiana": {
+      "hash": "90d2b2f4a8fd202b226187c209b020833300edec5ff86a463ccc685e8707532c",
+      "size": 1682
+    },
+    "pytz/zoneinfo/US/Eastern": {
+      "hash": "e9ed07d7bee0c76a9d442d091ef1f01668fee7c4f26014c0a868b19fe6c18a95",
+      "size": 3552
+    },
+    "pytz/zoneinfo/US/Hawaii": {
+      "hash": "7f03d1bf5264e7ab023a2ef9b997ddfc8cb6936692407c770762b9c549523f33",
+      "size": 329
+    },
+    "pytz/zoneinfo/US/Indiana-Starke": {
+      "hash": "0acbd9e412b0daa55abf7c7f17c094f6d68974393b8d7e3509fb2a9acea35d5f",
+      "size": 2444
+    },
+    "pytz/zoneinfo/US/Michigan": {
+      "hash": "85e733f32a98d828f907ad46de02d9740559bd180af65d0ff7473f80dfae0f98",
+      "size": 2230
+    },
+    "pytz/zoneinfo/US/Mountain": {
+      "hash": "32e819c00a43b3c348f539d700d425504f20b8d068c16418d26fa9b693e775c9",
+      "size": 2460
+    },
+    "pytz/zoneinfo/US/Pacific": {
+      "hash": "68977bb9ad6d186fefc6c7abd36010a66e30008dcb2d376087a41c49861e7268",
+      "size": 2852
+    },
+    "pytz/zoneinfo/US/Samoa": {
+      "hash": "7c262b62985863aad47f13b0ef5db2e5cc917b5d38002de9a2ea83ddb0883458",
+      "size": 175
+    },
+    "pywin32_system32/pythoncom38.dll": {
+      "hash": "2afdd2fde9393f9682cbd3695c54016cf2009ada27c0370d73e5bf638b9ced7f",
+      "size": 675840
+    },
+    "pywin32_system32/pywintypes38.dll": {
+      "hash": "73ec56cec52d7aefb93f68fa7f046981ea2379afff03488dcbb93d04de610981",
+      "size": 136192
+    },
+    "setuptools-56.0.0.dist-info/dependency_links.txt": {
+      "hash": "1e5902164a0ae536d9e4430b6cb29884b718fc4df5901583f13a96d848266ad4",
+      "size": 239
+    },
+    "setuptools-56.0.0.dist-info/entry_points.txt": {
+      "hash": "96478968adb5be5b92db2ecc7e63bfb5b2d88e1f2f6990e066cc33538243f608",
+      "size": 2869
+    },
+    "setuptools-56.0.0.dist-info/INSTALLER": {
+      "hash": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4
+    },
+    "setuptools-56.0.0.dist-info/LICENSE": {
+      "hash": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+      "size": 1050
+    },
+    "setuptools-56.0.0.dist-info/METADATA": {
+      "hash": "fda091a4c0941a8a04049f5facadeaa3e66f44c5a97595925adff2d3b3e305f3",
+      "size": 4759
+    },
+    "setuptools-56.0.0.dist-info/RECORD": {
+      "hash": "550dd265c1b76d47b14a5facf964ce3109a8f8caf6d8631c5096bf03877f06cc",
+      "size": 22796
+    },
+    "setuptools-56.0.0.dist-info/REQUESTED": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "setuptools-56.0.0.dist-info/top_level.txt": {
+      "hash": "77dc8bdfdbff5bbaa62830d21fab13e1b1348ff2ecd4cdcfd7ad4e1a076c9b88",
+      "size": 41
+    },
+    "setuptools-56.0.0.dist-info/WHEEL": {
+      "hash": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+      "size": 92
+    },
+    "shiboken2/MSVCP140.dll": {
+      "hash": "f87819ae8c6f7c90d3237a1abb9809e8cba9dcd0c80ac3f0969a5e68ef652ca4",
+      "size": 618264
+    },
+    "shiboken2/shiboken2.abi3.dll": {
+      "hash": "3a21d0ef5713f46bccebe6ff3e324a8ca1433417a39eded43790811a60e3206c",
+      "size": 255768
+    },
+    "shiboken2/shiboken2.pyd": {
+      "hash": "4161690265e3dadcd864178c089bb2d07795b46c43ddc2e88d251ce7f2374fdc",
+      "size": 29976
+    },
+    "shiboken2/VCRUNTIME140_1.dll": {
+      "hash": "6cc4315daceb0522816c60678344466cb452426267f70c7faae925361674e774",
+      "size": 44312
+    },
+    "src/styles/theme.qss": {
+      "hash": "27269d4adc82deb94e4d8300dc4a1d79030e809be24d8687daaf56195cfd7a51",
+      "size": 2755
+    },
+    "win32/win32api.pyd": {
+      "hash": "1409577d92e0b0e2f8ae03a17a0e5566f1e6da652f09bc7a69314d3b7fa7e15f",
+      "size": 134144
+    },
+    "win32/win32event.pyd": {
+      "hash": "f86e781e0d8d6f0870a2afedb3e0ad79c77dbc7fee55ae893b01425af5b2d723",
+      "size": 29184
+    },
+    "win32/win32gui.pyd": {
+      "hash": "9d49b1bf35eab4d06921b5fde9b23b582e4006364c3b1359b5d8d6ba866c2259",
+      "size": 220160
+    },
+    "win32/win32pdh.pyd": {
+      "hash": "03cd3bddb907f63f138bc44b5304d41d1e56f9540f69370505345e2519d7f562",
+      "size": 35328
+    },
+    "win32/win32print.pyd": {
+      "hash": "6fe7a7c30ae626bdaee5bc2f9d80a9d2d2d32f46308e6a6882863b837dc13d4b",
+      "size": 75264
+    },
+    "win32/win32trace.pyd": {
+      "hash": "9dfc8256f419bb750fd9927efb40035f2ba707ba0952be373c6c61a554accc28",
+      "size": 23552
+    },
+    "win32/win32wnet.pyd": {
+      "hash": "ee02ee86da1b2a5cf1d2111d0a70ebcd1934fa825406614b8aecfea74e59e657",
+      "size": 38400
+    },
+    "win32/_win32sysloader.pyd": {
+      "hash": "feaa57a7aff7fb8b51edd3272b817c91256b0884b7908e4c836523df22e3d3d0",
+      "size": 14848
+    },
+    "win32com/shell/shell.pyd": {
+      "hash": "6fa0fa52edef1ddab299f8d7a086694be27af9f7dfa79208350daba3fc7b6c06",
+      "size": 543232
+    }
+  }
+}
