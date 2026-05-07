@@ -1,14 +1,12 @@
 {
-  "version": "1.0.0",
-  "release_date": "2026-04-13 20:57:22",
+  "version": "1.2.0",
+  "release_date": "2026-05-07 20:36:31",
   "release_notes": [
-    "الإصدار الأول من تطبيق إدارة المطعم برو.",
-    "إدارة التلاميذ والإحصائيات.",
-    "استيراد البيانات من ملفات Excel.",
-    "نظام تسجيل الدخول الآمن."
+    "إضافة ميزة تصدير ملف إكسال للغيابات .",
+    "تصحيح مشكل قص الاسم الطويل في التقرير ."
   ],
   "total_files": 1153,
-  "total_size": 277950094,
+  "total_size": 277951175,
   "files": {
     "81d243bd2c585b0f4821__mypyc.cp38-win_amd64.pyd": {
       "hash": "7384dbebf0bcbecae768fa92d800b644604c3b593945e0e4ea12fe4736427b78",
@@ -179,12 +177,12 @@
       "size": 22024
     },
     "base_library.zip": {
-      "hash": "4fcfc2edcde1fd031db87a07459d8fc0f02a5c413024268a0968f71b4b280ee6",
+      "hash": "cc0ba138bae91d7c112d78a5b3f127abcd4c4bb24e015cb02509625034c2f25a",
       "size": 1033057
     },
     "CanteenDesktop.exe": {
-      "hash": "dac39592a349b5a72057d7707686ea4d0a5a83af31e810c6ccf8be6ee3320b51",
-      "size": 13732987
+      "hash": "2eb176e01e497ce26ae4a3042aa7dd9c0839e4cc35c446524194e5b9d90b6b3e",
+      "size": 13734068
     },
     "libcrypto-1_1-x64.dll": {
       "hash": "b9a553ea944e2a8f2bb9f5e4d5fe2771b433e65408f0bb7ce55d8abef94e23e2",
