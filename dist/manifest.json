@@ -1,12 +1,11 @@
 {
-  "version": "1.2.0",
-  "release_date": "2026-05-07 20:36:31",
+  "version": "1.3.0",
+  "release_date": "2026-10-07 20:17:10",
   "release_notes": [
-    "إضافة ميزة تصدير ملف إكسال للغيابات .",
-    "تصحيح مشكل قص الاسم الطويل في التقرير ."
+    "إضافة زر لتفريغ قائمة التلاميذ (محلياً وعلى السيرفر) للتحضير للسنة الجديدة."
   ],
   "total_files": 1153,
-  "total_size": 277951175,
+  "total_size": 277952177,
   "files": {
     "81d243bd2c585b0f4821__mypyc.cp38-win_amd64.pyd": {
       "hash": "7384dbebf0bcbecae768fa92d800b644604c3b593945e0e4ea12fe4736427b78",
@@ -177,12 +176,12 @@
       "size": 22024
     },
     "base_library.zip": {
-      "hash": "cc0ba138bae91d7c112d78a5b3f127abcd4c4bb24e015cb02509625034c2f25a",
+      "hash": "4fcfc2edcde1fd031db87a07459d8fc0f02a5c413024268a0968f71b4b280ee6",
       "size": 1033057
     },
     "CanteenDesktop.exe": {
-      "hash": "2eb176e01e497ce26ae4a3042aa7dd9c0839e4cc35c446524194e5b9d90b6b3e",
-      "size": 13734068
+      "hash": "9addeb90f8d24ce0fc439e8fc55b3673bb586160a394b66eb47bb164dc424f9f",
+      "size": 13735070
     },
     "libcrypto-1_1-x64.dll": {
       "hash": "b9a553ea944e2a8f2bb9f5e4d5fe2771b433e65408f0bb7ce55d8abef94e23e2",
@@ -229,7 +228,7 @@
       "size": 1089536
     },
     "updater.exe": {
-      "hash": "5c3bdd377b5af41e50975d87928d796f345ddea311d9a16907a9a7c2dc5fb3c7",
+      "hash": "7ee153610495143bcb35054ae44a5722a168308c534ceae056394471b52d119f",
       "size": 47383898
     },
     "VCRUNTIME140.dll": {
